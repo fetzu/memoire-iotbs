@@ -1,0 +1,9 @@
+#!/bin/bash
+# I re-wrote this because it was broken. And I know, it sucks.
+# Add docx files manually as needed.
+PATH=$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin
+
+pandoc jbono_MEMOIRE_Bibliographie_STATUS.docx -o jbono_MEMOIRE_Bibliographie_STATUS.md
+pandoc jbono_MEMOIRE_Bibliographie.docx -o jbono_MEMOIRE_Bibliographie.md
+pandoc jbono_MEMOIRE_Filmographie.docx -o jbono_MEMOIRE_Filmographie.md
+pandoc jbono_MEMOIRE_Projet.docx -o jbono_MEMOIRE_Projet.md
