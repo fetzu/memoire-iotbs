@@ -14,47 +14,48 @@ it—it will reassemble in the same form. »*
 
 -William S. Burroughs, *Cities of the Red Night*.
 
-Dans son ouvrage consacré au remake[^1], Constantine Vervis se lamente
-du statut « moins que respectable »[^2] et du manque d’études
-académiques sérieuses concernant le remake[^3]. Pourtant, elle conclut
+Dans leurs ouvrages consacrés au remake[^1], Jennifer Forrest, Leonard
+Koos et Constantine Vervis se lamentent du statut « de pratique
+commerciale moins que respectable »[^2] et du manque d’études
+académiques sérieuses concernant le remake[^3]. Pourtant, Vervis conclut
 son analyse en rejoignant ce que toutes les études académiques
 concernant le remake finissent par postuler : tous les films sont un
-remake, puisque copier une schéma existant est l’opération de base du
+remake, puisque copier un schéma existant est l’opération de base du
 cinéma[^4]. Comme une très grande majorité des textes concernant le
-remake cinématographique, elle tente d’établir une taxinomie avant de
+remake cinématographique, Vervis tente d’établir une taxinomie avant de
 reconnaître que l’opération est vaine puisqu’il existera toujours des
 cas marginaux. Il semble finalement que de s’intéresser au remake en
 tant qu’objet revient à admettre qu’il n’existe pas vraiment[^5] et que
-toute tentative de le classifier est vaine et pas réellement productive.
+toute tentative de le classifier est vaine.
 
-Dans ce travail, nous proposons d’offrir une nouvelle approche à l’idée
-de remake à travers l’étude d’un film réalisé par Don Siegel et sorti
-sur les écrans américains le 5 février 1956[^6] et des 3 adaptations
-successives de son même romand source en 1978, 1993 et 2007 : *Invasion
-of the Body Snatchers*. Ce film de série B, diffusé en double programme
-avec un film de science-fiction britannique intitulé *The Atomic
-Man*[^7], réalisé avec un budget moindre[^8] et très largement ignoré
-par la critique, a depuis acquis le statut de *classique*, été l’objet
-de 3 *remakes* et la source d’innombrables études académiques depuis la
-fin des années 1970 ; dans des champs aussi divers que les études
-cinématographiques[^9], féministes[^10], bio-politiques[^11] ou
-économiques[^12]. De par ce pédigrée particulier, il nous semble un bon
-cas d’espèce pour aborder des questions de sérialité. De plus, le hasard
-veut que la contagion –en sens large– soit l’un des thèmes principaux de
-ces films mettant en scène une invasion biologique d’une communauté
-séculaire ou globale par un pathogène dédoublant ses membres afin de les
-remplacer. Notre étude vise donc à adresser la question de la sérialité
-et du remake à travers le concept de contagion culturelle, traitant des
-représentations offertes par ces films –et des discours qu’ils génèrent–
-comme une épidémie. Comme le signale Dan Sperber dans son introduction à
-*La contagion des idées*[^13], l’idée de contagion culturelle n’est pas
-nouvelle et pré-date celle du cinéma ; ce qui distingue notre études aux
-ouvrages déjà existants sur le sujet est la tentative d’application d’un
-modèle épidémiologique à un série de films. Plutôt que d’adopter pour
-une approche holistique consistant à justifier l’existence du *remake*
-par la structure économique du cinéma industriel ou à travers un
-contexte socio-historique, cette étude vise à démontrer qu’un *remake*
-(ou, d’une manière générale, la sérialité) est le fruit d’un cumul de
+Ce travail propose d’offrir une nouvelle approche du remake à travers
+l’étude d’un film réalisé par Don Siegel et sorti sur les écrans
+américains le 5 février 1956[^6], ainsi que 3 adaptations successives de
+son roman source[^7] en 1978, 1993 et 2007 : *Invasion of the Body
+Snatchers*. Ce film de série B, diffusé en double programme avec un film
+de science-fiction britannique intitulé *The Atomic Man*[^8], réalisé
+avec un budget moindre[^9] et largement ignoré par la critique, a depuis
+acquis le statut de *classique*, ayant été l’objet de 3 *remakes* et la
+source d’innombrables études académiques depuis la fin des années 1970 ;
+dans des champs aussi divers que les études cinématographiques[^10],
+féministes[^11], bio-politiques[^12] ou sociologiques[^13]. De par ce
+pédigrée particulier, il nous semble un bon cas d’espèce pour aborder
+des questions de sérialité. De plus, le hasard veut que la contagion –au
+sens large– soit l’un des thèmes principaux de ces films mettant en
+scène une invasion biologique d’une communauté par un pathogène qui
+dédouble ses membres pour les remplacer. Notre étude vise donc à
+adresser la question de la sérialité et du remake à travers le concept
+de « contagion culturelle », traitant des représentations offertes par
+ces films –et des discours qu’ils génèrent– comme une épidémie. Comme le
+signale Dan Sperber dans son introduction à *La contagion des
+idées*[^14], l’idée de contagion culturelle n’est pas nouvelle et
+pré-date celle du cinéma ; ce qui distingue notre étude des ouvrages
+déjà existants sur le sujet est la tentative d’appliquer un modèle
+épidémiologique à une série de films. Plutôt que d’adopter une approche
+holistique qui consiste à justifier l’existence du *remake* par la
+structure économique du cinéma industriel ou à travers un contexte
+socio-historique, la présente étude vise à démontrer qu’un *remake* (ou,
+d’une manière générale, la sérialité) est le fruit d’un cumul de
 microphénomènes précis ; raison pour laquelle l’étude se concentre sur
 *un* film et ses remakes plutôt qu’un plus grand ensemble.
 
@@ -65,21 +66,22 @@ Snatchers* peut-il être considéré comme le « patient zéro » d’une
 contamination culturelle ? Comment cette contagion culturelle a-t-elle
 contribué à la canonisation du film ?
 
-Afin d’offrir un élément de réponse, le travail propose dans un premier
-temps de dresser un état de l’Art des discours académiques et critiques
-autour de notre objet, pour ensuite offrir une première ébauche d’un
-modèle épidémiologique du cinéma à travers quelques éléments de
-définition et de propositions théoriques. Dans un troisième temps, il
-s’agira de s’attarder sur la série *Invasion of the Body Snatchers* et
-traitant tout d’abord de sa source littéraire, de sa première adaptation
-cinématographique par Don Siegel, de ses trois *remakes* successifs et
-de ses autres variations cinématographiques ou télévisuelles. Enfin, il
-s’agira d’évaluer la potentialité de la contagion culturelle comme un
-processus de canonisation en discutant de l’évolution du statut du film
-de Don Siegel à travers les facteurs que composent le *musée imaginaire*
-des spectateurs[^14], les mythes entourant la réalisation et diffusion
-des films et la place qu’il leur est accordée dans le champ de la
-recherche académique.
+Afin d’offrir un élément de réponse à ces questions, le travail propose
+dans un premier temps de dresser un état des discours académiques et
+critiques autour de notre objet, pour ensuite offrir une première
+ébauche d’un modèle épidémiologique du cinéma à travers quelques
+éléments de définition et de propositions théoriques. Dans un troisième
+temps, il s’agira d’examiner sur la série *Invasion of the Body
+Snatchers* et traitant tout d’abord de sa source littéraire, de sa
+première adaptation cinématographique par Don Siegel, de ses trois
+*remakes* successifs et de ses autres variations cinématographiques ou
+télévisuelles à l’aune de microphénomènes (socio-culturels, historiques
+ou narratifs). Enfin, il s’agira d’évaluer la potentialité de la
+contagion culturelle comme un processus de canonisation en discutant de
+l’évolution du statut du film de Don Siegel à travers les facteurs que
+composent le *musée imaginaire* des spectateurs[^15], les mythes
+entourant la réalisation et diffusion des films et la place qu’il leur
+est accordée dans le champ de la recherche académique.
 
 **PLAN**
 
@@ -87,7 +89,7 @@ Introduction générale
 
 I.  État de l’Art (Réception critique/Réception académique)
 
-    a.  Un « classique » et ses *remakes* vu par la critique
+    a.  Un « classique » et ses *remakes* vus par la critique
 
     b.  La question du genre
 
@@ -97,9 +99,9 @@ II. Remake, sérialité et épidémiologie des représentations
 
     a.  Éléments de définition
 
-        i.  Remake
+        i.  Série
 
-        ii. Série
+        ii. Remake
 
         iii. Mémétique
 
@@ -107,7 +109,7 @@ II. Remake, sérialité et épidémiologie des représentations
 
     c.  Récit cinématographique et sélection naturelle
 
-III. Invasion of the Body Snatchers et la contagion filmique
+III. *Invasion of the Body Snatchers* et la contagion filmique
 
     a.  Génome : *The Body Snatchers* de Jack Finney
 
@@ -120,7 +122,7 @@ III. Invasion of the Body Snatchers et la contagion filmique
 
 IV. La contagion culturelle comme processus de canonisation
 
-    a.  De *Collider’s* à Criterion
+    a.  De *Colliders* à Criterion
 
     b.  L’entrée dans le musée imaginaire
 
@@ -144,10 +146,8 @@ FINNEY, Jack, *The Body Snatchers*, New York, Dell Books, 1955.
 **Invasion of the Body Snatchers :**
 
 BADMINGTON, Neil, « Pod almighty!; or, humanism, posthumanism, and the
-strange
-
-case of *Invasion of the Body Snatchers* », *Textual Practice*, Vol. 15,
-No. 1, 2001, pp. 5-22.
+strange case of *Invasion of the Body Snatchers* », *Textual Practice*,
+Vol. 15, No. 1, 2001, pp. 5-22.
 
 BÉGHIN, Cyril (réd.), « L’invasion des profanateurs de sépultures »,
 *Livret et fiche transmettre le cinéma*, Cahiers du cinéma/CNC, Paris,
@@ -163,8 +163,9 @@ There?* and Finney's *Invasion of the Body Snatchers* »,
 DUPRÉ, Vincent, « L’Invasion des profanateurs de sépultures », *Jeune
 Cinéma*, No. 326-327, automne 2009, pp. 106-108.
 
-DURGNAT, Raymond, « Invasion of the Body Snatchers » in *Films and
-Filming*, Cambridge, MIT Press, 1968, pp. XXX-XXX.
+DURGNAT, Raymond, « Invasion of the Body Snatchers » in *The Essential
+Raymond Durgnat*, Henry K. Miller (éd.), London, BFI/Palgrave MacMillan,
+2014, pp. XXX-XXX.
 
 FREUND, Charles, « Pods over San Francisco », *Film Comment*, Vol. 15,
 No. 1, janvier/février 1979, pp. 22-25.
@@ -176,12 +177,8 @@ GREGORY, Charles T., « The Pod Society Versus the Rugged Individualists
 », *Journal of Popular Film*, Vol. 1, No. 1, hiver 1972, pp. 2-14.
 
 HENDERSHOT, Cyndy, « The Invaded Body: Paranoia and Radiation Anxiety in
-*Invaders*
-
-*from Mars*, *It Came from outer Space*, and *Invasion of the Body
-Snatchers* », *Extrapolation*,
-
-Vol. 39, No. 1, 1998, pp. 26-39.
+*Invaders from Mars*, *It Came from outer Space*, and *Invasion of the
+Body Snatchers* », *Extrapolation*, Vol. 39, No. 1, 1998, pp. 26-39.
 
 HIGASHI, Sumiko, « Invasion of the Body Snatchers: Pods then and now »,
 *Jump Cut*, No. 24-25, mars 1981, pp. 3-4.
@@ -193,8 +190,8 @@ KAEL, Pauline, « Pods » in Sanford Schwartz (éd.), *The Age of Movies:
 Selected Writings of Pauline Kael*, New York, Library of America, 2011,
 pp. 358-367.
 
-LAVALLEY, Al, *Invasion of the Body Snatchers*, New Brunswick, Rutgers
-University Press, 1989.
+LAVALLEY, Al (éd.), *Invasion of the Body Snatchers*, New Brunswick,
+Rutgers University Press, 1989.
 
 LAVERY, David, « Departure of the Body Snatchers, or the Confessions on
 a Carbon Chauvinist », *The Hudson Review*, Vol. 39, No. 3, automne
@@ -419,8 +416,28 @@ Oxford/Cambridge, Blackwell, 2002 \[1996\].
 THOMAS, Jean-Paul, « De la fâcheuse influence d’esprits mal équilibrés
 », *Communications*, Vol. 66, No. 1, 1998, pp. 147-164.
 
+TVTropes, <http://tvtropes.org/>, consulté le 20.11.2016.
+
 WALD, Priscilla, *Contagious: Cultures, Carriers, and the Outbreak
 Narrative*, Durham/London, Duke University Press, 2008.
+
+**Savoir, légitimation et canonisation :**
+
+BIANCHI, Petro, BURSI, Giulio et VENTURINI, Simone (éd.), *Il canone
+cinematografico : XVII Convegno internazionale di studi sul cinema*,
+Udine, Forum, 2011.
+
+EYERMAN, Ron, « The Past in the Present: Culture and the Transmission of
+Memory », *Acta Sociologica*, Vol. 47, No. 2, juin 2004, pp. 159-169.
+
+LYOTARD, Jean-François, *La condition postmoderne*, Paris, Les éditions
+de minuit, 1979.
+
+SCHRADER, Paul, « Cannon Fodder », *Film Comment*, septembre-octobre
+2006, pp. 33-49.
+
+STAIGER, Janet, « The Politics of Film Canons », *Cinema Journal*, Vol.
+24, No. 3, printemps 1985, pp. 4-23.
 
 **Politique et Histoire américaine :**
 
@@ -780,37 +797,59 @@ S01E19, « The Invisibles », 3 février 1963.
 
 *The Quatermass Experiment*, Nigel Kneale, BBC Four, 2005.
 
+*Invasion*, Shaun Cassidy, ABC, 2005.
+
 *South Park* (Trey Parker/Matt Stone, Comedy Central, 1997-), S17E04,
 « Goth Kids 3: Dawn of the Posers », 23 octobre 2013.
 
 *Rick & Morty* (Justin Roiland/Dan Harmon, Adult Swim, 2013-), S02E03, «
 Auto Erotic Assimilation », 9 aout 2015.
 
-[^1]: \[citation needed\]
+[^1]: Jennifer Forrest et Leonard R. Koos (éd.), *Dead Ringers: The
+    Remake in Theory and Practice*, Albany, State University of New York
+    Press, 2002 ; Constantine Vervis , Film Remakes, Edinburgh,
+    Edinburgh University Press, 2006.
 
-[^2]: \[citation needed\]
+[^2]: Jennifer Forrest et Leonard R. Koos (éd.), *ibid.*, p. 2.
 
-[^3]: \[citation needed\]
+[^3]: Constantine Vervis, *op. cit.*, p. 1.
 
-[^4]: \[citation needed\]
+[^4]: Constantine Vervis, *ibid.*, p. 177.
 
-[^5]: Ou alors qu’il est partout, ce qui annule sont intérêt en tant
+[^5]: Ou alors qu’il est partout, ce qui annule son intérêt en tant
     qu’objet.
 
-[^6]: \[citation needed\]
+[^6]: Barry Keith Grant, *Invasion of the Body Snatchers*, London,
+    BFI/Palgrave MacMillan, 2010, p. 7.
 
-[^7]: \[citation needed\]
+[^7]: Jack Finney, *The Body Snatchers*, New York, Dell Books, 1955 ; le
+    film étant en réalité une adaptation de la version *sérialisée* de
+    l’histoire de Finney publiée en 1954 dans *Colliders Magazine*, la
+    généalogie sera discutée en détail ultérieurement.
 
-[^8]: \[citation needed\]
+[^8]: Barry Keith Grant, *op. cit.*, p. 7.
 
-[^9]: \[citation needed\]
+[^9]: Al LaValley (éd.), *Invasion of the Body Snatchers*, New
+    Brunswick, Rutgers University Press, 1989, p. 3.
 
-[^10]: \[citation needed\]
+[^10]: Michel Chion, « Les enfants du remake. Sur deux versions des ‹
+    Body Snatchers › », *Positif*, No. 459, mai 1999, pp. 100-103.
 
-[^11]: \[citation needed\]
+[^11]: Nancy Steffen-Fluhr, « Women and the Inner Game of Don Siegel's
+    *Invasion of the Body Snatchers* », *Science Fiction Studies*, Vol.
+    11, No. 2, juillet 1984, pp. 139-153.
 
-[^12]: \[citation needed\]
+[^12]: Natania Meeker et Antónia Szabari, « From the Century of the Pods
+    to the Century of the Plants: Plant Horror, Politics, and Vegetal
+    Ontology », *Discourse*, Vol. 34, No. 1, hiver 2002, pp. 32-58.
 
-[^13]: Explication de la source en anglais
+[^13]: David Lavery, « Departure of the Body Snatchers, or the
+    Confessions on a Carbon Chauvinist *», The Hudson Review*, Vol. 39,
+    No. 3, automne 1986, pp. 383-404.
 
-[^14]: \[citation needed\]
+[^14]: Dan Sperber, *Explaining Culture: A Naturalistic Approach*,
+    Oxford/Cambridge, Blackwell, 2002 \[1996\], pp. 1-8 ; *La contagion
+    des idées* est le titre de la traduction française de l’ouvrage.
+
+[^15]: Concept développé dans Martin Lefebvre, *Psycho: De la figure au
+    musée imaginaire*, Montréal/Paris, Harmattan, 1997.

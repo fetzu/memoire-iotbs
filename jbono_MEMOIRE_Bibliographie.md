@@ -9,10 +9,8 @@ FINNEY, Jack, *The Body Snatchers*, New York, Dell Books, 1955.
 **Invasion of the Body Snatchers :**
 
 BADMINGTON, Neil, « Pod almighty!; or, humanism, posthumanism, and the
-strange
-
-case of *Invasion of the Body Snatchers* », *Textual Practice*, Vol. 15,
-No. 1, 2001, pp. 5-22.
+strange case of *Invasion of the Body Snatchers* », *Textual Practice*,
+Vol. 15, No. 1, 2001, pp. 5-22.
 
 BÉGHIN, Cyril (réd.), « L’invasion des profanateurs de sépultures »,
 *Livret et fiche transmettre le cinéma*, Cahiers du cinéma/CNC, Paris,
@@ -28,8 +26,9 @@ There?* and Finney's *Invasion of the Body Snatchers* »,
 DUPRÉ, Vincent, « L’Invasion des profanateurs de sépultures », *Jeune
 Cinéma*, No. 326-327, automne 2009, pp. 106-108.
 
-DURGNAT, Raymond, « Invasion of the Body Snatchers » in *Films and
-Feelings*, Cambridge, MIT Press, 1968, pp. XXX-XXX.
+DURGNAT, Raymond, « Invasion of the Body Snatchers » in *The Essential
+Raymond Durgnat*, Henry K. Miller (éd.), London, BFI/Palgrave MacMillan,
+2014, pp. XXX-XXX.
 
 FREUND, Charles, « Pods over San Francisco », *Film Comment*, Vol. 15,
 No. 1, janvier/février 1979, pp. 22-25.
@@ -41,12 +40,8 @@ GREGORY, Charles T., « The Pod Society Versus the Rugged Individualists
 », *Journal of Popular Film*, Vol. 1, No. 1, hiver 1972, pp. 2-14.
 
 HENDERSHOT, Cyndy, « The Invaded Body: Paranoia and Radiation Anxiety in
-*Invaders*
-
-*from Mars*, *It Came from outer Space*, and *Invasion of the Body
-Snatchers* », *Extrapolation*,
-
-Vol. 39, No. 1, 1998, pp. 26-39.
+*Invaders from Mars*, *It Came from outer Space*, and *Invasion of the
+Body Snatchers* », *Extrapolation*, Vol. 39, No. 1, 1998, pp. 26-39.
 
 HIGASHI, Sumiko, « Invasion of the Body Snatchers: Pods then and now »,
 *Jump Cut*, No. 24-25, mars 1981, pp. 3-4.
@@ -58,8 +53,8 @@ KAEL, Pauline, « Pods » in Sanford Schwartz (éd.), *The Age of Movies:
 Selected Writings of Pauline Kael*, New York, Library of America, 2011,
 pp. 358-367.
 
-LAVALLEY, Al, *Invasion of the Body Snatchers*, New Brunswick, Rutgers
-University Press, 1989.
+LAVALLEY, Al (éd.), *Invasion of the Body Snatchers*, New Brunswick,
+Rutgers University Press, 1989.
 
 LAVERY, David, « Departure of the Body Snatchers, or the Confessions on
 a Carbon Chauvinist », *The Hudson Review*, Vol. 39, No. 3, automne
@@ -284,8 +279,28 @@ Oxford/Cambridge, Blackwell, 2002 \[1996\].
 THOMAS, Jean-Paul, « De la fâcheuse influence d’esprits mal équilibrés
 », *Communications*, Vol. 66, No. 1, 1998, pp. 147-164.
 
+TVTropes, <http://tvtropes.org/>, consulté le 20.11.2016.
+
 WALD, Priscilla, *Contagious: Cultures, Carriers, and the Outbreak
 Narrative*, Durham/London, Duke University Press, 2008.
+
+**Savoir, légitimation et canonisation :**
+
+BIANCHI, Petro, BURSI, Giulio et VENTURINI, Simone (éd.), *Il canone
+cinematografico : XVII Convegno internazionale di studi sul cinema*,
+Udine, Forum, 2011.
+
+EYERMAN, Ron, « The Past in the Present: Culture and the Transmission of
+Memory », *Acta Sociologica*, Vol. 47, No. 2, juin 2004, pp. 159-169.
+
+LYOTARD, Jean-François, *La condition postmoderne*, Paris, Les éditions
+de minuit, 1979.
+
+SCHRADER, Paul, « Cannon Fodder », *Film Comment*, septembre-octobre
+2006, pp. 33-49.
+
+STAIGER, Janet, « The Politics of Film Canons », *Cinema Journal*, Vol.
+24, No. 3, printemps 1985, pp. 4-23.
 
 **Politique et Histoire américaine :**
 
