@@ -7,3 +7,4 @@ pandoc jbono_MEMOIRE_Bibliographie_STATUS.docx -o jbono_MEMOIRE_Bibliographie_ST
 pandoc jbono_MEMOIRE_Bibliographie.docx -o jbono_MEMOIRE_Bibliographie.md
 pandoc jbono_MEMOIRE_Filmographie.docx -o jbono_MEMOIRE_Filmographie.md
 pandoc jbono_MEMOIRE_Projet.docx -o jbono_MEMOIRE_Projet.md
+pandoc jbono_MEMOIRE_01-StateOfTheArt.docx -o jbono_MEMOIRE_01-StateOfTheArt.md

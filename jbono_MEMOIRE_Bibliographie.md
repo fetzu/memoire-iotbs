@@ -392,6 +392,9 @@ Monde*, 12 novembre 1967.
 DRUKER, Don, « Invasion of the Body Snatchers », *The Chicago Reader*,
 1956.
 
+F. J., « Invasion of the Body Snatchers », *Daily Film Reviewer*
+\[London\], 23 août 1956.
+
 FOX, Fred W., « Invasion of the Body Snatchers », *Mirror-News*, 1^er^
 mars 1956.
 
@@ -447,6 +450,9 @@ automne 1956, p. 112.
 *–*, « L’invasion des profanateurs de sépultures », *Figaro*, 17
 novembre 1967.
 
+*–*, « L’invasion des body-snatchers », *Télé libératrice(?)*, 24
+novembre 1967.
+
 **Invasion of the Body Snatchers \[1978\] :**
 
 BARTHOLEMEW, David, « invasion of the body snatchers », *Cinéaste*, Vol.
@@ -455,7 +461,7 @@ BARTHOLEMEW, David, « invasion of the body snatchers », *Cinéaste*, Vol.
 CHAZAL, Robert, « L’invasion des profanateurs. Nouvelle version »,
 *France Soir*, 15 février 1979.
 
-COMBR, Richard, « Invasion of the Body Snatchers », *Monthly Film
+COMBS, Richard, « Invasion of the Body Snatchers », *Monthly Film
 Bulletin*, 1^er^ janvier 1979.
 
 DE BARONCELLI, Jean, « L’invasion des profanateurs », *Le Monde*, 12
