@@ -592,7 +592,7 @@ BARTHOLEMEW, David, « invasion of the body snatchers », *Cinéaste*, Vol.
 CHAZAL, Robert, « L’invasion des profanateurs. Nouvelle version »,
 *France Soir*, 15 février 1979.
 
-COMBS, Richard, « Invasion of the Body Snatchers », *Monthly Film
+COMBR, Richard, « Invasion of the Body Snatchers », *Monthly Film
 Bulletin*, 1^er^ janvier 1979.
 
 DE BARONCELLI, Jean, « L’invasion des profanateurs », *Le Monde*, 12
