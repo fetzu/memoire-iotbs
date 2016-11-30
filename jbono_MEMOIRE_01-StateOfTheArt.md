@@ -1,5 +1,4 @@
-État de l’Art (réception critique/réception académique)
-=======================================================
+**Bilan historiographique (réception critique/réception académique)**
 
 En préambule à ce chapitre consacré à l’état de l’Art, il convient
 d’apporter quelques précisions méthodologiques quant au choix des
@@ -163,6 +162,100 @@ d’interprétation qu’il offre.
 La question du genre
 --------------------
 
+Si le statut du roman de Jack Finney en tant qu’œuvre de science-fiction
+ne fait aucun doute, d’une part à cause de son statut en tant que
+romancier[^52] mais surtout de par le contenu de *The Body Snatchers*
+lui-même, son adaptation cinématographique –et les remakes subséquents–
+jouent sur une ambiguïté des genres : dans le film de Don Siegel, le
+seul élément de science-fiction du film étant le discours du Dr. Danny
+Kauffman (Danny) lors de la confrontation avec le Dr. Miles Bennell
+(Miles) et Becky Driscoll (Becky) :
+
+> « \[…\] Then out of the sky came a solution. Seeds, drifting through
+> space for years, took root in a farmer’s field. From the seeds came
+> pods which have the power to reproduce themselves in the exact
+> likeness of any form of life.[^53] »
+
+Cette scène explicative, courante dans le cinéma hollywoodien de
+science-fiction[^54], renseigne le spectateur[^55] sur l’intention des
+antagonistes et confirme une suspicion émise par Miles (à un Danny
+encore inchangé) lors de l’inspection d’un corps dans une scène
+précédente. Ce monologue constitue la seule vraie référence à un élément
+science-fictionnel : aucun plan ne montre de vaisseau spécial, d’être
+extra-terrestre ou même de plan large de la planète terre. Les *pods*
+montrés en détail lors de la scène du barbecue n’ont aucune propriété
+qui pourrait mettre en doute, pour le spectateur moyen non diplômé en
+biologie, une origine terrestre ; aucun discours explicite n’est
+prononcé sur la radiation ou l’expérimentation scientifique. Le
+principal argument pour la classification du film dans le genre
+science-fiction provient du matériel publicitaire utilisé pour la
+promotion du film, certaines affiches utilisant la *slogan* « THEY come
+from another world ! »[^56], « The Things that came from another
+world ! »[^57] ou « Walter Wagner creates the ultimate in
+science-fiction ! »[^58]. En contrepoint, certaines affiches du film ne
+mentionnent aucun élément de science-fiction et présentent plutôt le
+film comme un film d’horreur[^59]. Cette ambiguïté dans le genre du film
+sont par exemple omniprésentes dans les critiques contemporaines à la
+sortie du film en France : si certains parlent de
+« science-fiction »[^60], d’autres le présentent comme un « film
+d’épouvante »[^61], un « film d’horreur »[^62] ou un « film à
+suspense »[^63]. Dans sa critique, Marcel Reguilhem va jusqu’à
+quadrupler la classification du film en parlant de « \[…\] le film
+(aventure, policier, fiction, épouvante) \[…\] »[^64]. Cette hybridité
+des genres est également constatée par les auteurs des textes
+académiques concernant le film, Al LaValley évoque les différents entre
+Walter Wagner et Allied Artists durant le processus de post-production
+du film, le studio semblant « befuddled by a film that did not clearly
+fit into science fiction or horror genre formats »[^65] menant à un
+« highly unstable text »[^66]. Barry Keith Grant accorde au film une
+esthétique de *film noir*[^67], une esthétique ensuite échangée pour
+« action et thriller »[^68] dans les remakes. Kathleen Loock va même
+jusqu’à affirmer que cette hybridité des genres est une marque de
+fabrique de la série *Invasion of the Body Snatchers *:
+
+> « Like Siegel’s *Invasion of the Body Snatchers*, then, each remake
+> plays with generic conventions, and mixes and blends different looks
+> and styles against the science fiction back-drop of the story, thereby
+> enhancing the aesthetic value and originality of each work. »
+
+Bien que, comme il l’a été relevé, la question du genre du premier film
+soit omniprésente dans la réception critique et académique autour du
+film, Loock est la seule auteure à faire référence aux changements de
+genre dans le cadre des remakes[^69]. Plutôt que d’évaluer la qualité
+horrifique d’un remake par rapport à l’orignal[^70], elle place
+l’hybridité générique au centre du processus de remake, en postulant que
+chaque film cherche à améliorer la value esthétique et l’originalité de
+ses prédécesseurs. Cette idée, mentionnée rapidement au tournant d’un
+chapitre, est ensuite laissée de côté au profit d’une comparaison des
+changements dans le récit des 4 films. La question du genre de chaque
+film individuel est donc relevée aussi bien dans la réception critique
+que dans les analyses académiques, sans pour autant –ou seulement
+partiellement– être mise en perspective dans le cadre de la série. Il
+conviendra donc d’accorder une place aux questions de genre et
+d’esthétique dans le troisième chapitre de ce travail.
+
+Si les questions d’hybridité et de changement de genres n’ont pas, ou
+peu, leur place dans les critiques et analyses liées au film, la
+question du récit –plus précisément de ses interprétations– et les liens
+qu’il entretient avec son contexte socio-historique sont quant à elles
+omniprésentes.
+
+Une métaphore pluri-sémantique, ou une foison d’interprétations
+---------------------------------------------------------------
+
+Il suffit de lire une demi-douzaine de textes concernant *Invasion of
+the Body Snatchers* pour constater que la nature simple et ouverte du
+récit offre une très grande possibilité d’interprétation, Raymond
+Durgnat va jusqu’à parler d’un « délire d’interprétations »[^71] élicité
+par les films. Offrir une rétrospective et discussion détaillée des
+interprétations publiées dans la presse quotidienne, spécialisée ou même
+académique constituerait en lui seul un travail de thèse de doctorant,
+tant ces dernières sont parfois complexes et inscrites dans un contexte
+particulier. Ce travail se limitera donc à dresser un tableau concis des
+interprétations les plus communément proposées en inscrivant ces
+dernières, et le film dont il est question, dans leur contexte
+socio-historique.
+
 [^1]: La présence de critiques issues de la revue hebdomadaire éditée
     par la BFI *Sight & Sound* ou du trimestriel *Cinéaste* pour les
     films de 1956, 1978 et 1993 font exception à cette règle.
@@ -316,3 +409,71 @@ La question du genre
     et 1993.
 
 [^51]: Keith Phipps, « The Invasion », *The A.V. Club*, 17 août 2007.
+
+[^52]: *Time and Again* (1970), un roman de science-fiction, étant
+    systématiquement cité lorsqu’il est question de l’auteur. Comme
+    c’est par exemple le cas pour l’édition 60^ème^ anniversaire the
+    *The Body Snatchers* qui identifie l’auteur par « Jack Finney.
+    Author of *Time and Again* » (voir figure XX).
+
+[^53]: Al LaValley (éd.), *op. cit.*, p. 87.
+
+[^54]: REF ?
+
+[^55]: Par le biais de son avatar filmique, Miles.
+
+[^56]: Affiche YY du film. Voir annexe XX
+
+[^57]: Publicités numéro 206, 209 et 303 du « Showmanship campaign
+    book » édité par Allied Artists pour la distribution américaine du
+    film.
+
+[^58]: Affiche YY du film. Voir annexe XX
+
+[^59]: L’affiche 2x77 éditée par Crystal Pictures pour la re-sortie du
+    film en 1977 décrit même le film comme « The All-Time *Horror*
+    Classic ». Voir annexe XX
+
+[^60]: Céline Boillon, « L’invasion des profanateurs de sépultures »,
+    *La Croix*, 11 janvier 1968 ; Jean De Baroncelli, « L’invasion des
+    profanateurs de sépultures », *Le Monde*, 12 novembre 1967 ; Robert
+    Chazal, « L’invasion des profanateurs de sépultures », *France
+    Soir*, 9 novembre 1967.
+
+[^61]: Garriou-Lagrange, « L’angoisse vous prend aux tripes »,
+    *Témoignage Chrétien*, 23 novembre 1967 ; S. L., « Invasion of the
+    Body-Snatchers. Ils volent le corps et l’esprit », *L’Humanité*, 8
+    novembre 1967.
+
+[^62]: C. S., « L’invasion des profanateurs de sépultures », *Combat*, 7
+    novembre 1967.
+
+[^63]: Michel Perez, « L’invasion des profanateurs de sépultures »,
+    *Combat*, 11 novembre 1967.
+
+[^64]: Marcel Reguilhem, « L’invasion des profanateurs de sépultures »,
+    *Réforme*, 18 novembre 1967.
+
+[^65]: Al LaValley (éd.), *op. cit.*, p. 4.
+
+[^66]: Al LaValley (éd.), *ibid.*, p. 5.
+
+[^67]: Barry Keith Grant, *op. cit.*, p. 50. Il convient de relever le
+    fait que la notion de *film noir* n’étant pas encore prévalante dans
+    la critique au moment de la sortie du film, et que les auteurs
+    académiques cités ici bénéficient d’un recul de presque un
+    demi-siècle par rapport à la sortie du film.
+
+[^68]: Kathleen Loock, « The Return of the Pod People: Remaking Cultural
+    Anxieties in *Invasion of the Body Snatchers* », in Constantine
+    Vervis et Kathleen Loock (éd.), *Film Remakes, Adaptations and Fan
+    Productions: Remake/Remodel*, Londres, Palgrave MacMillan, 2012, p.
+    133.
+
+[^69]: En se basant des textes critiques et ou académiques concernant
+    les 4 films.
+
+[^70]: Ce qui est le cas dans un nombre important des critiques
+    contemporaines de chacun des 3 remakes.
+
+[^71]: Raymond Durgnat, LLL, VVV, EEE, PPP.
