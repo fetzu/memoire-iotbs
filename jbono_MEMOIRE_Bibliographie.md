@@ -206,7 +206,7 @@ Consensus*, London/New York, I.B. Tauris, 2006.
 – *Hollywood’s Cold War*, Edinburgh University Press, Edinburgh, 2007.
 
 SONTAG, Susan, « The imagination of disaster », in *Against
-interpretation*, New York, Picador, 1966, pp.209-225.
+interpretation*, New York, Picador, 1966 \[1965\], pp. 209-225.
 
 TSUTSUI, William M., « Looking Straight at ‹ Them! › Understanding the
 Big Bug Movies of the 1950s », *Environmental History*, Vol. 12, No. 2,
@@ -321,6 +321,9 @@ NAVASKY, Victor S., *Naming Names*, New York, Open Road, 1991 \[1980\].
 
 STROSS, Landon R. Y., *The Second Red Scare and the Unmaking of the New
 Deal Left*, Princeton/Oxford, Princeton University Press, 2013.
+
+History, Art & Archives. United States House of Representatives,
+<http://history.house.gov/>, consulté le 04.12.2016.
 
 **Histoire de l’espionnage :**
 
@@ -452,6 +455,9 @@ novembre 1967.
 
 *–*, « L’invasion des body-snatchers », *Télé libératrice(?)*, 24
 novembre 1967.
+
+*–*, « Est. L’invasion des profanateurs de sépultures », *Révolution*,
+No. 320, 18 avril 1986.
 
 **Invasion of the Body Snatchers \[1978\] :**
 

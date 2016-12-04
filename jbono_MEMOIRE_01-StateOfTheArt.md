@@ -78,7 +78,7 @@ de l’époques manquent de mentionner est le sous-texte politique du film,
 chose qui n’échappe pas à la critique française lors de la sortie du
 film en France onze années plus tard, en 1967[^23]. Cette décennie
 écoulée permet en revanche aux critiques de qualifier le film de
-« premier film fantastique adulte »[^24], d’ « œuvre maitresse »[^25] ou
+« premier film fantastique adulte »[^24], d’« œuvre maitresse »[^25] ou
 de l’un des « meilleurs ouvrages de science-fiction qu’ait produit
 Hollywood »[^26] ; un processus qui va continuer lors des rediffusions
 ou réédition subséquentes du film en 1986 (« Le film de Siegel fait
@@ -115,7 +115,7 @@ adaptations for some time »[^32] et *Variety* va jusqu’à affirmer que
 « The new version not only matches the original in horrific tone and
 effect, but exceeds it in both conception and execution. »[^33].
 Beaucoup de critiques relèvent la « mise en scène luxueuse »[^34] et
-parfois « showy»[^35] qui entre en conflit direct avec la mise-en-scène
+parfois « showy »[^35] qui entre en conflit direct avec la mise-en-scène
 « swift, compact and efficient »[^36] du film de Siegel.
 
 Le bilan critique est encore plus gris pour la version réalisée par Abel
@@ -128,7 +128,7 @@ works ! »[^38]. Dans sa critique de *The Invasion*, il va même jusqu’à
 affirmer que la version de Ferrara est « by far the best \[of the
 series\] »[^39]. Malgré quelques exceptions, principalement
 francophones, qui décrivent un film « riche d’effets visuels et
-sonores »[^40] ou « adroit »[^41]. la grande majorité de la critique
+sonores »[^40] ou « adroit »[^41], la grande majorité de la critique
 juge le film « décevant »[^42], « hollow »[^43] voire « rageant, même
 fatiguant »[^44].
 
@@ -249,12 +249,106 @@ récit offre une très grande possibilité d’interprétation, Raymond
 Durgnat va jusqu’à parler d’un « délire d’interprétations »[^71] élicité
 par les films. Offrir une rétrospective et discussion détaillée des
 interprétations publiées dans la presse quotidienne, spécialisée ou même
-académique constituerait en lui seul un travail de thèse de doctorant,
+académique constituerait en lui seul un travail de thèse de doctorat,
 tant ces dernières sont parfois complexes et inscrites dans un contexte
-particulier. Ce travail se limitera donc à dresser un tableau concis des
-interprétations les plus communément proposées en inscrivant ces
+particulier. Cette partie se limitera donc à dresser un tableau concis
+des interprétations les plus communément proposées en inscrivant ces
 dernières, et le film dont il est question, dans leur contexte
 socio-historique.
+
+Dans les quelques critiques parues dans la presse quotidienne ou
+spécialisée anglophone au moment de la sortie du film de 1956, aucun
+auteur ne s’ose à offrir une interprétation au sens de la fable de Jack
+Finney. Cette lacune est attribuable à plusieurs facteurs : la longueur
+des critiques d’une part (très courtes et dépassant rarement les
+quelques lignes), la mise en avant de facteurs plus « industriels »
+(énumération des auteurs, producteurs et acteurs) ou « esthétiques »
+(l’aspect horrifique du film mentionné de manière récurrente), ou
+simplement le manque de recul. La critique contemporaine à la diffusion
+du film en France, en 1967, ancrée dans une autre pratique de la
+critique, offre déjà quelques pistes de lecture quant au sens des « pod
+people » : une première parle d’une sorte de « hippies avant la
+date »[^72] et une deuxième de « fascisme (le fascisme tuant l’individu
+en nous) »[^73]. Dans les deux cas, les interprétations offertes sont
+anachroniques au contexte de réalisation du film (la première attribuant
+au film un phénomène social apparu dans le milieu des années 1960[^74]
+et la deuxième y attachant un concept très vague du fascisme, qui trouve
+ses racines au début du XXème siècle et connaît son apogée immédiatement
+avant et durant la seconde Guerre Mondiale[^75]) et sont proposées sans
+grande justification. Dans toutes les critiques contemporaines aux
+sorties du film (anglophones et francophones), une seule fait mention du
+maccarthysme ; il s’agit de la critique française publiée dans
+l’Humanité[^76] qui décrit le contexte de production du film ainsi :
+« Réalisé aux Etats-Unis, il y a une douzaine d’années, immédiatement au
+bout du tunnel mac-carthyste »[^77]. Cette description, qui de par
+l’affiliation politique de sa source assigne au maccarthysme une
+connotation négative de période sombre à traverser, évoque un élément
+clé du contexte socio-politique entourant la sortie du film sans pour
+autant en offrir un lien explicite dans l’interprétation du film. Cette
+évocation préfigure pourtant une piste de lecture qui est centrale aux
+critiques ultérieures du film de Siegel (que l’on retrouve aussi bien
+dans de très courtes critiques[^78] que dans des critiques plus
+longues[^79]) mais aussi dans les articles académiques consacrés au
+film. La relecture de *Invasion of the Body Snatchers* comme une
+critique de son contexte socio-politique n’est pas unique et s’inscrit
+dans un contexte critique plus large de relecture des productions
+hollywoodiennes à l’aune de la Guerre Froide amorcée par le texte
+séminal de Susan Sontag publié en 1965 : « The Imagination of
+Disaster »[^80]. Dans cet essai, Sontag propose une analyse des schémas
+de la science-fiction qui révéleraient une imagination collective du
+désastre et illustreraient la perception d’un mode moderne
+déshumanisant. Elle postule que « Science fiction films are not about
+science. They are about disaster, which is one of the oldest subjects of
+all. »[^81], afin de défendre son argument, elle se base sur une série
+de films de science-fiction produits dans les années 1950 et dans la
+première moitié de la décennie suivante. Le thème central de ces films
+serait la dépersonnalisation, souvent signifiée à l’écran par la
+présence d’un « autre » à l’écran (dans le cas de *Invasion of the Body
+Snatchers*, d’un « regime of emotionlessness »[^82] composé de
+« unpersons »[^83]) censé refléter une condition humaine « always
+perilously close to insanity »[^84]. Si cette condition humaine n’est
+pas exclusive à la période de Guerre Froide « from a psychological point
+of view »[^85], elles le sont d’un point de vue politique et
+moral[^86] : la réponse de la société contemporaine à la rédaction du
+texte est, selon Sontag, inappropriée ; plutôt que de contribuer à
+révéler et à susciter la peur, la science-fiction en ferait que de la
+normaliser et d’en distraire. Si cette analyse effectuée par Sontag est
+très générique[^87] et concerne un corpus large de film quasiment
+contemporains à sa réaction, il démontre toutefois un intérêt pour le
+monde académique dans les liens qu’entretiennent films de série B[^88]
+avec leur contexte socio-culturel complexe que représente la Guerre
+Froide.
+
+Dans *Hollywood’s Cold War*[^89], Tony Shaw retrace l’impact de la
+Guerre Froide sur Hollywood. Plutôt que de s’intéresser à l’analyse ou
+la récession des films, Shaw se concentre sur la politique des studios
+hollywoodiens et son impact sur la production et la diffusion des films.
+Il attribue au cinéma hollywoodien une tendance à « raising social
+issues yet containing them in a satisfactory bourgeois
+resolutions »[^90] réconfortant le système capitaliste libéral
+américain. Cette tendance n’est pourtant pas le fruit d’une entente
+collective, mais d’une politique intentionnellement pratiquée par les
+studios. Dès la fin de la seconde Guerre Mondiale[^91], le grand écart
+idéologique provoqué par une guerre ayant permis à deux puissances aux
+idéologies radicalement opposées d’émerger, s’avère problématique pour
+certains décideurs Hollywoodiens. En 1948, la Motion Picture Alliance
+for the Preservation of American Ideals[^92] (MPA) édite un livret
+intitulé « A Screen Guide for Americans »[^93] destiné aux studios et
+les mettant en garde contre la diffamation du système de libre
+entreprise et la déification de l’homme ordinaire. Cette démarche
+limitée à l’industrie cinématographique s’inscrit dans un ensemble plus
+vaste de mouvements similaires, dont l’épitomé est incarné par le
+maccarthysme. Le Petit Robert (édition 2012) définit le maccarthysme
+comme « Politique de délation et de persécution menée aux Etats-Unis
+dans les années 50 contre les personnalités taxées de sympathies
+communistes (cf. Chasse aux sorcières) ». Bien que la chasse aux
+communistes par le gouvernement fédéral américain ait officiellement
+débutée en 1938 avec la création du « House Committee on Un-American
+Activities »[^94] (HUAC) chargé d’enquêter sur les groupes aux activités
+concernées comme « non américaines »[^95] ; et, bien que son nom soit à
+terme devenu l’adjectif signifiant les chasses aux sorcières politiques,
+le sénateur Joseph McCarthy n’a jamais été membre de cette organe
+gouvernemental officiel.
 
 [^1]: La présence de critiques issues de la revue hebdomadaire éditée
     par la BFI *Sight & Sound* ou du trimestriel *Cinéaste* pour les
@@ -477,3 +571,72 @@ socio-historique.
     contemporaines de chacun des 3 remakes.
 
 [^71]: Raymond Durgnat, LLL, VVV, EEE, PPP.
+
+[^72]: –, « L’invasion des body-snatchers », *Télé libératrice(?)*, *op.
+    cit.*
+
+[^73]: Jean De Baroncelli, *op. cit.*
+
+[^74]: REF ?
+
+[^75]: REF ?
+
+[^76]: Lors de la publication de la critique en novembre 1967, encore un
+    « organe central du parti communiste français ».
+
+[^77]: S. L., « Invasion of the Body-Snatchers. Ils volent le corps et
+    l’esprit », *L’Humanité*, *op. cit.*
+
+[^78]: *–*, « Est. L’invasion des profanateurs de sépultures »,
+    *Révolution*, No. 320, 18 avril 1986.
+
+[^79]: Dennis Lim, « A Second Look: ‘The Invasion of the Body Snatchers’
+    », *Los Angeles Times*, 20 juillet 2012.
+
+[^80]: Susan Sontag, « The imagination of disaster », in *Against
+    interpretation*, New York, Picador, 1966 \[1965\], pp. 209-225.
+
+[^81]: Susan Sontag, *ibid.*, p. 213.
+
+[^82]: Susan Sontag, *ibid.*, p. 221.
+
+[^83]: Susan Sontag, *ibid.*, p. 221.
+
+[^84]: Susan Sontag, *ibid.*, p. 221.
+
+[^85]: Susan Sontag, *ibid.*, p. 224.
+
+[^86]: Susan Sontag, *ibid.*, p. 224.
+
+[^87]: Puisque l’essai traite de la science-fiction comme d’un genre
+    cinématographique très clairement défini thématiquement et délimité
+    périodiquement, ce qui est un parti pris difficilement défendable.
+
+[^88]: Dans une définition plus large, puisqu’un certain nombre d’études
+    sont également consacrées à d’autres genres comme le western ou le
+    film noir.
+
+[^89]: Tony Shaw, *Hollywood’s Cold War*, Edinburgh University Press,
+    Edinburgh, 2007.
+
+[^90]: Tony Shaw, *ibid.*, p. 12.
+
+[^91]: Qui a fortement mobilisé toute l’industrie cinématographique
+    américaine au profit d’une machine politique soutenant l’entrée des
+    Etats-Unis d’Amérique dans le conflit. Voir J. Hoberman, *An Army of
+    Phantoms: American Movies and the Making of the Cold War*, New
+    York/London, The New Press, 2011, pp. 19-30.
+
+[^92]: Un groupe de pression de droite militant fondé en 1944.
+
+[^93]: Tony Shaw, *op. cit.*, p. 46.
+
+[^94]: « Historical Highlights. The permanent standing House Committee
+    on Un-American Activities », History, Art & Archives. United States
+    House of Representatives, <http://history.house.gov/>, consulté le
+    04.12.2016
+
+[^95]: Au moment de sa création, le champ principal d’investigation
+    était les groupes fascistes ; champ qui va ensuite se modifier au
+    sortir de la seconde Guerre Mondiale en plaçant les groupes
+    communistes en son centre.
