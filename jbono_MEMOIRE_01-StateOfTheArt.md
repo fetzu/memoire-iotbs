@@ -348,7 +348,122 @@ Activities »[^94] (HUAC) chargé d’enquêter sur les groupes aux activités
 concernées comme « non américaines »[^95] ; et, bien que son nom soit à
 terme devenu l’adjectif signifiant les chasses aux sorcières politiques,
 le sénateur Joseph McCarthy n’a jamais été membre de cette organe
-gouvernemental officiel.
+gouvernemental officiel[^96]. Sur l’industrie cinématographique, la
+conséquence directe de cette « chasse aux sorcières » est
+l’établissement d’une liste officieuse de membres de l’industrie aux
+sympathies pro-communistes par les studios : la « Hollywood
+Blacklist »[^97]. Les noms sur cette liste noire n’ont jamais été
+officiellement publiés par les studios, et seul les noms des « Hollywood
+Ten », condamnés officiellement par la HUAC en 1947[^98], sont
+définitivement connus. La blacklist aura une influence forte sur la
+production cinématographique américaine des années 1940 jusqu’au milieu
+des années 1960[^99]: elle forcera d’une part un certain nombre de
+scénaristes de travailler sous un faux nom ou de diffuser leurs œuvres
+via des pairs[^100], encouragera certains professionnels à enfouir
+l’idéologie politique de leur film sous plusieurs couches de
+lecture[^101] et, selon Andrew Dowdy, sera économiquement profitable aux
+studios en recherche de scénaristes moins chers[^102].
+
+L’impact de la blacklist sur *Invasion of the Body Snatchers* est
+rarement discutée : complètement absente de la réception critique du
+film[^103], elle est mentionnée dans certaines monographies vouées au
+film. Barry Keith Grant suggère que la carrière du scénariste du film,
+Daniel Mainwaring, « suffered because of the blacklist »[^104] et que le
+producteur Walter Wagner était un « college-level educated intellectual
+of liberal politics » connu pour ses « genre films with a
+message »[^105]. Ces affirmations sont toutefois fondées sur des
+qui-dires (dans le cas de Mainwaring, de témoignages *a* posteriori de
+l’un de ses collaborateurs de longue date par exemple[^106]), Al
+LaValley est le seul à adresser la question de l’affiliation politique
+du scénariste qui « may have been a communist in the thirties »[^107] en
+citant une lettre de Siegel lui étant adressée comme « Daniel Mainwaring
+–né Geoffrey Holmes– member (non-paying) of the Older Communist
+League »[^108]. Si LaValley suggère que cette formule d’adresse soit une
+note d’humour de la part de Siegel taquinant les noms de plume utilisés
+par l’auteur, elle révèle de sa part une connaissance de ses éventuelles
+affiliations politiques de son scénariste dans une époque ou être
+(ouvertement) politique à Hollywood pouvait s’avérer très dangereux. Au
+sujet de Wagner, LaValley offre une autre lecture : si ses affiliations
+auraient pu suggérer une tendance *de gauche* avant la deuxième moitié
+des années 1940, il rappelle que Wagner est l’un des quatre auteurs du
+« Waldorf Statement » de novembre 1947[^109], acte fondateur pour la
+mise en place de la blacklist hollywoodienne. La question de
+l’affiliation politique de Siegel est quand-à-elle balayée dans les
+textes liés au film, LaValley parle d’un « outsider and politically
+unaligned »[^110] ; ce travail reviendra sur l’idéologie de Siegel
+traitée dans des articles ou monographies dédiées à sa carrière dans son
+ensemble. Concernant des remakes, il est assez peu question du contexte
+du production des films. Les critiques et articles académiques sont par
+contre plus emprunts à offrir leurs interprétations : le film de Kaufman
+souvent lié au contexte « paranoïaque post-Watergate »[^111], celui de
+Ferrera à la peur du SIDA[^112], et la version de Hirschbiegel à
+l’Amérique post-11 septembre 2001[^113].
+
+Du corpus d’écrits concernant le film, une série d’articles –publiés
+dans un cadre académiques– peut être isolée de par leur approche :
+plutôt que de s’aligner avec une interprétation socio-politique liée au
+contexte de la production du film, ces textes visent à éclairer le film
+à l’aune d’une approche souvent liée au contexte de leur rédaction.
+C’est par exemple le cas du texte de Nancy Steffen-Fluhr[^114] qui
+propose une interprétation féministe du film en se concentrant sur les
+relations qu’entretiennent les protagonistes du film (Miles et Becky) en
+postulant que la source de peur du film ne sont pas les pods mais plutôt
+la « burgeoning intimacy »[^115] de Miles envers Becky : cette peur de
+l’autre reflèterait selon l’auteure l’impact des changements
+socio-économiques sur les rôles de genre traditionnels[^116]. Une
+interprétation genrée similaire est également présente dans l’ouvrage de
+Michael Rogin[^117] consacré à l’impact de la présidence de Ronald
+Reagan et le phénomène de démonologie qu’il lui lie. Dans les deux cas,
+le film –et son interprétation– est utilisé comme exemple dans une
+analyse concernant un phénomène plus vaste : plutôt que de chercher à
+trouver une raison d’être du film dans son contexte, les deux auteurs
+attribuent au film une lecture *au-delà* du contexte de la chasse aux
+sorcières en analysant sa représentation des relations homme-femme et
+leur dynamique. Dans le cas de ces deux textes, le contexte de leur
+publication (1984 et 1987, respectivement) correspond à un regain
+d’intérêt pour les approches féministes dans le cadre de la « film
+theory » aux Etats-Unis[^118]. Hoberman confère au film un rôle
+quasi-médical, en soulignant que la condition psychologique vécue par
+certains personnages du film[^119] est un trouble psychologique connu et
+documenté[^120] sous le nom de « syndrome de Capgras »[^121]. Il file
+ensuite cette métaphore médicale pour défendre que le film révèle une
+« peur darwinienne »[^122] d’évolution sociale vers un état de
+résolution des conflits sociaux et des peurs individuelles qu’incarne à
+l’époque le communisme. Dans ce cas également, l’approche est
+révélatrice d’un *phénomène de mode* dans la théorie qui tend vers une
+pluridisciplinarité en appliquant une lecture nouvelle au film. Les
+exemples d’utilisation d’interprétation du film à des fins
+d’argumentation est récurrente dans les articles académiques, et touche
+des domaines parfois surprenants[^123], et démontre d’une part la
+pluri-sémanticité du film et d’autre part son impact sur la mémoire
+collective américaine.
+
+Une autre voie d’interprétation du film est offerte dans la
+monographie[^124] consacrée à l’œuvre de Siegel et dans un article
+académique[^125]. Dans les deux cas, les auteurs évoquent le film dans
+le contexte global de l’œuvre de Siegel plutôt que dans son contexte de
+production/réception : ils notent dans l’œuvre de Siegel le thème
+récurrent de l’individualiste et son rejet de la société qui l’entoure.
+Dans ce cas, les auteurs sous-entendent que le film aurait été choisi
+par Siegel car il permettrait de mettre en son centre ce thème
+récurrent. Cette approche souffre de certaines limites[^126], mais
+permet d’aborder le film sous un autre œil que celui de son contexte
+socio-économique pur.
+
+Au vu du nombre d’interprétations que le film (et ses remakes) ont
+suscité, il est difficile de contredire le « délire d’interprétations »
+proposé par Durgnat. Ce chapitre a permis d’effectuer une rétrospective
+sur la réception critique des films en se focalisant sur la manière dont
+les discours se construisent autour du lien qu’entretient un film avec
+ses prédécesseurs, il a également été question de l’hybridité générique
+des films et de ses conséquences supposées sur la *série*, et,
+finalement, il a été question de la foison d’interprétations offerte
+aussi bien par la critique que par le milieu académique. Cette réception
+critique et académique posée, il s’agit maintenant de préciser et
+d’affiner certains concepts liés d’une part à la sérialité et d’autre
+part au phénomène de *sélection naturelle* que cette sérialité engendre
+dans le cadre d’une représentation culturelle publique telle que le
+cinéma.
 
 [^1]: La présence de critiques issues de la revue hebdomadaire éditée
     par la BFI *Sight & Sound* ou du trimestriel *Cinéaste* pour les
@@ -639,4 +754,110 @@ gouvernemental officiel.
 [^95]: Au moment de sa création, le champ principal d’investigation
     était les groupes fascistes ; champ qui va ensuite se modifier au
     sortir de la seconde Guerre Mondiale en plaçant les groupes
-    communistes en son centre.
+    pro-communistes en son centre.
+
+[^96]: Mais présidait en réalité le « Comité sur la sécurité intérieure
+    et les affaires gouvernementales », dont il se servit pour lancer un
+    grand nombre d’enquêtes sur des employés gouvernementaux ou
+    paragouvernementaux auxquels on supposait une affiliation politique
+    procommuniste. Voir Stanton M. Evans, *Blacklisted by History: The
+    Untold Story of Senator Joe McCarthy and his Fight Against America’s
+    Enemies*, New York, Crown Forum, 2007, p. 26.
+
+[^97]: Tony Shaw, *op. cit.*, p. 45-46.
+
+[^98]: Frank Kutnik, Steve Neale, Brian Neve et Peter Stanfield (éds.),
+    *“Un-American” Hollywood*, New Brunswick/New Jersey/London, Rutgers
+    University Press, 2007, p. 11.
+
+[^99]: Tony Shaw, *op. cit.*, p. 164.
+
+[^100]: Frank Kutnik, Steve Neale, Brian Neve et Peter Stanfield (éds.),
+    *op. cit.*, p. 103.
+
+[^101]: Un phénomène de contournement des règles déjà présent dans le
+    cinéma Hollywoodien dès l’adoption officielle du code Hays par la
+    Motion Picture Association of America (MPAA) en 1934.
+
+[^102]: Andrew Dowdy, *The films of the fifties: The American state of
+    mind*, New York, Morrow, 1973, p. 30.
+
+[^103]: Y compris dans les critiques publiées à partir des années 1970
+    dans le cadre de ressorties du film sur divers supports.
+
+[^104]: Barry Keith Grant, *op. cit.*, p. 33.
+
+[^105]: Barry Keith Grant, *ibid.*, p. 30.
+
+[^106]: Michel Ciment, *Conversations with Losey*, London, Methuen &
+    Company, 1985, p. 78.
+
+[^107]: Al LaValley (éd.), *op. cit.*, p. 7.
+
+[^108]: Lettre de Don Siegel à Daniel Mainwaring datant du 17 janvier
+    1955.
+
+[^109]: Al LaValley (éd.), *op. cit.*, p. 12-13.
+
+[^110]: Al LaValley (éd.), *ibid.*, p. 18.
+
+[^111]: Howard Hughes, *Outer Limits: The Filmgoer’s Guide to the Great
+    Science-Fiction Films*, London, I.B. Tauris, 2014, p. 53.
+
+[^112]: Une interprétation récurrente dans la réception critique du
+    film, qui trouve probablement sa source dans les réponses données
+    par le réalisateur dans des interviews concernant le film lors de sa
+    diffusion à cannes (et très certainement répétées en boucle lors des
+    *press junkets* ou dans les dossiers de presse). Voir par exemple
+    les réponses données par Ferrara dans Jean-Luc Wachthausen, « Abel
+    Ferrara, un allumé chez les martiens », *Le Figaro*, 15 mai 1993 et
+    François Jonquet, « Abel Ferrara a soif de mal », *Globe Hebdo*, 19
+    mai 1993.
+
+[^113]: Contexte explicité par une grande majorité de critiques, mais
+    dont beaucoup regrettent le manque de parti-pris politique sur des
+    sujets d’actualité comme la guerre en Irak. Voir par exemple Roger
+    Ebert, « The Invasion », *Chicago Sun-Times*, 16 août 2007.
+
+[^114]: Nancy Steffen-Fluhr, « Women and the Inner Game of Don Siegel's
+    *Invasion of the Body Snatchers* », *Science Fiction Studies*, Vol.
+    11, No. 2, juillet 1984, pp. 139-153.
+
+[^115]: Nancy Steffen-Fluhr, *ibid.*, p. 140.
+
+[^116]: Nancy Steffen-Fluhr, *ibid.*, p. 143.
+
+[^117]: Michael Rogin, *Ronald Reagan: The Movie,* *and Other Episodes
+    in Political Demonology*, Berkeley/Los Angeles/London, University of
+    California Press, 1988 \[1987\].
+
+[^118]: Patricia Erens (éd.), *Issues in Feminist Film Criticism*,
+    Bloomington, Indiana University Press, 1990. p. xvii.
+
+[^119]: Quand, par exemple, Wilma se plaint de ne plus reconnaître son
+    oncle.
+
+[^120]: Joseph Capgras, « L'illusion des ‹ sosies › dans un délire
+    systématisé chronique », *Bulletin de la Société clinique de
+    médecine mentale*, No. 11, 1923, pp. 6-16.
+
+[^121]: J. Hoberman, *op. cit.*, p. 215.
+
+[^122]: J. Hoberman, *ibid.*, p. 216.
+
+[^123]: Avec, par exemple, un article utilisant les films de 1956 et
+    1978 pour parler d’écologie. Voir Natania Meeker et Antónia Szabari,
+    « From the Century of the Pods to the Century of the Plants: Plant
+    Horror, Politics, and Vegetal Ontology », *Discourse*, Vol. 34, No.
+    1, hiver 2002, pp. 32-58.
+
+[^124]: Alan Lovell, « Don Siegel », London, BFI, 1977 \[1975\].
+
+[^125]: Charles T. Gregory, « The Pod Society Versus the Rugged
+    Individualists », *Journal of Popular Film*, Vol. 1, No. 1, hiver
+    1972, pp. 2-14.
+
+[^126]: La plus évidente serait d’attribuer toute « l’écriture » du film
+    à Siegel, alors que les documents d’archives et sa source littéraire
+    montrent très clairement que le processus et le fruit d’une
+    collaboration entre plusieurs individus.

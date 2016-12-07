@@ -180,6 +180,10 @@ the Seventies Film in America*, Ithaca, Cornell University Press, 2012.
 KRACAUER, Siegfried, *De Caligari à Hitler*, trad. de l’anglais par
 Claude B. Levenson, Lausanne, L’âge d’homme, 2009 \[1946\].
 
+KUTNIK, Frank, NEALE, Steve, NEVE, Brian et STANFIELD, Peter (éds.),
+*“Un-American” Hollywood*, New Brunswick/New Jersey/London, Rutgers
+University Press, 2007.
+
 MATTHEWS, Melvin E. Jr, *Hostile Aliens, Hollywood and Today’s News.
 1950s Science Fiction Films and 9/11*, New York, Algora Publishing,
 2007.
