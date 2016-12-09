@@ -49,6 +49,10 @@ HIGASHI, Sumiko, « Invasion of the Body Snatchers: Pods then and now »,
 HOBERMAN, J., « Paranoia and the Pods », *Sight and Sound*, Vol. 4, No.
 5, mai 1994, pp. 28-31.
 
+JOHNSON, Glen M., « We’d Fight… We Had To. *The Body Snatchers* as Novel
+and Film », *Journal of Popular Culture*, Vol. 13, No. 1, été 1979, pp.
+5-16.
+
 KAEL, Pauline, « Pods » in Sanford Schwartz (éd.), *The Age of Movies:
 Selected Writings of Pauline Kael*, New York, Library of America, 2011,
 pp. 358-367.
