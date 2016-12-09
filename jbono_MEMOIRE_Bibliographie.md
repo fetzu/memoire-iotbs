@@ -2,7 +2,21 @@
 
 ***Sources primaires :***
 
-FINNEY, Jack, *The Body Snatchers*, New York, Dell Books, 1955.
+FINNEY, Jack,
+
+– « *The Body Snatchers (First of Tthree Parts)* », *Collider’s*, 26
+novembre 1954, pp. 26-27 + 90-99.
+
+– « *The Body Snatchers (Second of tthree Parts)* », *Collider’s*, 10
+décembre 1954, pp. 114-125.
+
+– « *The Body Snatchers (Conclusion)* », *Collider’s*, 24 décembre 1954,
+pp. 62-73.
+
+*– The Body Snatchers*, New York, Dell Books, 1955.
+
+– *Invasion of the Body Snatchers*, New York/London/Toronto/Syndney/New
+Delhi, Touchstone, 2015 \[1989\].
 
 ***Littérature secondaire :***
 
@@ -32,6 +46,9 @@ Raymond Durgnat*, Henry K. Miller (éd.), London, BFI/Palgrave MacMillan,
 
 FREUND, Charles, « Pods over San Francisco », *Film Comment*, Vol. 15,
 No. 1, janvier/février 1979, pp. 22-25.
+
+GEORGI, Sonja et LOOCK, Kathleen (éd.), *Of Body Snatchers and
+Cyberpunks*, Göttingen, University of Göttingen Press, 2011.
 
 GRANT, Barry Keith, *Invasion of the Body Snatchers*, London,
 BFI/Palgrave MacMillan, 2010.
@@ -79,6 +96,10 @@ pp. 49-68.
 
 MCGEE, Mark Thomas, *Invasion of the Body Snatchers: The Making of a
 Classic*, Duncan, BearManor, 2012.
+
+NELSON, Erika, « *Invasion of the Body Snatchers*: Gender and Sexuality
+in Four Film Adaptations », *Extrapolation*, Vol. 52, No. 1, 2011, pp.
+51-74.
 
 PEDERSEN, Hellen M., STEFFEN-FLUHR, Nancy, « Altering Invasion of the
 Body Snatchers », *Science Fiction Studies*, Vol. 12, No. 1, mars 1985,

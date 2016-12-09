@@ -12,7 +12,7 @@ I.  Bilan historiographique (Réception critique/Réception académique)
 
 II. Mauvaises graines : de la nouvelle sérielle au film
 
-    a.  Adaptation : du *serial* au film
+    a.  Adaptation : du *feuilleton* à la *série B*
 
     b.  Du film au roman
 
