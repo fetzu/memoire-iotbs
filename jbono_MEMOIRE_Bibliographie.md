@@ -4,10 +4,10 @@
 
 FINNEY, Jack,
 
-– « *The Body Snatchers (First of Tthree Parts)* », *Collider’s*, 26
+– « *The Body Snatchers (First of Three Parts)* », *Collider’s*, 26
 novembre 1954, pp. 26-27 + 90-99.
 
-– « *The Body Snatchers (Second of tthree Parts)* », *Collider’s*, 10
+– « *The Body Snatchers (Second of three Parts)* », *Collider’s*, 10
 décembre 1954, pp. 114-125.
 
 – « *The Body Snatchers (Conclusion)* », *Collider’s*, 24 décembre 1954,
