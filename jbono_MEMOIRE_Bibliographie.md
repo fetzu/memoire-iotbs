@@ -15,6 +15,10 @@ pp. 62-73.
 
 *– The Body Snatchers*, New York, Dell Books, 1955.
 
+*– The Invasion of the Body Snatchers*, New York, Fireside, 1989.
+
+*– Invasion of the Body Snatchers*, New York, Prion, 1999.
+
 – *Invasion of the Body Snatchers*, New York/London/Toronto/Syndney/New
 Delhi, Touchstone, 2015 \[1989\].
 
