@@ -9,3 +9,4 @@ pandoc jbono_MEMOIRE_Projet.docx -o jbono_MEMOIRE_Projet.md
 pandoc jbono_MEMOIRE_Plan.docx -o jbono_MEMOIRE_Plan.md
 pandoc jbono_MEMOIRE_XX-StateOfTheArt.docx -o jbono_MEMOIRE_XX-StateOfTheArt.md
 pandoc jbono_MEMOIRE_01-Novel.docx -o jbono_MEMOIRE_01-Novel.md
+pandoc jbono_MEMOIRE_02-Movies.docx -o jbono_MEMOIRE_02-Movies.md
