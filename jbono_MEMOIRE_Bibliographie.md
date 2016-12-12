@@ -152,6 +152,10 @@ HORTON, Andrew et MCDOUGAL, Stuart Y. (éd), *Play it again, Sam –
 Retakes on Remakes*, Berkeley/Los Angeles, London, University of
 California Press, 1998.
 
+JESS-COOKE, Carolyn et VERVIS, Constantine, *Second Takes: Critical
+Approaches to the Film Sequel*, Albany, State University of New York
+Press, 2010.
+
 LEFEBVRE, Martin, *Psycho: De la figure au musée imaginaire*,
 Montréal/Paris, Harmattan, 1997.
 

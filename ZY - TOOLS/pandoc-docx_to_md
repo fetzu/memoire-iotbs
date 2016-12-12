@@ -5,8 +5,9 @@ PATH=$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin
 
 pandoc jbono_MEMOIRE_Bibliographie.docx -o jbono_MEMOIRE_Bibliographie.md
 pandoc jbono_MEMOIRE_Filmographie.docx -o jbono_MEMOIRE_Filmographie.md
+pandoc jbono_MEMOIRE_Annexes.docx -o jbono_MEMOIRE_Annexes.md
 pandoc jbono_MEMOIRE_Projet.docx -o jbono_MEMOIRE_Projet.md
 pandoc jbono_MEMOIRE_Plan.docx -o jbono_MEMOIRE_Plan.md
-pandoc jbono_MEMOIRE_XX-StateOfTheArt.docx -o jbono_MEMOIRE_XX-StateOfTheArt.md
-pandoc jbono_MEMOIRE_01-Novel.docx -o jbono_MEMOIRE_01-Novel.md
-pandoc jbono_MEMOIRE_02-Movies.docx -o jbono_MEMOIRE_02-Movies.md
+pandoc jbono_MEMOIRE_01-StateOfTheArt.docx -o jbono_MEMOIRE_01-StateOfTheArt.md
+pandoc jbono_MEMOIRE_02-Novel.docx -o jbono_MEMOIRE_02-Novel.md
+pandoc jbono_MEMOIRE_03-Movies.docx -o jbono_MEMOIRE_03-Movies.md
