@@ -400,6 +400,12 @@ janvier/février 1979, pp. 26-31.
 
 LOVELL, Alan, « Don Siegel », London, BFI, 1977 \[1975\].
 
+**Analyse de films (ie: catégorie poubelle) :**
+
+ODIN, Roger, « L’entrée du spectateur dans la fiction », *in* Jaques
+Aumont et Jean-Louis Leutrat (éds.), *Théorie du film*, Paris, Albatros,
+1980, pp. 198-213.
+
 ***Réception critique :***
 
 **Invasion of the Body Snatchers \[1956\] :**
