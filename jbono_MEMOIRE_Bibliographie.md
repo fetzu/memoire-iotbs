@@ -126,6 +126,9 @@ Vol. 78, No. 3, mars 1997, pp. 77-81.
 
 **Remake, sérialité, hypertextualité :**
 
+BENASSI, Stéphane, « Sérialité(s) », *in* Sarah Sepulchre (dir.),
+*Décoder les séries télévisées*, Bruxelles, De Boeck, 2011, pp. 75-105.
+
 BERTON, Mireille et PORTMANN, Sylvain (dir.), « Dossier : séries
 télévisées contemporaines », *Décadrages*, No. 32-33, printemps 2016,
 pp. 12-166.
@@ -395,12 +398,19 @@ CIEUTAT, Michel, « Philip Kaufman ou l’éclectisme comme humanisme »,
 DEMPSEY, « Invaders and Encampments: The Films of Philip Kaufman »,
 *Film Quarterly*, Vol. 32, No. 2, hiver 1978-1979, pp. 17-27.
 
-FABER, Stephen, « Hollywood Maverick », *Film Comment*, Vol. 15, No. 1,
+FARBER, Stephen, « Hollywood Maverick », *Film Comment*, Vol. 15, No. 1,
 janvier/février 1979, pp. 26-31.
 
-LOVELL, Alan, « Don Siegel », London, BFI, 1977 \[1975\].
+INSDORF, Annette, *Philip Kaufman*, Urbana/Chicago, University of
+Illinois Press, 2012.
 
-**Analyse de films (ie: catégorie poubelle) :**
+LOVELL, Alan, *Don Siegel*, London, BFI, 1977 \[1975\].
+
+**A TRIER :**
+
+BENSON-ALOTT, Caetlin, *Killer Tapes and Shattered Screens. Video
+Spectatorship from VHS to File Sharing*, Berkley/Los Angeles/London,
+University of California Press, 2013.
 
 ODIN, Roger, « L’entrée du spectateur dans la fiction », *in* Jaques
 Aumont et Jean-Louis Leutrat (éds.), *Théorie du film*, Paris, Albatros,
@@ -436,7 +446,7 @@ DE BARONCELLI, Jean, « L’invasion des profanateurs de sépultures », *Le
 Monde*, 12 novembre 1967.
 
 DRUKER, Don, « Invasion of the Body Snatchers », *The Chicago Reader*,
-1956.
+1997.
 
 F. J., « Invasion of the Body Snatchers », *Daily Film Reviewer*
 \[London\], 23 août 1956.

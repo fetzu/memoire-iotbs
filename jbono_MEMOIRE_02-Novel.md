@@ -507,7 +507,6 @@ versions filmiques. Les constats formulés par ce chapitre permettent de
 dresser un premier bilan quant au rôle du remake dans le processus de
 canonisation d’une œuvre filmique adaptée d’une source littéraire[^104],
 et de mesurer le rôle de l’instabilité de la source comme créatrice de
-
 conditions favorables à la sérialité.
 
 [^1]: En trois parties dans les numéros du 26 novembre, 10 et 24
