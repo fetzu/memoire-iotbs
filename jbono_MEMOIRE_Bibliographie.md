@@ -75,8 +75,8 @@ and Film », *Journal of Popular Culture*, Vol. 13, No. 1, été 1979, pp.
 5-16.
 
 KAEL, Pauline, « Pods » in Sanford Schwartz (éd.), *The Age of Movies:
-Selected Writings of Pauline Kael*, New York, Library of America, 2011,
-pp. 358-367.
+Selected Writings of Pauline Kael*, New York, Library of America, 2011
+\[1978\], pp. 358-367.
 
 LAVALLEY, Al (éd.), *Invasion of the Body Snatchers*, New Brunswick,
 Rutgers University Press, 1989.
@@ -257,6 +257,9 @@ décembre 2001/janvier 2002, pp. 20-23.
 
 **Films de science-fiction, films d’horreur :**
 
+BENSCHOFF, Barry M. (éd.), *A Companion to the Horror Film*,
+Oxford/Cambridge, Blackwell, 2014.
+
 BOOKER, Keith M., *Historical Dictionary of Science Fiction Cinema*,
 Lanham/Toronto/Plymouth, The Scarecrow Press, 2010.
 
@@ -270,6 +273,9 @@ Science-Fiction Films*, London, I.B. Tauris, 2014.
 
 MITCHELL, Charles P., *A Guide to Apocalyptic Cinema*, Westport/London,
 Greenwood Press, 2001.
+
+PRINCE, Stephen (éd.), *The Horror Film*, New Brunswick, Rutgers
+University Press, 2004.
 
 TELOTTE, J. P., *Science Fiction Film*, Cambridge, Cambridge University
 Press, 2004 \[2001\].
@@ -395,8 +401,8 @@ Press, 2007.
 CIEUTAT, Michel, « Philip Kaufman ou l’éclectisme comme humanisme »,
 *Positif*, No. 326, avril 1988, pp. 10-13.
 
-DEMPSEY, « Invaders and Encampments: The Films of Philip Kaufman »,
-*Film Quarterly*, Vol. 32, No. 2, hiver 1978-1979, pp. 17-27.
+DEMPSEY, Michael, « Invaders and Encampments: The Films of Philip
+Kaufman », *Film Quarterly*, Vol. 32, No. 2, hiver 1978-1979, pp. 17-27.
 
 FARBER, Stephen, « Hollywood Maverick », *Film Comment*, Vol. 15, No. 1,
 janvier/février 1979, pp. 26-31.

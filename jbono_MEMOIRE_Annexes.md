@@ -120,3 +120,9 @@ height="3.736111111111111in"}
 
 *Figure 21:* Un policier lui aussi camouflé donne des conseils à Carol
 dans *The Invasion* (2007).
+
+![RB%20-%20SCREENSHOTS/Invasion%201956/ColorizedVersion.png](media/image32.png){width="6.5in"
+height="4.875in"}
+
+*Figure 22:* Carton titre de la version colorisée de *Invasion of the
+Body Snatchers* (1956) éditée par Republic Pictures sur VHS.

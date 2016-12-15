@@ -395,7 +395,7 @@ contre plus emprunts à offrir leurs interprétations : le film de Kaufman
 souvent lié au contexte « paranoïaque post-Watergate »[^110], celui de
 Ferrera à la peur du SIDA[^111], et la version de Hirschbiegel à
 l’Amérique post-11 septembre 2001[^112]. Une phrase ici sur *ta
-comprhénsion* le sens de toutes ces lectures politiques du film est
+compréhension* le sens de toutes ces lectures politiques du film est
 nécessaire. Ne laisse pas toutes ces critiques effacer ta voix, même si
 c’est un review.
 
