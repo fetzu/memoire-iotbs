@@ -13,4 +13,4 @@ pandoc jbono_MEMOIRE_01-StateOfTheArt.docx -o jbono_MEMOIRE_01-StateOfTheArt.md
 pandoc jbono_MEMOIRE_02-Novel.docx -o jbono_MEMOIRE_02-Novel.md
 pandoc jbono_MEMOIRE_03-Movies.docx -o jbono_MEMOIRE_03-Movies.md
 pandoc jbono_MEMOIRE_04-Paratext.docx -o jbono_MEMOIRE_04-Paratext.md
-pandoc jbono_MEMOIRE_05-Conclusion.docx -o jbono_MEMOIRE_00-Conclusion.md
+pandoc jbono_MEMOIRE_05-Conclusion.docx -o jbono_MEMOIRE_05-Conclusion.md
