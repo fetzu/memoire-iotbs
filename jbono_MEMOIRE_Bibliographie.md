@@ -44,10 +44,6 @@ There?* and Finney's *Invasion of the Body Snatchers* »,
 DUPRÉ, Vincent, « L’Invasion des profanateurs de sépultures », *Jeune
 Cinéma*, No. 326-327, automne 2009, pp. 106-108.
 
-DURGNAT, Raymond, « Invasion of the Body Snatchers » in *The Essential
-Raymond Durgnat*, Henry K. Miller (éd.), London, BFI/Palgrave MacMillan,
-2014, pp. XXX-XXX.
-
 FREUND, Charles, « Pods over San Francisco », *Film Comment*, Vol. 15,
 No. 1, janvier/février 1979, pp. 22-25.
 
@@ -421,6 +417,9 @@ University of California Press, 2013.
 ODIN, Roger, « L’entrée du spectateur dans la fiction », *in* Jaques
 Aumont et Jean-Louis Leutrat (éds.), *Théorie du film*, Paris, Albatros,
 1980, pp. 198-213.
+
+MILLER, Henry K. (éd.), *The Essential Raymond Durgnat*, London,
+BFI/Palgrave MacMillan, 2014.
 
 ***Réception critique :***
 

@@ -8,7 +8,9 @@ pandoc jbono_MEMOIRE_Filmographie.docx -o jbono_MEMOIRE_Filmographie.md
 pandoc jbono_MEMOIRE_Annexes.docx -o jbono_MEMOIRE_Annexes.md
 pandoc jbono_MEMOIRE_Projet.docx -o jbono_MEMOIRE_Projet.md
 pandoc jbono_MEMOIRE_Plan.docx -o jbono_MEMOIRE_Plan.md
+pandoc jbono_MEMOIRE_00-Introduction.docx -o jbono_MEMOIRE_00-Introduction.md
 pandoc jbono_MEMOIRE_01-StateOfTheArt.docx -o jbono_MEMOIRE_01-StateOfTheArt.md
 pandoc jbono_MEMOIRE_02-Novel.docx -o jbono_MEMOIRE_02-Novel.md
 pandoc jbono_MEMOIRE_03-Movies.docx -o jbono_MEMOIRE_03-Movies.md
 pandoc jbono_MEMOIRE_04-Paratext.docx -o jbono_MEMOIRE_04-Paratext.md
+pandoc jbono_MEMOIRE_05-Conclusion.docx -o jbono_MEMOIRE_00-Conclusion.md

@@ -1,4 +1,5 @@
-**Bilan historiographique (réception critique/réception académique)**
+**Bilan historiographique** **(réception critique/réception
+académique)**
 
 En préambule à ce chapitre consacré à l’état de l’Art, il convient
 d’apporter quelques précisions méthodologiques quant au choix des
@@ -174,7 +175,7 @@ Kauffman (Danny) lors de la confrontation avec le Dr. Miles Bennell
 > « \[…\] Then out of the sky came a solution. Seeds, drifting through
 > space for years, took root in a farmer’s field. From the seeds came
 > pods which have the power to reproduce themselves in the exact
-> likeness of any form of life.[^53] »
+> likeness of any form of life. »[^53]
 
 Cette scène explicative, courante dans le cinéma hollywoodien de
 science-fiction[^54], renseigne le spectateur[^55] sur l’intention des
@@ -498,7 +499,7 @@ sense : carve out your place in the literature.
 
 [^6]: Mark Thomas McGee, *ibid.*, p. 15.
 
-[^7]: Producteur de la version 1956.
+[^7]: Producteur du film de 1956.
 
 [^8]: Reproduite dans son intégralité dans Al LaValley (éd.), *op.
     cit.*, p .163.
