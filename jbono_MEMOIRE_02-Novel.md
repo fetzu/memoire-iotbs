@@ -488,27 +488,6 @@ pour effet de solidifier la place du film dans la culture populaire par
 un processus d’artéfaction, créant des conditions idéales envers sa
 canonisation.
 
-Dans ce chapitre, il a été question des origines littéraires de
-*Invasion of the Body Snatchers*, tout d’abord du feuilleton en trois
-parties publié dans *Collider’s* puis de la publication sous forme
-romanesque en 1955 et ses éditions ultérieures. Une lecture comparée
-entre les différents textes (feuilleton, film de Siegel et roman) a
-montré une certaine instabilité du texte original par rapport à son
-adaptation cinématographique, instabilité qui se manifeste dans le
-contexte de production du film mais également dans le déplacement genrée
-de l’œuvre en deçà de ses origines science-fictionnelles vers l’horreur.
-La lecture croisée a également permis de constater une certaine porosité
-entre le film et le roman, ce premier informant une partie des
-changements opérés par Finney lors du transfert de son œuvre sur un
-nouveau support. Finalement, un retour sur l’historique de publication
-du roman de Finney a permis de constater que les changements apportés au
-fil des éditions trouvent un certain écho dans la trajectoire de ses
-versions filmiques. Les constats formulés par ce chapitre permettent de
-dresser un premier bilan quant au rôle du remake dans le processus de
-canonisation d’une œuvre filmique adaptée d’une source littéraire[^104],
-et de mesurer le rôle de l’instabilité de la source comme créatrice de
-conditions favorables à la sérialité.
-
 [^1]: En trois parties dans les numéros du 26 novembre, 10 et 24
     décembre.
 
@@ -899,12 +878,3 @@ conditions favorables à la sérialité.
     Kaufman, les supports de distributions *home media* de l’époque
     n’auraient pas permis une double édition sans engendrer un
     *quasi*-doublement des couts de production.
-
-[^104]: La discussion sur le statut canonique du roman de Finney dans la
-    science-fiction dépasse elle aussi l’envergure du présent travail :
-    les questions de réception autour du roman n’ayant pas été abordées.
-    Il convient toutefois de préciser que les multiples rééditions et la
-    place qu’occupe *The Body Snatchers* dans les ouvrages concernant la
-    science-fiction (et l’horreur) littéraire permettent facilement de
-    défendre son statut, sinon de classique, au moins d’œuvre majeure
-    dans ces genres.

@@ -496,29 +496,6 @@ effet de créer, chez le spectateur connaissant les films précédents, le
 plaisir d’y reconnaître acteurs (ou réalisateur) et de créer un lien
 entre deux films de la série.
 
-Dans ce chapitre, il a été question des liens qu’entretiennent les
-différents films du corpus des remakes officiels et de la manière dont
-ces liens créent une tension entre réflexivité et originalité centrale à
-tout remake. Les éléments narratifs comme le générique d’ouverture et
-l’utilisation d’une voix off et la récurrence de figures comme le cri
-des *pod people* ou la scène de camouflage mettent en scène cette
-tension : celle d’un texte cherchant à se démarquer d’un autre tout en
-lui tirant sa révérence. Finalement, il a été question du statut de la
-série : si la suite du film est systématiquement présentée comme une
-série de remakes par la critique (journalistique, spécialisée et
-académique), les débordements et déplacements spatio-temporels d’un film
-au suivant permettent tout autant de considérer le corpus comme une
-série de fictions plurielles reposant sur la même formule[^76]. Le monde
-de *Invasion of the Body Snatchers* serait donc un monde diégétique
-cohérant, et chacune des versions une occurrence de la série reprenant
-la même formule[^77] mais opérant à son déplacement spatio-temporel.
-Dans tous les cas, l’ensemble de ces éléments montre comment chaque film
-de la série, de par son texte, y confirme son appartenance tout en
-problématisant son essence même. En reconduisant certains motifs et
-schémas narratifs, le film valide l’existence des précédents et assure
-que leur existence ne soit pas oubliée… puisque leur existence même en
-dépends.
-
 [^1]: *Invasion of the Body Snatchers* (*L'invasion des profanateurs de
     sépultures*, Don Siegel, 1956).
 
@@ -785,14 +762,3 @@ dépends.
     économique, puisqu’il n’est pas impossible que Robert H. Solo aie
     bénéficié de l’exclusivité sur les droits d’adaptation du roman de
     Finney sur une période de 15-20 ans.
-
-[^76]: Au sens de « matrice consignée dans une *bible* et formalisée
-    dans le pilote de chaque œuvre. » Stéphane Benassi,
-    « Sérialité(s) », *in* Sarah Sepulchre (dir.), *Décoder les séries
-    télévisées*, Bruxelles, De Boeck, 2011, p. 80 ; le pilote étant ici
-    l’adaptation originale de Siegel qui informerait chacune de ses
-    suites.
-
-[^77]: Dont les « paramètres invariants » seraient les prémices du récit
-    (sa source littéraire), certaines scènes (par exemple celle du
-    camouflage) et éléments clés (l’insomnie).

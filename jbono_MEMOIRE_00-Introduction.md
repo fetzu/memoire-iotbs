@@ -54,20 +54,20 @@ certains canons cinématographiques.
 Dans un premier temps, il conviendra d’effectuer un bilan
 historiographique de notre objet. Ce bilan commence par problématiser la
 question du canon : comment définit-on le canon ? Comment ce canon
-est-il établi et est-il amené à évoluer ? Pour ce faire, la question de
-définition du canon sera abordée d’un point de vue épistémologique mais
-également considérée dans son aspect comme pratique culturelle. Il
-s’agira ensuite de revenir la réception théorique du film et de ses
-remakes : à quel moment la critique commence-t-elle à considérer le film
-de Siegel comme un « classique » ? Quel est la place accordée aux
-versions ultérieures du film dans la réception critique d’un remake ?
-Pour se faire, les réceptions critiques de la presse quotidiennes et
-spécialisée américaine et française seront analysées. Le film présentant
-une hybridité générique, la sous-partie suivante évoluera les discours
-qu’elle engendre et la manière dont cette hybridité informera les
-remakes et leur réception. Finalement, il sera question de faire état du
-« délire d’interprétations »[^22] suscité dans les discours académiques
-relatif aux films, et de voir comment ces analyses relèvent une « grande
+est-il établi et est-il amené à évoluer ? La question de définition du
+canon sera abordée d’un point de vue épistémologique mais également
+considérée dans son aspect comme pratique culturelle. Il s’agira ensuite
+de revenir la réception théorique du film et de ses remakes : à quel
+moment la critique commence-t-elle à considérer le film de Siegel comme
+un « classique » ? Quel est la place accordée aux versions ultérieures
+du film dans la réception critique d’un remake ? Pour se faire, les
+réceptions critiques de la presse quotidiennes et spécialisée américaine
+et française seront analysées. Le film présentant une hybridité
+générique, la sous-partie suivante évoluera les discours qu’elle
+engendre et la manière dont cette hybridité informera les remakes et
+leur réception. Finalement, il sera question de faire état du « délire
+d’interprétations »[^22] suscité dans les discours académiques relatif
+aux films, et de voir comment ces analyses relèvent une « grande
 instabilité de son texte »[^23].
 
 Dans le deuxième chapitre, il sera question de la source littéraire du
@@ -97,7 +97,7 @@ choix sont opérés par les scénaristes, réalisateurs et producteurs des
 remakes ? Quelles sont les conséquences des changements d’une version à
 l’autre du film dans le contexte de sérialité ? Plutôt que de considérer
 les films comme s’inscrivant dans leur contexte socio-politique propre,
-il sera question de les aborder comme élément d’une série filmique: de
+il sera question de les aborder comme partie d’une série filmique: de
 voir comment chaque film oscille entre révérence et détachement aux
 films qui ont précédé. Cette analyse se fait en isolant certaines
 manifestations narratives et formelles, mais également en démontrant le

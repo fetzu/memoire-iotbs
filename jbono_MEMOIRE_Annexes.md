@@ -1,3 +1,5 @@
+truffaut don siegel
+
 Annexes
 =======
 
@@ -88,20 +90,19 @@ height="3.736111111111111in"}
   ------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------
   ![RB%20-%20SCREENSHOTS/Invasion%201978/IotBS\_1978-2\_00010.png](media/image25.png){width="3.3055555555555554in" height="1.8194444444444444in"}   ![RB%20-%20SCREENSHOTS/Invasion%201978/IotBS\_1978-2\_00011.png](media/image26.png){width="3.3045625546806647in" height="1.8188976377952757in"}
 
-*Figure 16 :* Confrontation entre Elizabeth/Matthew et Nancy dans
+*Figure 16:* Confrontation entre Elizabeth/Matthew et Nancy dans
 *Invasion of the Body Snatchers* (1978).
 
 ![RB%20-%20SCREENSHOTS/Invasion%201978/IotBS\_1978\_00014.png](media/image27.png){width="6.486111111111111in"
 height="3.5833333333333335in"}
 
-*Figure 17 :* Matthew découpant des articles de journaux dans *Invasion
+*Figure 17:* Matthew découpant des articles de journaux dans *Invasion
 of the Body Snatchers* (1978).
 
 ![RB%20-%20SCREENSHOTS/Invasion%201993/IotBS\_1993\_00009.png](media/image28.png){width="6.486111111111111in"
 height="2.763888888888889in"}
 
-*Figure 18 :* Jenn confrontant Marti et Tim dans *Body Snatchers*
-(1993).
+*Figure 18:* Jenn confrontant Marti et Tim dans *Body Snatchers* (1993).
 
 ![RB%20-%20SCREENSHOTS/Invasion%201956/IotBS\_1956\_00003.png](media/image29.png){width="6.486111111111111in"
 height="3.25in"}
@@ -126,3 +127,26 @@ height="4.875in"}
 
 *Figure 22:* Carton titre de la version colorisée de *Invasion of the
 Body Snatchers* (1956) éditée par Republic Pictures sur VHS.
+
+![RB%20-%20SCREENSHOTS/Variations/IotBS\_VARIATIONS\_00001.png](media/image33.png){width="6.486111111111111in"
+height="3.736111111111111in"}![RB%20-%20SCREENSHOTS/Variations/IotBS\_VARIATIONS\_00002.png](media/image34.png){width="6.486111111111111in"
+height="3.736111111111111in"}
+
+*Figure 23:* Reprise (et parodie) du motif iconique du cri et du mode de
+transmission de *The Invasion* dans un épisode de la série américaine
+*Rick & Morty*.
+
+![RB%20-%20SCREENSHOTS/Variations/IotBS\_VARIATIONS\_00003.png](media/image35.png){width="6.486111111111111in"
+height="3.736111111111111in"}
+
+*Figure 24:* Les plantes veulent prendre contrôle du monde en assimilant
+les enfants *anti-conformistes* (gothiques, emo et vampires) de *South
+Park*.
+
+  ![RB%20-%20SCREENSHOTS/Variations/IotBS\_VARIATIONS\_00005.png](media/image36.png){width="3.3177023184601926in" height="1.8818897637795275in"}   ![RB%20-%20SCREENSHOTS/Variations/IotBS\_VARIATIONS\_00006.png](media/image37.png){width="3.3209820647419073in" height="1.8818897637795275in"}
+  ------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------
+  ![RB%20-%20SCREENSHOTS/Variations/IotBS\_VARIATIONS\_00007.png](media/image38.png){width="3.3194444444444446in" height="1.8888888888888888in"}   ![RB%20-%20SCREENSHOTS/Variations/IotBS\_VARIATIONS\_00008.png](media/image39.png){width="3.3194444444444446in" height="1.8888888888888888in"}
+
+*Figure 25:* Des machines crées par les hommes remplacent peu à peu les
+femmes dans la petite communauté de Stepford dans *The Stepford Wives*
+(1975) et son remake de 2004 (avec... Nicole Kidman).

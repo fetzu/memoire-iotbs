@@ -452,21 +452,6 @@ dans ton texte : en vue de la dimension collaborative du cinéma, et du
 système hollywoodien en particulier[^125], mais permet d’aborder le film
 à travers une autre lecture que celui de son contexte socio-économique.
 
-Au vu du nombre d’interprétations que le film (et ses remakes) a
-suscité, il est difficile de contredire le « délire d’interprétations »
-proposé par Durgnat. Ce chapitre a permis d’effectuer une rétrospective
-sur la réception critique des films en se focalisant sur la manière dont
-les discours se construisent autour du lien qu’entretient un film avec
-ses prédécesseurs, il a également été question de l’hybridité générique
-des films et de ses conséquences supposées sur la *série*, et,
-finalement, il a été question de la foison d’interprétations offerte
-aussi bien par la critique que par le milieu académique. Cette réception
-critique et académique posée, il s’agit maintenant de préciser et
-d’affiner certains concepts liés d’une part à la sérialité et d’autre
-part au phénomène de *sélection naturelle* que cette sérialité engendre
-dans le cadre d’une représentation culturelle publique telle que le
-cinéma.
-
 Il faut que tu en parles avec Mireille, mais il vaudrait peut être mieux
 traduire les citations en anglais ; le saut d’une langue à l’autre est
 problématique.
