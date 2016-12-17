@@ -432,14 +432,14 @@ réédition de 1961. En 1978, date de sortie en salles du remake de
 Kaufman, Dell réédite encore une fois le livre, et abandonne cette fois
 le « The » pour adopter le titre exacte du film; avec une couverture
 qui, pour la première fois, fait une allusion directe à une adaptation
-cinématographique de par le texte[^96] et l’illustration[^97] (fig. 1).
+cinématographique de par le texte[^96] et l’illustration[^97] (fig. 4).
 Ce titre sera conservé pour toutes les éditions ultérieures du
 roman[^98], avec la mention « By Jack Finney, author of *Time and
 Again* » remplaçant la référence au film au Kaufman. L’édition « 60^ème^
 anniversaire » éditée par Touchstone en 2015, bien qu’employant le titre
 complet *Invasion of the Body Snatchers*, fait référence au titre
 original du roman par un jeu de couleur et de taille de police du titre
-sur la couverture (fig. 2) : le « Invasion of », écrit en blanc dans une
+sur la couverture (fig. 5) : le « Invasion of », écrit en blanc dans une
 police plus petite alors que le « The Body Snatchers », est mis en
 évidence par une coloration jaunâtre et l’utilisation d’une police plus
 grande qui attire l’œil du lecteur. Il est également intéressant de

@@ -1,40 +1,47 @@
-**Bilan historiographique** **(réception critique/réception
-académique)**
+**Bilan historiographique (réception critique/réception académique)**
 
-En préambule à ce chapitre consacré à l’état de l’Art, il convient
-d’apporter quelques précisions méthodologiques quant au choix des
-sources utilisées. Ce chapitre se concentre sur la réception critique et
-académique de *Invasion of the Body Snatchers* et ses remakes : le
-contexte du roman source ainsi que des concepts théoriques seront
-discutés ultérieurement, dans les chapitres 3 et 2 respectivement. Ce
-choix répond tout d’abord à une volonté de séparer notre objet (le film
-et ses remakes) et les concepts (sérialité, remake, contagion
-culturelle) qui seront définis et développés dans le cadre de notre
-analyse, mais également de mettre la série de films au centre de notre
-travail en laissant de côté le roman source et les questions
-*d’adaptation*. La deuxième précision méthodologique concerne l’origine
-des sources utilisées : ce chapitre traite et compare des sources
-qualitativement variées. D’une part, les réceptions critiques dont il
-sera question émanent en grande majorité de la grande presse quotidienne
-et hebdomadaire[^1]. Les jugements de valeur présents dans les articles
-ou ouvrages (para-)académiques feront, quant à eux, office d’une analyse
-détaillée dans la dernière partie de ce travail. Ils feront par contre
-office de source dans le cadre de la dernière partie de ce chapitre,
-intitulée « une métaphore pluri-sémantique », dans laquelle il sera
-question de recenser et discuter des interprétations à la métaphore
-proposée par les films ; une question qui est à l’origine[^2] d’un
-nombre important des articles académiques consacrés au(x) film(s).
-Finalement, il conviendra de mentionner les 3 livres dédiés au(x)
-film(s), publiés en 1989[^3], 2010[^4] et 2012[^5] : si les deux
-premiers sont issus de collections (para-)académiques et présentent
-toutes les qualités formelles d’un travail universitaire (notes de bas
-de page, bibliographie), le livre de McGee s’auto-définit comme un
-ouvrage de *fan* présentant tout ce que l’auteur sait à propos de
-*Invasion of the Body Snatchers*[^6]. Néanmoins, les trois livres ont
-grandement facilité la démarche entreprise dans le cadre de ces travail
-en reproduisant dans leur intégralité des documents retrouvés dans les
-archives de Walter Wagner[^7] ou des critiques publiées dans la presse
-et aujourd’hui difficilement accessibles.
+En préambule à ce chapitre consacré au bilan historiographique, il
+convient d’apporter quelques précisions méthodologiques quant au choix
+des sources utilisées. Ce chapitre se concentre sur la réception
+critique et académique de *Invasion of the Body Snatchers* et ses
+remakes : le contexte du roman source sera discuté ultérieurement, dans
+le deuxième chapitre. Ce choix répond tout d’abord à une volonté – dans
+un premier temps – de séparer notre objet (le film et ses remakes) et sa
+source littéraire. La deuxième précision méthodologique concerne
+l’origine des sources utilisées : ce chapitre traite et compare des
+sources qualitativement variées. D’une part, les réceptions critiques
+dont il sera question émanent en grande majorité de la grande presse
+quotidienne et hebdomadaire[^1]. Les jugements de valeur présents dans
+les articles ou ouvrages (para-)académiques feront, quant à eux, office
+d’une analyse détaillée dans la dernière partie de ce travail. Ils
+feront par contre office de source dans le cadre de la dernière partie
+de ce chapitre, intitulée « une métaphore pluri-sémantique », dans
+laquelle il sera question de recenser et discuter des interprétations à
+la métaphore proposée par les films ; une question qui est à
+l’origine[^2] d’un nombre important des articles académiques consacrés
+aux films. Finalement, il conviendra de mentionner les 3 livres dédiés
+au film (et certains de ses remakes), publiés en 1989[^3], 2010[^4] et
+2012[^5] : si les deux premiers sont issus de collections
+(para-)académiques et présentent toutes les qualités formelles d’un
+travail universitaire (notes de bas de page, bibliographie), le livre de
+McGee s’auto-définit comme un ouvrage de *fan* présentant tout ce que
+l’auteur sait à propos de *Invasion of the Body Snatchers*[^6].
+Néanmoins, les trois livres ont grandement facilité la démarche
+entreprise dans le cadre de ces travail en reproduisant dans leur
+intégralité des documents retrouvés dans les archives de Walter
+Wagner[^7] ou des critiques publiées dans la presse et aujourd’hui
+difficilement accessibles.
+
+Le canon cinématographique : éléments de définition
+---------------------------------------------------
+
+Avant de débuter le bilan de la réception critique des films, il est
+opportun d’apporter quelques remarques liminaires concernant le concept
+de canon cinématographique. La question du canon étant vaste, de par ses
+origines pré datant le cinéma lui-même et ses manifestations multiples,
+ce travail ne prétend pas offrir un bilan historiographique complet du
+concept de canon, mais plutôt de cerner globalement l’objet à travers
+des sources discutant spécifiquement du canon cinématographique.
 
 Un « classique » et ses *remakes* vus par la critique
 -----------------------------------------------------
@@ -455,10 +462,6 @@ dans ton texte : en vue de la dimension collaborative du cinéma, et du
 système hollywoodien en particulier[^126], mais permet d’aborder le film
 à travers une autre lecture que celui de son contexte socio-économique.
 
-Il faut que tu en parles avec Mireille, mais il vaudrait peut être mieux
-traduire les citations en anglais ; le saut d’une langue à l’autre est
-problématique.
-
 Dès que tu commences à t’engager avec la critique académique et à
 historiciser ton argument, le texte devient plus intéressant. A mon
 sens, c’est parce que ton analyse de la réception n’a pas vraiment un
@@ -471,8 +474,9 @@ lecture du film, mais il faut les mettre en évidence bien plus à mon
 sense : carve out your place in the literature.
 
 [^1]: La présence de critiques issues de la revue hebdomadaire éditée
-    par la BFI *Sight & Sound* ou du trimestriel *Cinéaste* pour les
-    films de 1956, 1978 et 1993 font exception à cette règle.
+    par le British Film Institute (BFI) *Sight & Sound* ou du
+    trimestriel *Cinéaste* pour les films de 1956, 1978 et 1993 font
+    exception à cette règle.
 
 [^2]: Ou une excuse pour.
 
@@ -662,23 +666,24 @@ sense : carve out your place in the literature.
     exact likeness of any form of life. ». Al LaValley (éd.), *op.
     cit.*, p. 87.
 
-[^54]: REF ? Ou même le cinéma d’horreur : *Psycho*’s ending…
+[^54]: Voir J. P. Telotte, *Science Fiction Film*, Cambridge, Cambridge
+    University Press, 2004 \[2001\], pp. 14-16.
 
 [^55]: Par le biais de son avatar filmique, Miles.
 
-[^56]: « THEY come from another world ! ». Affiche YY du film. Voir
-    figure XX
+[^56]: « THEY come from another world ! ». Affiche one sheet du film.
+    Voir figure 1.
 
 [^57]: « The Things that came from another world ! ». Publicités numéro
     206, 209 et 303 du « Showmanship campaign book » édité par Allied
     Artists pour la distribution américaine du film.
 
 [^58]: « Walter Wagner creates the ultimate in science-fiction ! ».
-    Affiche YY du film. Voir figure XX
+    *Poster* du film. Voir figure 2.
 
 [^59]: L’affiche 2x77 éditée par Crystal Pictures pour la re-sortie du
     film en 1977 décrit même le film comme « The All-Time *Horror*
-    Classic ». Voir figure XX
+    Classic ». Voir figure 3.
 
 [^60]: Céline Boillon, « L’invasion des profanateurs de sépultures »,
     *La Croix*, 11 janvier 1968 ; Jean De Baroncelli, « L’invasion des
@@ -730,14 +735,18 @@ sense : carve out your place in the literature.
 [^71]: Ce qui est le cas dans un nombre important des critiques
     contemporaines de chacun des 3 remakes.
 
-[^72]: Raymond Durgnat, LLL, VVV, EEE, PPP.
+[^72]: Raymond Durgnat, cité par Henry K. Miller (éd.), *The Essential
+    Raymond Durgnat*, London, BFI/Palgrave MacMillan, 2014, p. 3
 
 [^73]: –, « L’invasion des body-snatchers », *Télé libératrice(?)*, *op.
     cit.*
 
 [^74]: Jean De Baroncelli, *op. cit.*
 
-[^75]: REF ?
+[^75]: Voir Theodore Roszak, *The Making of a Counter Culture:
+    Reflections on the Technocratic Society and Its Youthful
+    Opposition*, Berkeley, University of California Press, 1969, pp.
+    1-41.
 
 [^76]: Lors de la publication de la critique en novembre 1967, encore un
     « organe central du parti communiste français ».
@@ -796,7 +805,7 @@ sense : carve out your place in the literature.
 
 [^94]: « Historical Highlights. The permanent standing House Committee
     on Un-American Activities », History, Art & Archives. United States
-    House of Representatives, http://history.house.gov/, consulté le
+    House of Representatives, <http://history.house.gov/>, consulté le
     04.12.2016
 
 [^95]: Au moment de sa création, le champ principal d’investigation

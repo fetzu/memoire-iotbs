@@ -16,8 +16,8 @@ qu’ils refont et l’histoire originale (*story by…*) sur lequel ces deux
 derniers sont basés[^6]. Mais dans le cas de *Invasion of the Body
 Snatchers* cette relation triangulaire se complique : alors que le film
 de Siegel est « Basé sur feuilleton de *Collider’s Magazine* par Jack
-Finney » (fig. 3), les remakes citent le roman comme source (fig. 4, 5
-et 6) ; une référence explicite aux versions antérieures n’est faite
+Finney » (fig. 6), les remakes citent le roman comme source (fig. 7, 8
+et 9) ; une référence explicite aux versions antérieures n’est faite
 dans aucun des films. Ce chapitre s’efforce pourtant de montrer que
 chacun des remakes est étroitement lié aux précédents par un jeu
 complexe de tension entre originalité et réflexivité. En effet, si
@@ -92,7 +92,7 @@ film : la séquence du générique prend la forme d’une histoire montrant
 les *pods* (sous forme de spores) voyageant à travers l’espace d’une
 planète à l’aspect désertique vers la terre avant de s’implanter dans la
 verdure d’une ville clairement identifiée comme San Francisco par
-l’iconique Golden Gate Bridge (fig. 7). Cette ouverture est portée par
+l’iconique Golden Gate Bridge (fig. 10). Cette ouverture est portée par
 la musique inquiétante de Denny Zeitlin mélangeant sons étranges et
 harmoniques mineures de cordes et cuivres orchestraux. Contrairement au
 film de Siegel, qui ne livrait que des informations officielles[^16]
@@ -107,19 +107,19 @@ quasi-documentaire, particulièrement dans son premier tiers).
 Ces images spatiales vont également animer les génériques des films de
 Ferrara et de Hirschbiegel : dans la version de 1993, les crédits
 d’ouverture défilent sous un fond étoilé montrant des corps célestes
-(fig. 8) et s’achève sur un fondu vers un plan (aérien, filmé depuis un
+(fig. 11) et s’achève sur un fondu vers un plan (aérien, filmé depuis un
 hélicoptère) qui suit la voiture dans laquelle se trouve Marti Malone.
 Malgré son recours à l’iconographie spatiale, sa fonction diffère de
 celui de 1978 : le générique à un statut flottant et semble remplir une
 fonction plus informative que narrative[^18]. Inversement, le générique
 du film de 2007 intervient sous la forme d’un simple plan[^19] après une
 première séquence introductive mettant en scène la Dr. Carol Bennell. Ce
-plan (fig. 9) est en réalité le premier d’une série montrant une navette
-spatiale[^20] s’écrasant sur terre, événement déclencheur de l’invasion.
-Ce choix signale également l’aspect thriller du film, construit en un
-complexe réseau de prolepses et d’analepses, dès le générique : l’entrée
-de la fiction dans une fiction *in medias res/en cours* plutôt qu’une
-fiction passée (1956, 1993) ou à venir (1978).
+plan (fig. 12) est en réalité le premier d’une série montrant une
+navette spatiale[^20] s’écrasant sur terre, événement déclencheur de
+l’invasion. Ce choix signale également l’aspect thriller du film,
+construit en un complexe réseau de prolepses et d’analepses, dès le
+générique : l’entrée de la fiction dans une fiction *in medias res/en
+cours* plutôt qu’une fiction passée (1956, 1993) ou à venir (1978).
 
 Cette utilisation de l’espace extraterrestre dans les premières minutes
 des films de 1978, 1993 et 2007 paraît d’un premier abord étrange :
@@ -190,7 +190,7 @@ est un monologue intérieur utilisé par le personnage pour se motiver à
 rester éveillé, tandis que la voix off finale est en réalité un extrait
 d’une ligne de dialogue prononcée par un personnage secondaire dans
 l’une des scènes du film. Dans ces dernières images, un long travelling
-avant est effectué sur une Carol pensive (fig. 10) alors que la voix off
+avant est effectué sur une Carol pensive (fig. 13) alors que la voix off
 est jouée. Ce n’est donc pas l’héroïne du film qui se voit accorder le
 dernier mot de l’histoire : bien que la séquence laisse imaginer que
 cette voix off émane de ses songes, la voix off masculine s’oppose au
@@ -241,17 +241,17 @@ uniquement en voix off sans que sa source soit clairement identifiée, va
 habiter la bande sonore du film pendant plus de la moitié du troisième
 acte. Il apparaît pour la première fois en voix in dans un plan court
 sur lequel on peut apercevoir trois *pod people* la bouche ouverte (fig.
-11), l’attribuant définitivement comme émanant des humains transformés.
+14), l’attribuant définitivement comme émanant des humains transformés.
 Quelques minutes plus tard, le cri est à nouveau montré en voix in dans
 un plan très court (26 images) dans lequel un zoom rapide d’un plan
-d’ensemble (fig. 12) vers un plan américain (fig. 13) : la durée courte
+d’ensemble (fig. 15) vers un plan américain (fig. 16) : la durée courte
 et la brutalité du zoom, rare dans les films de fictions, accentue
 l’effet horrifique du cri poussé par le personnage qui pointe son doigt
 dans la direction du spectateur. Cette représentation du cri ne sera
 utilisée que deux fois de plus dans le film : dans la scène de poursuite
 finale, dans laquelle une Elizabeth –devenue *pod person*– dénudée va
 révéler la position de Matthew alors en train de saboter les serres de
-production des *pods* (fig. 14). Dans ce plan, la caméra reste statique
+production des *pods* (fig. 17). Dans ce plan, la caméra reste statique
 lors du cri et la mise en cadre ne place pas le spectateur (mais plutôt,
 via un contre champ, son avatar filmique d’incarne Matthew) dans la
 lignée du pointage de doigt ou du regard d’Elizabeth. La durée très
@@ -299,7 +299,7 @@ inconnu sur le seuil de sa porte : une *pod person* cherche à pénétrer
 son appartement pour pouvoir contaminer la famille. Durant
 l’altercation, l’inconnu, bloqué derrière une la porte d’entrée, adopte
 une expression faciale rappelant celle des films de Kaufman et Ferrara
-(fig. 15) sans que pourtant un seul bruit ne sorte de sa bouche. Dans
+(fig. 18) sans que pourtant un seul bruit ne sorte de sa bouche. Dans
 une de ces instances, le son du cri est remplacé par une note courte
 aigue jouée sur un instrument à cordes. De plus durant l’intégralité de
 la scène, un bruit off –le sifflement d’une marmite à vapeur placée sur
@@ -352,7 +352,7 @@ un insert[^49] sur un *pod people* emprisonné qui crie (à l’aide ?). Cet
 insert intervient au moment où le spectateur s’attendrait à ce que ce
 soit Nancy qui crie, et a donc pour effet de surprendre celui-ci. La
 scène retourne ensuite dans une série de champ/contre-champ qui finiront
-par se solder par la réunification des personnages (fig. 16) et les
+par se solder par la réunification des personnages (fig. 19) et les
 explications qu’offre Nancy sur sa technique de camouflage. Cette
 première itération de la scène anticipe et déjoue les attentes du
 spectateur par rapport à la version de Finney/Siegel, puisque les
@@ -372,7 +372,7 @@ se déroulant autour de Santa Mira, pour se rendre compte que tous les
 articles en question ont été soigneusement découpés des copies
 archivées. Le film de Kaufman adopte donc un élément du roman en
 montrant Matthew entrain de découper un journal dans la dernière
-séquence du film (fig. 17), le spectateur ayant l’épisode du roman en
+séquence du film (fig. 20), le spectateur ayant l’épisode du roman en
 tête ne manquera pas de faire le rapprochement et de comprendre que
 Matthew contribue à l’invasion par les *pod people* et a déjà subi sa
 transformation. La scène finale du film de 1978, enrichie de cette clé
@@ -385,8 +385,8 @@ accrue à celle du roman et du film de Siegel. Mais contrairement au film
 de Siegel, ce n’est pas un cri mais l’inquiétude exprimée par Marti qui
 trahit l’humanité des deux personnages. Alors que Marti et Tim Young
 parviennent presque à convaincre Jenn Platt[^52] de leur manque
-d’émotions (fig. 18) dans un plan dont la mise en scène joue sur une
-inversion[^53] du film de Siegel (fig. 19), l’héroïne se retourne alors
+d’émotions (fig. 21) dans un plan dont la mise en scène joue sur une
+inversion[^53] du film de Siegel (fig. 22), l’héroïne se retourne alors
 que le couple commence à s’éloigner, trahissant leur humanité. Le choix
 du retournement comme indice de leur humanité est d’autant plus
 intéressant lorsqu’il est mis en perspective avec le roman de Finney.
@@ -404,23 +404,24 @@ contaminer[^56]. Dans cette scène, c’est un autre passager du métro qui
 explique à Carol qu’« il est possible de les tromper, mais vous devez
 rester calme »[^57]. Après une embuscade de laquelle elle parvient à
 s’échapper, c’est un policier qui s’approche d’elle par derrière (fig.
-20) alors que trois autres sont entrain de mobiliser une passante
+23) alors que trois autres sont entrain de mobiliser une passante
 humaine. Le policier se place à la hauteur de Carol et révèle qu’il est
-encore humain en donnant des conseils à Carol. De par l’utilisation du
-policier, le film revoie au film de Siegel et à sa source littéraire en
-opérant encore à une nouvelle permutation de la scène originale : le
-représentant des forces de l’ordre, servant les intérêts des *pod
-people* dans les versions de 1954/1956, s’avère ici être une aide pour
-l’héroïne. La scène de camouflage va se prolonger pendant quelques
-minutes, avec une scène évoquant les images de personnes se jetant dans
-le vide depuis les tours du *World Trade Center* durant les attentats du
-11 septembre[^58], avant de culminer dans un face-à-face avec un Ben
-Driscoll encore humain. Dans cette version, la variation ne repose donc
-pas dans les conséquences de la scène de camouflage[^59] mais sur son
-déroulement. Le film de Hirschbiegel se réfère encore une fois aux
-attentes du spectateur connaissant les films précédents en contrant ses
-attentes quant au déroulement de la scène, révélant encore une fois la
-tension entre réflexivité et originalité qui définit tout remake.
+encore humain en donnant des conseils à Carol (fig. 24). De par
+l’utilisation du policier, le film revoie au film de Siegel et à sa
+source littéraire en opérant encore à une nouvelle permutation de la
+scène originale : le représentant des forces de l’ordre, servant les
+intérêts des *pod people* dans les versions de 1954/1956, s’avère ici
+être une aide pour l’héroïne. La scène de camouflage va se prolonger
+pendant quelques minutes, avec une scène évoquant les images de
+personnes se jetant dans le vide depuis les tours du *World Trade
+Center* durant les attentats du 11 septembre[^58], avant de culminer
+dans un face-à-face avec un Ben Driscoll encore humain. Dans cette
+version, la variation ne repose donc pas dans les conséquences de la
+scène de camouflage[^59] mais sur son déroulement. Le film de
+Hirschbiegel se réfère encore une fois aux attentes du spectateur
+connaissant les films précédents en contrant ses attentes quant au
+déroulement de la scène, révélant encore une fois la tension entre
+réflexivité et originalité qui définit tout remake.
 
 Remakes ou *sequels *?
 ----------------------

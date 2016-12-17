@@ -332,8 +332,14 @@ BIANCHI, Petro, BURSI, Giulio et VENTURINI, Simone (éd.), *Il canone
 cinematografico : XVII Convegno internazionale di studi sul cinema*,
 Udine, Forum, 2011.
 
+BLOOM, Harold, *The Western Canon: The Books and School of Ages*, New
+York/San Diego/London, Harcourt Brace & Company, 1994.
+
 EYERMAN, Ron, « The Past in the Present: Culture and the Transmission of
 Memory », *Acta Sociologica*, Vol. 47, No. 2, juin 2004, pp. 159-169.
+
+HIRSCH, E. D., Klett, Joseph F., TREFIL, James, *The New Dictionary of
+Cultural Literacy*, Boston/New York, Houghton Mifflin, 2002.
 
 LYOTARD, Jean-François, *La condition postmoderne*, Paris, Les éditions
 de minuit, 1979.
@@ -420,6 +426,10 @@ Aumont et Jean-Louis Leutrat (éds.), *Théorie du film*, Paris, Albatros,
 
 MILLER, Henry K. (éd.), *The Essential Raymond Durgnat*, London,
 BFI/Palgrave MacMillan, 2014.
+
+ROSZAK, Theodore, *The Making of a Counter Culture: Reflections on the
+Technocratic Society and Its Youthful Opposition*, Berkeley, University
+of California Press, 1969.
 
 ***Réception critique :***
 
