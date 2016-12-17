@@ -210,16 +210,17 @@ divorce dans un dialogue ou chaque personnage s’excuse pour le divorce
 de l’autre. Dans le film, la question est également abordée à travers un
 dialogue :
 
-> MILES: (*looking at her romantically*) When did you get back?
+> MILES: (*la regardant d’un regard romantique*) Depuis quand est-tu de
+> retour?
 >
-> BECKY: I came back from London two months ago. I’ve been to Reno.
+> BECKY: Je suis revenue de Londres il y’a deux mois. J’ai été à Reno
 >
 > MILES: Reno?
 >
-> BECKY: Reno. (*She manages a slight ironic laugh.*) Dad tells me you
-> were there too.
+> BECKY: Reno. (*Elle laisse d’échapper un petit rire ironique*) Papa
+> m’a dit que tu y étais aussi.
 >
-> MILES: Five months ago.[^67]
+> MILES: Il y’a cinq mois.[^67]
 
 Le film évoque implicitement le divorce sous le couvert de « Reno », une
 référence évidente pour le public américain de l’époque à la capitale du
@@ -299,17 +300,18 @@ Siegel. L’ajout d’un très court paragraphe au tout début du
 récit[^80] est symbolique à cet égard, particulièrement lorsque l’on
 prend en compte les débats autour de la post-production du film :
 
-> I warn you that what you're starting to read is full of loose ends and
-> unanswered questions. It will not be neatly tied up at the end,
-> everything resolved and satisfactorily explained. Not by me it won't,
-> anyway. Because I can't say I really know exactly what happened, or
-> why, or just how it began, how it ended, or if it has ended; and I've
-> been right in the thick of it. Now if you don't like that kind of
-> story, I'm sorry, and you'd better not read it. All I can do is tell
-> what I know.[^81]
+> Je vous avertis que ce que vous commencez à lire est plein de détails
+> inexpliqués et de questions sans réponses. Tout ne sera pas résolu et
+> expliqué de manière satisfaisante à la fin. En tout pas par moi. Parce
+> que je ne peux affirmer savoir ce qui c’est vraiment passé, ou
+> pourquoi, ou comment cette histoire a commencée, s’est terminée, ou si
+> elle est vraiment terminée; et pourtant j’étais en plein cœur de
+> l’action. Maintenant si vous n’aimez pas ce genre d’histoire, je m’en
+> excuse, et vous ne feriez mieux de ne pas la lire. Tout ce que je peux
+> vous dire est ce que je sais.[^81]
 
 Cette ouverture, bien qu’elle ne corresponde en rien à celle introduite
-par le récit-cadre du film, à toutefois pour conséquence d’également
+par le récit-cadre du film, a toutefois pour conséquence d’également
 nous livrer les informations suivantes : premièrement, le narrateur va
 nous raconter une histoire passée grâce à une analepse, deuxièmement,
 cette histoire est mystérieuse et pleine de questions ouvertes, et
@@ -354,13 +356,14 @@ la nuit et du réveil en trois paragraphes du narrateur, dont
 l’insistance quasi-comique du premier pousse le lecteur à douter de la
 sincérité du narrateur :
 
-> We were asleep in less than five minutes, I suppose. I lay, not
-> touching Becky, except for an arm around her waist, and she had both
-> hands clasped over mine, holding it tight, like a child. And we slept,
-> simply slept, for the rest of the night. We were tired; I'd had no
-> sleep at all since three o'clock of the night before. Anyway, there's
-> a time and place for everything, and while this may have been the
-> place, it wasn't the time for a million reasons. We slept.[^89]
+> Nous étions endormis en moins de cinq minutes, je suppose. J’étais
+> couché, sans toucher Becky si ce n’est mon bras autours de sa taille,
+> et elle avait ses deux mains serrées entre les miennes, comme un
+> enfant. Et nous avons dormi, juste dormi, pour le reste de la nuit.
+> Nous étions fatigués; je n’avais pas dormi depuis trois heures du
+> matin de la nuit précédente. Bref, il y’a un moment et un lieu pour
+> tout, et bien que ce fût peut-être le lieu, ce n’était en tout cas pas
+> le moment pour un million de raisons. Nous avons dormi.[^89]
 
 Ce doute se retrouve accentué dans le troisième paragraphe dans lequel
 Miles affirme « Pour un long, long moment, la chaleur de son corps
@@ -739,7 +742,11 @@ canonisation.
     Jack Finney, « *The Body Snatchers (First of Three Parts)* »,
     *Collider’s*, 26 novembre 1954, p. 26.
 
-[^67]: Al LaValley (éd.), *op. cit.*, pp. 38-39.
+[^67]: « MILES: (*looking at her romantically*) When did you get back? /
+    BECKY: I came back from London two months ago. I’ve been to Reno. /
+    MILES: Reno? /BECKY: Reno. (*She manages a slight ironic laugh.*)
+    Dad tells me you were there too. /MILES: Five months ago.». Al
+    LaValley (éd.), *op. cit.*, pp. 38-39.
 
 [^68]: Voir « Divorce in Reno », TVTropes,
     <http://tvtropes.org/pmwiki/pmwiki.php/Main/DivorceInReno>, consulté
@@ -796,7 +803,15 @@ canonisation.
     constante/reproductible) de la première édition a été utilisée dans
     la rédaction de ce travail.
 
-[^81]: Jack Finney, *Invasion of the Body Snatchers*, *op. cit.*, p. 1.
+[^81]: « I warn you that what you're starting to read is full of loose
+    ends and unanswered questions. It will not be neatly tied up at the
+    end, everything resolved and satisfactorily explained. Not by me it
+    won't, anyway. Because I can't say I really know exactly what
+    happened, or why, or just how it began, how it ended, or if it has
+    ended; and I've been right in the thick of it. Now if you don't like
+    that kind of story, I'm sorry, and you'd better not read it. All I
+    can do is tell what I know. ». Jack Finney, *Invasion of the Body
+    Snatchers*, *op. cit.*, p. 1.
 
 [^82]: Bien qu’un récit en trois parties pourrait bénéficier d’un
     *teaser* initial afin d’accrocher un lecteur feuilletant le
@@ -822,7 +837,14 @@ canonisation.
 [^88]: Son intention, soit de demander un changement de chambre ou
     d’aller dormir ailleurs n’est pas précisée dans le texte.
 
-[^89]: Jack Finney, *Invasion of the Body Snatchers*, *op. cit.*, p.
+[^89]: « We were asleep in less than five minutes, I suppose. I lay, not
+    touching Becky, except for an arm around her waist, and she had both
+    hands clasped over mine, holding it tight, like a child. And we
+    slept, simply slept, for the rest of the night. We were tired; I'd
+    had no sleep at all since three o'clock of the night before. Anyway,
+    there's a time and place for everything, and while this may have
+    been the place, it wasn't the time for a million reasons. We slept.
+    ». Jack Finney, *Invasion of the Body Snatchers*, *op. cit.*, p.
     109.
 
 [^90]: « For a long, long moment, the warm length of her pressed against
