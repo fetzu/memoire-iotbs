@@ -328,7 +328,7 @@ Narrative*, Durham/London, Duke University Press, 2008.
 
 **Savoir, légitimation et canonisation :**
 
-BIANCHI, Petro, BURSI, Giulio et VENTURINI, Simone (éd.), *Il canone
+BIANCHI, Petro, BURSI, Giulio et VENTURINI, Simone (éds.), *Il canone
 cinematografico : XVII Convegno internazionale di studi sul cinema*,
 Udine, Forum, 2011.
 
@@ -344,6 +344,9 @@ Cultural Literacy*, Boston/New York, Houghton Mifflin, 2002.
 LYOTARD, Jean-François, *La condition postmoderne*, Paris, Les éditions
 de minuit, 1979.
 
+ROSENBAUM, Jonathan, *Essential Cinema: On the Necessity of Film
+Canons*, Baltimore, Johns Hopkins University Press, 2004.
+
 SCHRADER, Paul, « Cannon Fodder », *Film Comment*, septembre-octobre
 2006, pp. 33-49.
 
@@ -351,6 +354,10 @@ STAIGER, Janet, « The Politics of Film Canons », *Cinema Journal*, Vol.
 24, No. 3, printemps 1985, pp. 4-23.
 
 **Politique et Histoire américaine :**
+
+CARNES, Mark C. et GARRATY, John A., *The American Nation: A History of
+the United States (Fourteenth Edition)*, Boston, Prentice Hall, 2012
+\[2003\].
 
 EVANS, Stanton M., *Blacklisted by History: The Untold Story of Senator
 Joe McCarthy and his Fight Against America’s Enemies*, New York, Crown
@@ -364,6 +371,9 @@ University Press, 2007 \[2005\].
 
 MCMAHON, Robert, *The Cold War: A Very Short Introduction*, Oxford,
 Oxford University Press, 2003.
+
+NADEL, Alan, *Containment Culture: American Narratives, Postmodernism,
+and the Atomic Age*, Durham/London, Duke University Press, 1995.
 
 NAVASKY, Victor S., *Naming Names*, New York, Open Road, 1991 \[1980\].
 
