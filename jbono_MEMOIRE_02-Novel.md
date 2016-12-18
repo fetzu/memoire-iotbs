@@ -1,7 +1,7 @@
-Mauvaises graines, de la nouvelle sérialisée au film
-====================================================
+**Mauvaises graines : de la nouvelle sérialisée au film**
+=========================================================
 
-Ce chapitre s’intéresse aux origines littéraires de la série *Invasion
+Cette partie s’intéresse aux origines littéraires de la série *Invasion
 of the Body Snatchers *: dans un premier temps, il sera question de
 l’adaptation du feuilleton de Jack Finney paru dans *Collider’s* durant
 les derniers mois de 1954[^1] et de son adaptation au grand écran pour
@@ -19,8 +19,8 @@ l’adaptation, il se limitera donc à offrir un compte rendu de la
 rassemblent et différencient le film de 1956 et son œuvre source sous
 ses deux formes.
 
-Adaptation : du feuilleton à la série B
----------------------------------------
+**Adaptation : du feuilleton à la série B**
+-------------------------------------------
 
 C’est dans le magazine bi-hebdomadaire[^2] *Collider’s*, entre des
 publicités pour du tabac à pipe et des cadeaux de noël, que l’on
@@ -30,21 +30,21 @@ la fiction dans *Collider’s* et d’autres magazines depuis 1947), ni à
 son premier récit de science-fiction, ou à sa première œuvre adaptée au
 cinéma[^3]. Dans une réponse à une lettre à Arthur LeGacy, l’auteur
 affirme « Tous mes livres sont écrits de cette manière \[avec un film en
-tête\] »[^4], « j’ai toujours affirmé que ne n’écris pas réellement des
+tête\] »[^4], « j’ai toujours affirmé que je n’écris pas réellement des
 romans, j’écris des films –le roman étant une bonne manière de rendre
 les producteurs attentifs à mes idées de films »[^5]. Si ces propos *a
 posteriori* (la correspondance entre LeGacy et Finney ayant eu lieu
 entre janvier et mai 1975[^6]) sont à considérer avec un certain recul,
 une majorité des dialogues originaux du feuilleton sont présents dans le
 film, parfois reproduits de manière exacte. Barry Keith Grand relève que
-certaines descriptions évoquent un style *film noir* qui influencera
+certaines descriptions évoquent le style du film noir qui influencera
 l’aspect visuel de l’adaptation de Siegel[^7]. Il s’appuie sur la scène
 d’observation du corps sur la table de billard, qui à plusieurs reprises
 décrit en détail l’éclairage contrasté de la salle : « L’éclairage d’une
 table de billard est conçu de manière à éclairer fortement la table. La
 lampe est suspendue de manière à ne pas aveugler le joueur tout en
 laissant le plafond dans la pénombre. »[^8] en donnant à cette lampe un
-mouvement et créant ainsi un jeu d’ombre dynamiques (« L’ombre se
+mouvement et créant ainsi un jeu d’ombre dynamiques (« l’ombre se
 balançait encore dans un petit demi-arc, la lumière dépassant les bords
 de la table puis se retirant sur les yeux ouverts du corps, laissant son
 front lisse dans une demi-pénombre pour un instant »[^9]) qui n’est pas
@@ -64,20 +64,20 @@ producteur cite une dégradation de la réception par le public lors de la
 quatrième projection-test qu’il attribue au « traitement
 antipathique »[^15] des modifications relatives au montage du film. En
 réalité, les incertitudes de Wagner par rapport au film avaient déjà
-commencé avant les premières projections test[^16]. En effet, durant le
+commencé avant les premières projections-test[^16]. En effet, durant le
 tournage du film : McGee évoque une lettre datée du 28 mars 1955
 adressée à un *studio executive* de Allied Artists en Angleterre afin de
 demander les droits d’utiliser un discours récemment prononcé par
 Winston Churchill pour l’introduction du film[^17]. Le 8 juillet, après
 trois des projections-test, Wagner rédige un mémorandum adressé au
-studio suggérant –entre autres– un monologue d’ouverture prononcé par
+studio suggérant – entre autres – un monologue d’ouverture prononcé par
 Orson Welles[^18] : une autre manifestation de l’insatisfaction du
 producteur envers l’ouverture de son film dans son état actuel. Grant
 attribue ces changements[^19] à une volonté de « rendre le message du
 film plus explicite »[^20] et « d’aider les spectateurs à suivre
 l’histoire »[^21], LaValley et McGee s’accordent à dire que ces
-changements manifestent une volonté de la part du producteur « d’élever
-le thème »[^22] du film en lui accordant une note de
+changements indiquent une volonté de la part du producteur « d’élever le
+thème »[^22] du film en lui accordant une note de
 « respectabilité »[^23]. Une lecture attentive du feuilleton original
 fait pourtant remarquer que Churchill n’était pas absent du récit
 source : le discours « We shall fight them in the fields… » est cité
@@ -85,15 +85,15 @@ dans les derniers paragraphes du feuilleton[^24], la citation étant
 nominativement attribuée à l’homme d’état britannique[^25]. Ces
 désaccords entre producteur, réalisateur et studio[^26] résonnent avec
 l’« instabilité »[^27] du texte dans sa forme filmique, que les
-monographies dédiées au film ne manquent pas de souligner –à travers le
+monographies dédiées au film ne manquent pas de souligner – à travers le
 contexte politique, *la blacklist*, le contexte de production et les
 aspirations individuelles des professionnels impliqués. Néanmoins, et
-probablement à cause du processus expéditif d’adaptation dans le cas de
+probablement à cause du processus expéditif de l’adaptation filmique de
 *Invasion of the Body Snatchers*, aucune étude ne se concentre sur les
 différences textuelles entre le film et son œuvre source. Il est
 pourtant difficile d’imaginer que le désaccord entre les parties
 impliquées n’ait pas trouvé racine dès l’écriture du scénario par
-Mainwaring. Ce chapitre propose donc, en acceptant le problème posé par
+Mainwaring. Cette partie propose donc, en acceptant le problème posé par
 certaines pièces manquantes[^28], d’effectuer une comparaison entre le
 feuilleton publié dans *Collider’s* et le film dans sa version finale
 (tout en prenant compte, si possible, des changements apportés à cette
@@ -116,7 +116,7 @@ puissante »[^34], et, d’autre part, elle confère à l’autorité
 fédérale[^35] la mission de remédier à la situation[^36] (bien que,
 comme le fait remarquer M. Keith Booker, « la possibilité que le FBI, la
 police et l’armée soit déjà contrôlées par les *pod people*
-existe. »[^37]). Pourtant aucun lien n’est établi entre la fin présentée
+existe. »[^37]) Pourtant aucun lien n’est établi entre la fin présentée
 par le film et celle du feuilleton. Dans le chapitre pénultième du
 feuilleton, Miles utilise ses dernières forces[^38] pour rassembler
 assez d’essence afin de démarrer un incendie dans un champ de culture
@@ -126,13 +126,13 @@ arrive à l’appui « dans un brouhaha venant de l’autoroute »[^40], ces
 derniers ayant également « intercepté les personnes tentant de
 transporter des pods vers d’autres villes »[^41]. Le feuilleton et le
 film, contrairement à la version originalement tournée et voulue par le
-réalisateur, partagent donc ce recours final à l’autorité qu’incarne le
-FBI et une résolution du conflit. Cette fin importe car le récit cadre
-*imposé* par les studios est systématiquement perçu par la critique
-comme trahissant la volonté originale d’un auteur. Or, il s’avère que le
-tournage des deux scènes composant le récit cadre ait été dirigé par
-Siegel lui-même[^42] et que celui-ci avoue que les ajouts apportés
-auraient aidé le film auraient[^43]. Le désaveu de Siegel par rapport au
+réalisateur, partagent donc le motif du recours final à l’autorité
+qu’incarne le FBI et la résolution du conflit. Cette fin importe car le
+récit cadre *imposé* par les studios est systématiquement perçu par la
+critique comme trahissant la volonté originale d’un auteur. Or, il
+s’avère que le tournage des deux scènes composant le récit cadre ait été
+dirigé par Siegel lui-même[^42] et que celui-ci avoue que les ajouts
+apportés auraient aidé le film[^43]. Le désaveu de Siegel par rapport au
 récit cadre émane d’une entrevue accordée à Stuart M. Kaminsky en
 1976[^44] et semble avoir largement influencé la lecture négative du
 récit cadre[^45]. Si cette variation entre la fin du feuilleton et celle
@@ -143,18 +143,18 @@ existantes entre le texte *à priori* figé[^47] de Finney et un texte *en
 devenir* de Mainwaring/Wagner/Siegel/Allied Artists. Mais l’ajout du
 récit cadre est loin d’être le seul changement apporté au feuilleton
 dans le cadre de son adaptation au grand écran : un certain nombre de
-passage sont modifiés ou supprimés, et un certain nombre de scènes sont
-ajoutées ; il s’agît à présent de s’intéresser à quelques-unes d’entre
+passages sont modifiés ou supprimés, et un certain nombre de scènes sont
+ajoutées ; il s’agit à présent de s’intéresser à quelques-unes d’entre
 elles afin d’interpréter leur implication pour le texte filmique.
 
-Un des changements importants à lieu dans la scène d’*explication*,
+Un des changements importants a lieu dans la scène d’*explication*,
 prenant la forme d’un dialogue entre Miles et un porte-parole des *pod
 people*. Dans les deux textes, cette scène a pour fonction principale
 d’expliquer au lecteur/spectateur les intentions des envahisseurs[^48] ;
 dans le cas de (*Invasion of*) *The Body Snatchers*, l’échange est
 également la seule occasion donnée aux *pod people* de justifier leur
-démarche et de tenter de convaincre les protagonistes non-transformés de
-se soumettre à leur destinée apparente. Pourtant, cette scène clé est
+démarche et de tenter de convaincre les protagonistes non transformés de
+se soumettre à leur destinée apparente. Pourtant, cette scène-clé est
 articulée différemment dans les deux versions des textes, aussi bien
 dans sa « durée »[^49] que dans son emplacement dans le récit. Dans le
 feuilleton, le rôle du porte-parole est laissé à L. Bernard Budlong, un
@@ -172,13 +172,13 @@ Cependant, au moment de partir, Miles se positionne en enquêteur[^56] et
 interroge le biologiste sur son activité professionnelle, après avoir
 constaté que les papiers étalés sur son bureau n’ont pas été touchés
 depuis longtemps. C’est donc une confrontation face à un mensonge qui
-amorce la longue explication scientifique[^57] du Prof. Budlong. Dans le
-film, le personnage du Prof. Budlong est absent : le rôle de
+amorce la longue explication scientifique[^57] du Prof. Budlong. Or,
+dans le film, le personnage du Prof. Budlong est absent : le rôle de
 porte-parole est laissé au Dr. Danny Kaufman[^58], ami de Miles et
-psychiatre de profession. Ce premier changement à plusieurs
+psychiatre de profession. Ce premier changement a plusieurs
 implications : d’une part, la profession du *représentant* n’est plus
 celle d’un biologiste mais celle d’un psychiatre, d’autre part, la
-relation de confiance qu’il entretenait[^59] avec Miles rends son
+relation de confiance qu’il entretenait[^59] avec Miles rend son
 discours et ton détaché d’autant plus troublant. Son explication et le
 plaidoyer qu’il offre en faveur des *pods* est bien moins scientifique
 en teneur que celle du Prof. Budlong. Danny insert des émotions[^60] au
@@ -191,22 +191,22 @@ Miles (et Becky) qui se rendent volontairement au domicile du
 *porte-parole *; dans le film, Danny (accompagné de Jack et d’un
 officier de police) fait irruption dans le cabinet de Miles, alors que
 ce dernier et Becky tentent de se cacher pour éviter d’être capturés. Ce
-changement de dynamique, de la visite cordiale à la prise au piège
-–d’autant plus accentué par un représentant des forces de l’ordre–,
+changement de dynamique, de la visite cordiale à la prise au piège –
+d’autant plus accentué par un représentant des forces de l’ordre –,
 confère *dans* le texte à la scène une ambiance qui passe de l’étrange
 rencontre à l’horreur de l’invasion (de la sphère professionnelle) ; et
 a pour effet d’accentuer la dimension horrifique de la scène. Dans le
 film, Becky se voit accordée une plus grande importance car elle
 participe activement au dialogue[^64] et un baiser entre les deux
-protagonistes est inclut, Becky affirmant « Je veux aimer et être aimée.
+protagonistes est inclut, Becky affirmant « je veux aimer et être aimée.
 Je veux tes enfants. Je ne veux pas vivre dans un monde sans amour, sans
-peine ou sans beauté. Je préfère mourir. »[^65]. Dans les deux textes,
-le personnage de Becky est défini à travers sa relation avec Miles,
-cette relation connaît toutefois un nombre important de changements dans
+peine ou sans beauté. Je préfère mourir »[^65]. Dans les deux textes, le
+personnage de Becky est défini à travers sa relation avec Miles, cette
+relation connaît toutefois un nombre important de changements dans
 l’adaptation cinématographique : le feuilleton décrit les deux
-personnages comme « s’étant marié, mais aucun des deux n’a réussi à
+personnages comme « s’étant mariés, mais aucun des deux n’a réussi à
 faire fonctionner leur mariage \[respectif\] »[^66] et précise le
-divorce dans un dialogue ou chaque personnage s’excuse pour le divorce
+divorce dans un dialogue où chaque personnage s’excuse pour le divorce
 de l’autre. Dans le film, la question est également abordée à travers un
 dialogue :
 
@@ -229,37 +229,37 @@ code Hays, en vigueur au moment de la production du film, ne se soucie
 plus de l’institution du mariage, ce changement informe l’entièreté du
 traitement de la relation entre les deux personnages dans le film. Les
 moments romantiques, rares dans le feuilleton[^69], sont multipliés dans
-le film : les plus prévalantes étant une scène de baiser dans une
-armoire, se terminant sur un fondu au noir et ouvrant sur un cendrier
-rempli de cigarettes et les deux amants assis proche l’un de l’autre au
-lendemain. Katrina Mann relève ses suggestions de « commémoration post
-coïtale avec une tournure macabre »[^70] (puisque c’est le moment ou
-Danny fait irruption dans le bureau de Miles). La scène du baiser ayant
-lieu après la transformation de Becky en *pod person* est plus
-signifiante encore. Cette scène inédite au film, largement l’objet de
-commentaires dans les articles de Mann[^71], Nancy Steffen-Fluhr[^72] et
-Michael Rogin[^73] est souvent interprétée en termes d’une culmination
-des anxiétés de la perte de l’hégémonie masculine et les changements des
-« rôles genrés traditionnels »[^74] durant la période de la Guerre
-Froide. Elle articule également une forme de *body horror* qui prend
-racine dans l’aspect reproductif du corps féminin (et, par extension, du
-*pod*). Ces ajouts consistent à approfondir la relation Miles/Becky, se
-soldant par un échec quand Becky s’avère être devenue elle-même un
-*pod*. En effet, selon Steffen-Fluhr, se sont les émotions de Miles
-envers Becky qui consituent le « battement de cœur »[^75] du film ;
-celui-ci se construisant en partie autour de l’acceptation/refus de
-Miles envers Becky[^76] et de sa peur de s’impliquer dans cette
-relation. Relation qui s’avère impossible dans le texte filmique quand
-Becky est transformée en *pod person*. Alors que le feuilleton, dans son
-épilogue, affirme que les deux amants sont ensemble et sous-entends
-qu’ils sont mariés[^77], offrant ainsi un tout autre dénouement à cet
-arc narratif.
+le film, les plus prévalantes étant une scène de baiser dans une
+armoire, laquelle se termine sur un fondu au noir et ouvre sur un
+cendrier rempli de cigarettes et les deux amants assis proche l’un de
+l’autre au lendemain. Katrina Mann relève ses suggestions de
+« commémoration post coïtale avec une tournure macabre »[^70] (puisque
+c’est le moment ou Danny fait irruption dans le bureau de Miles). La
+scène du baiser ayant lieu après la transformation de Becky en *pod
+person* est plus signifiante encore. Cette scène propre au film,
+largement l’objet de commentaires dans les articles de Mann[^71], Nancy
+Steffen-Fluhr[^72] et Michael Rogin[^73] est souvent interprétée en
+termes d’une culmination des anxiétés de la perte de l’hégémonie
+masculine et les changements des « rôles genrés traditionnels »[^74]
+durant la période de la Guerre Froide. Elle articule également une forme
+de *body horror* qui prend racine dans l’aspect reproductif du corps
+féminin (et, par extension, du *pod*). Ces ajouts consistent à
+approfondir la relation Miles/Becky, se soldant par un échec quand Becky
+s’avère être devenue elle-même un *pod*. En effet, selon Steffen-Fluhr,
+se sont les émotions de Miles envers Becky qui consituent le « battement
+de cœur »[^75] du film ; celui-ci se construisant en partie autour de
+l’acceptation/refus de Miles envers Becky[^76] et de sa peur de
+s’impliquer dans cette relation. Relation qui s’avère impossible dans le
+texte filmique quand Becky est transformée en *pod person*, alors que
+l’épilogue du feuilleton affirme que les deux amants sont ensemble et
+sous-entends qu’ils sont mariés[^77], offrant ainsi un tout autre
+dénouement à cet arc narratif.
 
 L’ensemble des changements apportés au texte lors de sa première
 adaptation au cinéma tendent vers une accentuation des éléments
 horrifiques : bien que la structure narrative du feuilleton (avec pour
 exception le récit-cadre discuté en amont) et ses personnages subsiste
-dans le film, les changements au texte opérés par l’adaptation
+dans le film, les changements du texte opérés par l’adaptation
 renforcent l’aliénation du personnage principal. Dans le film, Miles est
 d’emblée présenté comme un malade mental en besoin d’attention médicale
 dont les périples vont le mener à finir seul au milieu d’une autoroute,
@@ -270,24 +270,24 @@ et finissant par épouser Becky : un parcours sans faute qui répond à
 l’imaginaire du héros américain et aux normes relationnelles de
 l’époque.
 
-Du feuilleton au roman : un premier *remake *?
-----------------------------------------------
+**Du feuilleton au roman : un premier *remake *?**
+--------------------------------------------------
 
 Comme mentionné plus haut, l’écriture du premier jet du scénario a eu
-lieu dans les 40 premiers jours de l’année 1955. La première publication
-de l’histoire de Finney sous forme de roman a eu lieu en 1955 chez Dell
-Publishing aux Etats-Unis et Eyre & Spottiswoode en Angleterre. Bien que
-la première édition publiée chez Dell mentionne une date de première
-impression en avril 1955, il est impossible de déterminer si le la
-rédaction du roman est ultérieure à l’écriture de scénario par
-Mainwaring[^78]. Il est également impossible de mesurer l’implication de
-Finney dans la rédaction du scénario car les fiches de production
-mentionnent seulement une rencontre entre Finney, Wagner, Siegel et
-Mainwaring durant « la première semaine de 1955 »[^79]. Ce chapitre se
-propose toutefois de comparer l’histoire dans sa version feuilltonée et
-romanesque, avec l’objectif d’évaluer si ces changements sont imputables
-à l’adaptation filmique de Mainwaring. En effet, le film transforme-t-il
-le roman, et pour quel effet ?
+lieu dans les quarante premiers jours de l’année 1955. La première
+publication de l’histoire de Finney sous forme de roman a eu lieu en
+1955 chez Dell Publishing aux Etats-Unis et Eyre & Spottiswoode en
+Angleterre. Bien que la première édition publiée chez Dell mentionne une
+date de première impression en avril 1955, il est impossible de
+déterminer si la rédaction du roman est ultérieure à l’écriture de
+scénario par Mainwaring[^78]. Il est également impossible de mesurer
+l’implication de Finney dans la rédaction du scénario car les fiches de
+production mentionnent seulement une rencontre entre Finney, Wagner,
+Siegel et Mainwaring durant « la première semaine de 1955 »[^79]. Cette
+partie se propose toutefois de comparer l’histoire dans sa version
+feuilltonée et romanesque, avec l’objectif d’évaluer si ces changements
+sont imputables à l’adaptation filmique de Mainwaring. En effet, le film
+transforme-t-il le roman, et pour quel effet ?
 
 Le premier constat, très pratique, est la différence de longueur entre
 les deux versions : la version publiée en trois parties dans
@@ -311,16 +311,16 @@ prend en compte les débats autour de la post-production du film :
 > vous dire est ce que je sais.[^81]
 
 Cette ouverture, bien qu’elle ne corresponde en rien à celle introduite
-par le récit-cadre du film, a toutefois pour conséquence d’également
-nous livrer les informations suivantes : premièrement, le narrateur va
+par le récit-cadre du film, a toutefois pour conséquence de nous livrer
+également les informations suivantes : premièrement, le narrateur va
 nous raconter une histoire passée grâce à une analepse, deuxièmement,
 cette histoire est mystérieuse et pleine de questions ouvertes, et
 troisièmement, elle ne se clôturera pas sur la résolution de ce mystère
 ni n’offrira-t-elle une réponse à ces questions. Là où le feuilleton
 choisit de faire entrer le lecteur directement dans le feu de l’action
-sans avertissement préalable[^82], le roman opte –tout comme le film– de
-placer son histoire dans un récit cadre. Si son utilisation au cinéma ou
-en littérature n’est pas inédite, il est toutefois intéressant de
+sans avertissement préalable[^82], le roman opte – tout comme le film –
+de placer son histoire dans un récit cadre. Si son utilisation au cinéma
+ou en littérature n’est pas inédite, il est toutefois intéressant de
 constater qu’un élément complètement absent de la forme sérielle se
 retrouve dans le roman. Finney fait ici le même choix que Wagner quant à
 son récit, bien qu’aucune trace ne subsiste de leur(s) échange(s) quant
@@ -330,7 +330,7 @@ texte et présente dans les deux versions de ce dernier.
 
 Un autre changement concerne la relation Miles/Becky : le roman ajoute,
 par des dialogues supplémentaires, des détails sur leur passé (« Tu te
-rappelles quand tu m’as appelé, une fois ? »[^83] demande Becky,
+rappelles quand tu m’as appelée, une fois ? »[^83] demande Becky,
 initiant une série d’anecdotes et souvenirs communs) qui s’étale sur
 trois pages et inclut une description du *pod* ayant pris la forme de
 Becky[^84], contre une unique phrase dans le feuilleton[^85]. Il est
@@ -368,25 +368,26 @@ sincérité du narrateur :
 Ce doute se retrouve accentué dans le troisième paragraphe dans lequel
 Miles affirme « Pour un long, long moment, la chaleur de son corps
 pressé contre le mien était assez, puis soudain ne l’était plus »[^90].
-Si il se peut que le narrateur soit absolument sincère dans sa
+S’il se peut que le narrateur soit absolument sincère dans sa
 description des événements, il est aussi envisageable que, à la manière
 des fondus au noir dans le film, ces passages soient une façon de
 suggérer une relation sexuelle entre les deux protagonistes.
 
 La scène d’explication est le site d’un autre changement important,
-cette fois ci au niveau éditoriale, et rapproche le roman du
-film structurellement: comme abordé plus haut, la scène d’explication du
+cette fois-ci au niveau éditorial, et rapproche structurellement le
+roman du film : comme abordé plus haut, la scène d’explication du
 feuilleton et celle du film varient par leur contenu mais aussi par leur
 place dans le récit. Dans le roman, la scène d’explication chez le Prof.
-Budlong est transposée manière presque exacte, mais une deuxième scène
-d’explication –cette fois-ci, axée sur le *plaidoyer* en faveur des *pod
-people*– est ajoutée… ayant lieu dans le bureau de Miles. La dynamique
-de la scène du film se retrouve donc dans le roman : l’irruption de
-plusieurs individus dans le bureau et une longue discussion[^91] sur le
-*pourquoi* de l’invasion qui se conclut avec une lutte entre Miles et
-les intrus. Ce déplacement et ajout est la trace la plus significative
-de l’influence du texte filmique sur le roman, puisqu’il reproduit une
-des scènes pour l’inclure à nouveau plus tard dans le récit.
+Budlong est transposée de manière presque exacte, mais une deuxième
+scène d’explication – cette fois-ci, axée sur le *plaidoyer* en faveur
+des *pod people* – est ajoutée et a lieu dans le bureau de Miles. La
+dynamique de la scène du film se retrouve donc dans le roman :
+l’irruption de plusieurs individus dans le bureau et une longue
+discussion[^91] sur le *pourquoi* de l’invasion qui se conclut avec une
+lutte entre Miles et les intrus. Ce déplacement et ajout sont la trace
+la plus significative de l’influence du texte filmique sur le roman,
+puisqu’il reproduit une des scènes pour l’inclure à nouveau plus tard
+dans le récit.
 
 Toutefois, certains changements dans la conversion du feuilleton au
 roman sont difficilement attribuables au film : l’insistance dans les
@@ -402,27 +403,28 @@ articule est centrale à la quatrième scène du film[^94] dans laquelle
 Miles –roulant en voiture en direction de Santa Mira– assiste à une
 tentative de fugue de Jimmy Grimaldi dont le père tient un stand de
 vente de légumes au bord de la route. En partant, la voix-over de Miles
-lance « Et ce stand fermé et plein d’ordures aurait dû m’évoquer quelque
-chose. La dernière fois que je l’ai vu il y’a moins d’un mois, c’était
+lance « et ce stand fermé et plein d’ordures aurait dû m’évoquer quelque
+chose. La dernière fois que je l’ai vu il y a moins d’un mois, c’était
 le magasin le plus propre et le plus visité au bord de la route »[^95].
 Cette scène contribue à renforcer le ton mystérieux du film, mais évoque
 aussi une certaine nostalgie de la part du narrateur.
 
 Difficile de donner ici une réponse définitive quant à l’influence du
 film dans la conversion du feuilleton au roman, mais certains éléments
-permettent de au moins imaginer une certaine porosité entre les
-différentes versions. Dans tous les cas, cette comparaison a montré que
-les changements apportés par Finney à son histoire lors pour l’édition
-du roman ne sont pas uniquement imputables au changement de *format* de
+permettent au moins d’imaginer une certaine porosité entre les
+différentes versions. Dans tous les cas, cette comparaison montre que
+les changements apportés par Finney à son histoire lors de l’édition du
+roman ne sont pas uniquement imputables au changement de *format* de
 publication : ils trahissent une volonté de l’auteur d’ajuster son
-histoire à travers des modifications de fond plus conséquentes. La
-prochaine partie propose d’étudier comment cette volonté se manifeste
+histoire à travers des modifications de fond plus conséquentes.
+
+La prochaine partie propose d’étudier comment cette volonté se manifeste
 également dans les éditions ultérieures du roman, modifications qu’il
 est particulièrement intéressant d’aborder à l’aune des adaptations
 ultérieures de l’histoire de Finney au cinéma.
 
-(The *Invasion of*) *The Body Snatchers* comme une série littéraire parallèle
------------------------------------------------------------------------------
+**(The *Invasion of*) *The Body Snatchers* comme une série littéraire parallèle**
+---------------------------------------------------------------------------------
 
 Lors de sa première publication en 1955 par Dell et Eyre & Spottiswoode,
 le roman de Jack Finney porte encore le titre de *The Body Snatchers*,
@@ -432,14 +434,14 @@ réédition de 1961. En 1978, date de sortie en salles du remake de
 Kaufman, Dell réédite encore une fois le livre, et abandonne cette fois
 le « The » pour adopter le titre exacte du film; avec une couverture
 qui, pour la première fois, fait une allusion directe à une adaptation
-cinématographique de par le texte[^96] et l’illustration[^97] (fig. 4).
+cinématographique de par le texte[^96] et l’illustration[^97] (fig. 1).
 Ce titre sera conservé pour toutes les éditions ultérieures du
 roman[^98], avec la mention « By Jack Finney, author of *Time and
 Again* » remplaçant la référence au film au Kaufman. L’édition « 60^ème^
 anniversaire » éditée par Touchstone en 2015, bien qu’employant le titre
 complet *Invasion of the Body Snatchers*, fait référence au titre
 original du roman par un jeu de couleur et de taille de police du titre
-sur la couverture (fig. 5) : le « Invasion of », écrit en blanc dans une
+sur la couverture (fig. 2) : le « Invasion of », écrit en blanc dans une
 police plus petite alors que le « The Body Snatchers », est mis en
 évidence par une coloration jaunâtre et l’utilisation d’une police plus
 grande qui attire l’œil du lecteur. Il est également intéressant de
@@ -453,19 +455,19 @@ attirera un nouveau lectorat.
 Au-delà des changements cosmétiques, les rééditions successives
 entraînent également leur lot de changements dans le corps même du
 texte. Une altération intéressante intervient en marge des corrections
-d’orthographes et de mise en page: alors que le feuilleton ne donne
+d’orthographe et de mise en page : alors que le feuilleton ne donne
 aucune indication quant a une date exacte[^99], la première édition du
-roman par Dell évoque les dates très précises du « jeudi 13 aout 1953 »
-(à 6 heures précises, le début des événements du livre) et d’un
+roman par Dell évoque les dates très précises du « jeudi 13 août 1953 »
+(à six heures précises, le début des événements du livre) et d’un
 événement passé s’étant déroulé le « 2 septembre 1944 ». À partir de
 l’édition de 1978, la deuxième date reste identique alors que le roman
-ouvre sur un « jeudi 28 octobre 1976 » (toujours à 6 heures précise) :
+ouvre sur un « jeudi 28 octobre 1976 » (toujours à six heures précise) :
 il est évident que ces deux éditions placent l’histoire deux années
 avant la publication. Afin d’éviter certains anachronismes, l’éditeur
 change également un autre élément *crucial *: les marques de voitures ;
 la « Ford bleue » de 1953 devient une « Volvo bleue » en 1976, Miles ne
-conduit plus une « convertible Ford ‘52 » mais une « Mercedes
-‘73 2-places ». Ces changements mineurs, qui limitent le travail de
+conduit plus une « convertible Ford ‘52 » mais une « Mercedes
+‘73 2-places ». Ces changements mineurs, qui limitent le travail de
 l’auteur/éditeur au remplacement de quelques mots, permettent de
 remettre au goût du jour le roman en facilitant pour le lecteur
 l’identification (et, par extension, l’horreur). Dans le cadre d’un
@@ -478,45 +480,67 @@ limitée[^101], la mise à jour passe ici par un changement d’ancrage
 temporel du récit correspondant mieux avec celui du lecteur. Chaque
 réédition, de par les modifications qu’elle apporte, serait donc une
 sorte de *remake* de *The Body Snatchers*. Le résultat est une série de
-remakes littéraires jointe à la série de remake filmique qui bénéficie
-du publique de sa série parallèle, obéissant à une logique commerciale
-de synergies : les deux produits étant adressés à un public
-similaire[^102] sans pour autant évoluer dans le même marché.
-Contrairement à une sortie simultanée en salles[^103] d’un film
-*original* et son remake, qui cannibaliserait les parts de marché, une
-sortie simultané d’un film et du livre dont il est adapté –ou de
-*produits dérivés* en général– permet à chacun des produits de profiter
-du retentissement médiatique de l’autre. Ces *produits dérivés* ayant
-pour effet de solidifier la place du film dans la culture populaire par
-un processus d’artéfaction, créant des conditions idéales envers sa
-canonisation.
+remakes littéraires jointe à la série de remakes filmiques qui bénéficie
+du public de sa série parallèle, obéissant à une logique commerciale de
+synergies : les deux produits étant adressés à un public similaire[^102]
+sans pour autant évoluer dans le même marché. Contrairement à une sortie
+simultanée en salles[^103] d’un film *original* et son remake, qui
+cannibaliserait les parts de marché, une sortie simultané d’un film et
+du livre dont il est adapté – ou de *produits dérivés* en général –
+permet à chacun des produits de profiter du retentissement médiatique de
+l’autre. Ces *produits dérivés* ayant pour effet de solidifier la place
+du film dans la culture populaire par un processus d’artéfaction, créant
+des conditions idéales pour sa canonisation.
 
-[^1]: En trois parties dans les numéros du 26 novembre, 10 et 24
-    décembre.
+Dans cette partie, il a été question des origines littéraires de
+*Invasion of the Body Snatchers*, tout d’abord du feuilleton en trois
+parties publié dans *Collider’s* puis de la publication sous forme
+romanesque en 1955 et ses éditions ultérieures. Une lecture comparée
+entre les différents textes (feuilleton, film de Siegel et roman) a
+montré une certaine instabilité du texte original par rapport à son
+adaptation cinématographique, instabilité qui se manifeste dans le
+contexte de production du film mais également dans le déplacement
+générique de l’œuvre en deçà de ses origines science-fictionnelles vers
+l’horreur. La lecture croisée a également permis de constater une
+certaine porosité entre le film et le roman, ce premier informant une
+partie des changements opérés par Finney lors du transfert de son œuvre
+sur un nouveau support. Finalement, un retour sur l’historique de
+publication du roman de Finney a permis de constater que les changements
+apportés au fil des éditions trouvent un certain écho dans la
+trajectoire de ses versions filmiques. L’analyse effectuée permet de
+dresser un premier bilan quant au rôle du remake dans le processus de
+canonisation d’une œuvre filmique adaptée d’une source littéraire[^104],
+et de mesurer le rôle de l’instabilité de la source comme créatrice de
+conditions favorables à la sérialité.
+
+[^1]: Histoire publiée en trois parties dans les numéros du 26 novembre,
+    10 et 24 décembre. REMARQUE POUR TOUTES LES NOTES : FAIRE DES
+    PHRASES COMPLETES.
 
 [^2]: La chute du lectorat après la Seconde Guerre Mondiale ayant forcé
     les éditeurs à réduire le rythme publication, hebdomadaire depuis la
     création du magazine en 1888. Voir « *Collider’s Weekly »*,
     Spartacus Educational,
-    <http://spartacus-educational.com/USAcolliers.htm>, consulté le
-    09.12.2016.
+    <http://spartacus-educational.com/USAcolliers.htm> (consulté le
+    09.12.2016). REMARQUE POUR TOUTES LES NOTES WEB : METTRE LE CONSULTE
+    ENTRE PARENTHESES.
 
 [^3]: *5 Against the House* (*On ne joue pas avec le crime*, Phil
     Karlson, 1955), basé sur son roman du même nom paru en 1954, est
-    alors en tournage. Voir « *5 Against the House* », AFI : Catalog of
+    alors en tournage. Voir « *5 Against the House* », AFI, Catalog of
     Feature Films,
-    <http://www.afi.com/members/catalog/DetailView.aspx?s=&Movie=51499>,
-    consulté le 09.12.2016.
+    <http://www.afi.com/members/catalog/DetailView.aspx?s=&Movie=51499>
+    (consulté le 09.12.2016).
 
 [^4]: « All my books have been written that way \[with a picture in
-    mind\] ». Arthur Legacy, « *The Invasion of the Body Snatchers*: A
-    Metaphor for the Fifties », *Litterature/Film Quarterly*, Vol. 6,
-    No. 3, été 1978, p. 287.
+    mind\] » (Arthur Legacy, « *The Invasion of the Body Snatchers *: A
+    Metaphor for the Fifties », *Litterature/Film Quarterly*, vol. 6, n°
+    3, été 1978, p. 287).
 
 [^5]: « I have always said that I don’t really write novels, I write
-    movies –the novel form being a good way to bring my movie ideas to
-    the attention of the movie makers. ». Arthur Legacy, *ibid.*, p.
-    287.
+    movies – the novel form being a good way to bring my movie ideas to
+    the attention of the movie makers. » \[Arthur Legacy, *ibid.*, p.
+    287\].
 
 [^6]: Arthur Legacy, *ibid.*, p. 292.
 
@@ -525,15 +549,14 @@ canonisation.
 
 [^8]: « The light over a billiard table is designed to light up the
     table surface brilliantly. It hangs low so it won't shine in your
-    eyes as you play, and it leaves the ceiling in darkness. ». Jack
+    eyes as you play, and it leaves the ceiling in darkness. » \[Jack
     Finney, « *The Body Snatchers (First of Three Parts)* »,
-    *Collider’s*, 26 novembre 1954, p. 94.
+    *Collider’s*, 26 novembre 1954, p. 94\].
 
 [^9]: « The shade still swung in a tiny half-inch arc, the light
     spilling off over the edge of the table, then retreating to the open
     eyes of the body, leaving the smooth forehead in semi-dark for an
-    instant. ». Jack Finney, « *The Body Snatchers (First of Three
-    Parts)* », *op. cit.*, p. 97.
+    instant. » \[Jack Finney, *ibid*., p. 97\].
 
 [^10]: Al LaValley (éd.), *Invasion of the Body Snatchers*, New
     Brunswick, Rutgers University Press, 1989, p. 3.
@@ -541,7 +564,7 @@ canonisation.
 [^11]: Al LaValley (éd.), *ibid.*, p. 3.
 
 [^12]: Un compte rendu détaillé du tournage, jour-par-jour, est donné
-    par Mark Thomas McGee, *Invasion of the Body Snatchers: The Making
+    par Mark Thomas McGee, *Invasion of the Body Snatchers : The Making
     of a Classic*, Duncan, BearManor, 2012, pp. 43-59.
 
 [^13]: Grant cite un communiqué de presse trouvé dans les archives
@@ -549,15 +572,17 @@ canonisation.
     tournage 90 jours après que la dernière partie ait été publiée dans
     *Collider’s* » (« it established a record in reaching the
     photography stage 90 days after the last installment was published
-    in *Collider’s* »). Cité dans Barry Keith Grant, *op. cit.*, p. 35.
+    in *Collider’s* ») \[cité dans Barry Keith Grant, *op. cit.*, p.
+    35\].
 
 [^14]: Mark Thomas McGee, *op. cit.*, p. 67
 
 [^15]: « unsympathetic treatment ». Walter Wagner, « Memorandum to
-    Myself », 24 aout 1955, reproduit dans Al LaValley (éd.), *op.
-    cit.*, p. 142.
+    Myself », 24 aout 1955 \[reproduit dans Al LaValley (éd.), *op.
+    cit.*, p. 142\].
 
-[^16]: Que Grant date au 10 juin. Barry Keith Grant, *op. cit.*, p. 35.
+[^16]: Que Grant date au 10 juin \[Barry Keith Grant, *op. cit.*, p.
+    35\].
 
 [^17]: Mark Thomas McGee, *op. cit.*, p. 62. Lettre également
     mentionnée, mais non reproduite, dans Al LaValley (éd.), *op. cit.*,
@@ -569,16 +594,16 @@ canonisation.
 [^19]: Non seulement la suggestion du monologue introductif, mais
     également l’ajout de voix-over enregistrés par l’acteur principal.
 
-[^20]: « make the movie’s message more explicit ». Barry Keith Grant,
-    *op. cit.*, p. 35.
+[^20]: « Make the movie’s message more explicit » \[Barry Keith Grant,
+    *op. cit.*, p. 35\].
 
-[^21]: « help viewers follow the story ». Barry Keith Grant, *op. cit.*,
-    p. 35.
+[^21]: « Help viewers follow the story » \[Barry Keith Grant, *op.
+    cit.*, p. 35\].
 
-[^22]: « heighten the theme ». Al LaValley (éd.), *op. cit.*, pp. 14.
+[^22]: « Heighten the theme » \[Al LaValley (éd.), *op. cit.*, p. 14\].
 
-[^23]: « add a note of respectability ». Mark Thomas McGee, *op. cit.*,
-    p. 62.
+[^23]: « Add a note of respectability » \[Mark Thomas McGee, *op. cit.*,
+    p. 62\].
 
 [^24]: Jack Finney, « *The Body Snatchers (Conclusion)* », *Collider’s*,
     24 décembre 1954, p. 73.
@@ -592,7 +617,7 @@ canonisation.
     dans le montage notamment à travers de suggestions de coupes très
     précises.
 
-[^27]: « its instability ». Al LaValley (éd.), *op. cit.*, pp. 15.
+[^27]: « Its instability » \[Al LaValley (éd.), *op. cit.*, p. 15\].
 
 [^28]: Seul le *continuity script* établi sur base de visionnement de
     film par McGee (« de mémoire » après plusieurs dizaines visionnement
@@ -602,7 +627,7 @@ canonisation.
     scénario.
 
 [^29]: Don Siegel, « Letter to Walter Wagner », 19 mai 1955, reproduit
-    dans Al LaValley (éd.), *op. cit.*, pp. 129-132; Don Siegel,
+    dans Al LaValley (éd.), *op. cit.*, pp. 129-1; Don Siegel,
     « Memorandum to Walter Wagner », 21 septembre 1955, reproduit dans
     Al LaValley (éd.), *op. cit.*, pp. 135-137.
 
@@ -617,24 +642,24 @@ canonisation.
 
 [^32]: Al LaValley (éd.), *op. cit.*, pp. 126.
 
-[^33]: « more optimistic ending ». J. Hoberman, « Paranoia and the Pods
-    », *Sight and Sound*, Vol. 4, No. 5, mai 1994, p. 30
+[^33]: « More optimistic ending » \[J. Hoberman, « Paranoia and the Pods
+    », *Sight and Sound*, Vol. 4, No. 5, mai 1994, p. 30\].
 
-[^34]: « compromised the power of the original ». Georges Turner, « A
+[^34]: « Compromised the power of the original ». Georges Turner, « A
     Case for Insomnia », *American Cinematographer*, Vol. 78, No. 3,
     mars 1997, p. 80
 
 [^35]: Et donc, en certains termes, *ultime*.
 
-[^36]: MATTHEWS, Melvin E. Jr, *Hostile Aliens, Hollywood and Today’s
+[^36]: Melvin E. Jr Matthews, *Hostile Aliens, Hollywood and Today’s
     News. 1950s Science Fiction Films and 9/11*, New York, Algora
     Publishing, 2007, p. 39.
 
 [^37]: « The ending leaves open the possibility that the FBI, police,
     and military may themselves already be controlled by the pod
-    people. ». M. Keith Booker, *Alternate Americas: Science Fiction
+    people. » \[M. Keith Booker, *Alternate Americas: Science Fiction
     Films and American Culture*, Westport CT/London, Praeger, 2006, p.
-    64.
+    64\].
 
 [^38]: S’aidant en réalité de « deux tablettes de Benzedrine », un des
     noms sous lesquels l’amphétamine était commercialisée. Le travail
@@ -642,20 +667,20 @@ canonisation.
     drogue et le discours médical dans les films.
 
 [^39]: « This was futile of course –there were hundreds of pods– but the
-    chance to take a stand is always the one to take. ». Jack Finney, «
-    *The Body Snatchers (Conclusion)* », *op. cit.*, p. 72.
+    chance to take a stand is always the one to take. » \[Jack Finney, «
+    *The Body Snatchers (Conclusion)* », *op. cit.*, p. 72\].
 
-[^40]: « a roar of several cars coming down the highway ». Jack Finney,
-    « *The Body Snatchers (Conclusion)* », *op. cit.*, p. 73.
+[^40]: « a roar of several cars coming down the highway » \[Jack Finney,
+    « *The Body Snatchers (Conclusion)* », *op. cit.*, p. 73\]
 
 [^41]: « How the FBI had intercepted the people trying to take pods to
-    other towns ». Jack Finney, « *The Body Snatchers (Conclusion)* »,
-    *ibid.*
+    other towns » \[Jack Finney, « *The Body Snatchers (Conclusion)* »,
+    *ibid.*\]
 
 [^42]: Barry Keith Grant, *op. cit.*, p. 37.
 
 [^43]: Grant citant un mémo de Siegel adressé à Wagner et daté du 21
-    septembre 1955. Barry Keith Grant, *ibid.*
+    septembre 1955. (Barry Keith Grant, *ibid.*)
 
 [^44]: Stuart M. Kaminsky, « Don Siegel on the Pod Society », in Thomas
     R. Adkins (éd.), *Science Fiction Films*, New York, Simon and
@@ -672,7 +697,7 @@ canonisation.
     Hoberman, *An Army of Phantoms: American Movies and the Making of
     the Cold War*, New York/London, The New Press, 2011, pp. 117-127.
 
-[^47]: La deuxième partie de ce chapitre s’efforcera de mettre en
+[^47]: La deuxième moitié de cette partie s’efforcera de mettre en
     perspective la stabilité du texte de Finney dans la période de
     production et de diffusion du film et de ses remakes.
 
@@ -685,22 +710,20 @@ canonisation.
     écrit, elle implique ici l’importance en termes de volume de texte
     (dialogue direct ou indirect) accordée à la scène.
 
-[^50]: « botany and biology professor at a local college ». Jack Finney,
-    « *The Body Snatchers (Second of three Parts)* », *Collider’s*, 10
-    décembre 1954, p. 117.
+[^50]: « botany and biology professor at a local college » \[Jack
+    Finney, « *The Body Snatchers (Second of three Parts)* »,
+    *Collider’s*, 10 décembre 1954, p. 117\]
 
-[^51]: « *mysterious objects* found on a farm west of town». Jack
-    Finney, « *The Body Snatchers (Second of three Parts)* », *ibid.*
+[^51]: « *mysterious objects* found on a farm west of town». \[Jack
+    Finney, « *The Body Snatchers (Second of three Parts)* », *ibid.\]*
 
 [^52]: Finney accorde à la scène 3 pages entières à la scène. Jack
-    Finney, « *The Body Snatchers (Second of three Parts)* », *op.
-    cit.*, pp. 122-124
+    Finney , *ibid.*, pp. 122-124.
 
 [^53]: Becky est présente mais ne s’exprime pas verbalement, seules ses
     réactions physiques sont décrites par Miles.
 
-[^54]: « the reporter trapped me ». Jack Finney, « *The Body Snatchers
-    (Second of three Parts)* », *op. cit.*, p. 122.
+[^54]: « The reporter trapped me » \[Jack Finney, *op. cit.*, p. 122\]
 
 [^55]: Un commentaire sur le rôle des médias totalement absent de la
     version de Siegel, mais qui sera réarticulée dans les versions de
@@ -712,9 +735,8 @@ canonisation.
 
 [^57]: En se basant grandement sur la théorie darwinienne de
     l’évolution, décrivant les pods comme « une forme de vie
-    complètement évoluée, sa forme ultime » ; « completely evolved life,
-    its ultimate form. ». Jack Finney, « *The Body Snatchers (Second of
-    three Parts)* », *op. cit.*, p. 124.
+    complètement évoluée, sa forme ultime » (« completely evolved life,
+    its ultimate form. ») \[Jack Finney, *op. cit.*, p. 124\].
 
 [^58]: Personnage également présent dans le feuilleton sous le nom de
     « Dr. Mannie Kaufman ».
@@ -723,7 +745,7 @@ canonisation.
 
 [^60]: Ou plutôt le manque d’émotions.
 
-[^61]: Citée en intégralité dans le premier chapitre du travail.
+[^61]: Citée en intégralité dans la première partie du travail.
 
 [^62]: Plus lié au genre de l’horreur.
 
@@ -735,31 +757,31 @@ canonisation.
     remarque d’autant plus évidente.
 
 [^65]: « I want to love and be loved. I want your children. I don’t want
-    a world without love or grief or beauty. I’d rather die. ». Al
-    LaValley (éd.), *op. cit.*, p. 89.
+    a world without love or grief or beauty. I’d rather die. » \[Al
+    LaValley (éd.), *op. cit.*, p. 89\]
 
-[^66]: « We had both married, neither had been able to make it work ».
-    Jack Finney, « *The Body Snatchers (First of Three Parts)* »,
-    *Collider’s*, 26 novembre 1954, p. 26.
+[^66]: « We had both married, neither had been able to make it work »
+    \[Jack Finney, « *The Body Snatchers (First of Three Parts)* »,
+    *Collider’s*, 26 novembre 1954, p. 26\].
 
 [^67]: « MILES: (*looking at her romantically*) When did you get back? /
     BECKY: I came back from London two months ago. I’ve been to Reno. /
     MILES: Reno? /BECKY: Reno. (*She manages a slight ironic laugh.*)
-    Dad tells me you were there too. /MILES: Five months ago.». Al
-    LaValley (éd.), *op. cit.*, pp. 38-39.
+    Dad tells me you were there too. /MILES: Five months ago.». \[Al
+    LaValley (éd.), *op. cit.*, pp. 38-39\].
 
 [^68]: Voir « Divorce in Reno », TVTropes,
-    <http://tvtropes.org/pmwiki/pmwiki.php/Main/DivorceInReno>, consulté
-    le 10.12.2016.
+    <http://tvtropes.org/pmwiki/pmwiki.php/Main/DivorceInReno> (consulté
+    le 10.12.2016).
 
 [^69]: La rencontre dans la première partie, une scène de séduction qui
     se solde par un baiser dans la deuxième, et une embrassée dans la
     fin de la troisième.
 
-[^70]: « postcoital commemoration with a macabre twist ». Katrina Mann,
+[^70]: « postcoital commemoration with a macabre twist » \[Katrina Mann,
     « ‹ You're Next! ›: Postwar Hegemony Besieged in Invasion of the
     Body Snatchers », *Cinema Journal*, Vol. 44, No. 1, automne 2004, p.
-    61.
+    61\].
 
 [^71]: Katrina Mann, *ibid.*
 
@@ -773,26 +795,26 @@ canonisation.
     Angeles/London, University of California Press, 1988 \[1987\], pp.
     236-271.
 
-[^74]: « traditional gender roles ». Nancy Steffen-Fluhr, *op. cit.*, p.
-    143.
+[^74]: « traditional gender roles » \[Nancy Steffen-Fluhr, *op. cit.*,
+    p. 143\].
 
-[^75]: « the heartbeat of the film ». Nancy Steffen-Fluhr, *op. cit.*,
-    p. 140.
+[^75]: « the heartbeat of the film ». \[Nancy Steffen-Fluhr, *op. cit.*,
+    p. 140\].
 
 [^76]: Celui-ci tenant à plusieurs reprises de dissuader Becky de le
     considérer comme partenaire, soulignant par exemple le fait que les
     docteurs ne sont pas de bons maris et recassant l’échec de son
     premier mariage.
 
-[^77]: « we’re together, Becky and I, for better or worse ». Jack
-    Finney, « *The Body Snatchers (Conclusion)* », *op. cit.*, p. 73.
+[^77]: « We’re together, Becky and I, for better or worse» \[Jack
+    Finney, *op. cit.*, p. 73\].
 
 [^78]: La possibilité subsiste car la première version du scenario ayant
     été terminée le 10 février.
 
 [^79]: « All three met Jack Finney in Mill Valley in Northern California
-    in the first week of January 1955 to discuss the film. ». Al
-    LaValley (éd.), *op. cit.*, p. 3.
+    in the first week of January 1955 to discuss the film. » \[Al
+    LaValley (éd.), *op. cit.*, p. 3\].
 
 [^80]: Jack Finney, *Invasion of the Body Snatchers*, New
     York/London/Toronto/Syndney/New Delhi, Touchstone, 2015 \[1989\], p.
@@ -810,8 +832,8 @@ canonisation.
     happened, or why, or just how it began, how it ended, or if it has
     ended; and I've been right in the thick of it. Now if you don't like
     that kind of story, I'm sorry, and you'd better not read it. All I
-    can do is tell what I know. ». Jack Finney, *Invasion of the Body
-    Snatchers*, *op. cit.*, p. 1.
+    can do is tell what I know. » \[Jack Finney, *Invasion of the Body
+    Snatchers*, *op. cit.*, p. 1\].
 
 [^82]: Bien qu’un récit en trois parties pourrait bénéficier d’un
     *teaser* initial afin d’accrocher un lecteur feuilletant le
@@ -819,8 +841,8 @@ canonisation.
     bénéficient elle d’un « résumé » des événements passés par les
     parties antérieures.
 
-[^83]: « Remember when you called me once? ». Jack Finney, *Invasion of
-    the Body Snatchers*, *op. cit.*, p. 4.
+[^83]: « Remember when you called me once? » \[Jack Finney, *Invasion of
+    the Body Snatchers*, *op. cit.*, p. 4\].
 
 [^84]: Jack Finney, *Invasion of the Body Snatchers*, *op. cit.*, pp.
     52-54.
@@ -828,11 +850,12 @@ canonisation.
 [^85]: Jack Finney, « *The Body Snatchers (First of Three Parts)* »,
     *op. cit.*, p. 98.
 
-[^86]: « The hair, like Becky’s, was brown and wavy ». Jack Finney,
-    *Invasion of the Body Snatchers*, *op. cit.*, p. 52.
+[^86]: « The hair, like Becky’s, was brown and wavy » \[Jack Finney,
+    *Invasion of the Body Snatchers*, *op. cit.*, p. 52\].
 
-[^87]: « I’d seen Becky at least every other night all the past week ».
-    Jack Finney, *Invasion of the Body Snatchers*, *op. cit.*, p. 21.
+[^87]: « I’d seen Becky at least every other night all the past week »
+    \[Jack Finney, *Invasion of the Body Snatchers*, *op. cit.*, p.
+    21\].
 
 [^88]: Son intention, soit de demander un changement de chambre ou
     d’aller dormir ailleurs n’est pas précisée dans le texte.
@@ -844,16 +867,16 @@ canonisation.
     had no sleep at all since three o'clock of the night before. Anyway,
     there's a time and place for everything, and while this may have
     been the place, it wasn't the time for a million reasons. We slept.
-    ». Jack Finney, *Invasion of the Body Snatchers*, *op. cit.*, p.
-    109.
+    » \[Jack Finney, *Invasion of the Body Snatchers*, *op. cit.*, p.
+    109\].
 
 [^90]: « For a long, long moment, the warm length of her pressed against
-    mem that was enough; and then it wasn’t ». Jack Finney, *Invasion of
-    the Body Snatchers*, *ibid*.
+    mem that was enough; and then it wasn’t » \[Jack Finney, *Invasion
+    of the Body Snatchers*, *ibid*.\]
 
-[^91]: Deux chapitres du roman y sont dédiés uniquement à la
-    conversation. Jack Finney, *Invasion of the Body Snatchers*, *op.
-    cit.*, pp. 160-177.
+[^91]: Deux chapitres du roman sont dédiés uniquement à la conversation.
+    Jack Finney, *Invasion of the Body Snatchers*, *op. cit.*, pp.
+    160-177.
 
 [^92]: Jack Finney, *Invasion of the Body Snatchers*, *op. cit.*, pp.
     112-122.
@@ -866,8 +889,8 @@ canonisation.
 
 [^95]: « And that littered, closed-up vegetable stand should have told
     me something, too. When I last saw it less than a month ago, it was
-    the cleanest and busiest stand on the road ». Al LaValley (éd.),
-    *op. cit.*, p. 35.
+    the cleanest and busiest stand on the road » \[Al LaValley (éd.),
+    *op. cit.*, p. 35\].
 
 [^96]: « Lisez le roman qui a inspiré le film le plus terrifiant de
     l’année ».
@@ -880,10 +903,10 @@ canonisation.
 [^99]: Le narrateur commence le récit en faisant référence à « jeudi
     dernier ».
 
-[^100]: « Bazin subscribes to an evolutionary model of the cinema ».
-    Jennifer Forrest et Leonard R. Koos (éds.), *Dead Ringers: The
+[^100]: « Bazin subscribes to an evolutionary model of the cinema »
+    \[Jennifer Forrest et Leonard R. Koos (éds.), *Dead Ringers: The
     Remake in Theory and Practice*, Albany, State University of New York
-    Press, 2002, p. 20.
+    Press, 2002, p. 20\].
 
 [^101]: Puisque la « forme » du roman passe principalement par son
     aspect physique (police, mise-en-page, taille et facture de
@@ -899,4 +922,13 @@ canonisation.
     puisqu’elle constitue un argument de vente. Dans le cas du film de
     Kaufman, les supports de distributions *home media* de l’époque
     n’auraient pas permis une double édition sans engendrer un
-    *quasi*-doublement des couts de production.
+    *quasi*-doublement des coûts de production.
+
+[^104]: La discussion sur le statut canonique du roman de Finney dans la
+    science-fiction dépasse elle aussi l’envergure du présent travail :
+    les questions de réception autour du roman n’ayant pas été abordées.
+    Il convient toutefois de préciser que les multiples rééditions et la
+    place qu’occupe *The Body Snatchers* dans les ouvrages concernant la
+    science-fiction (et l’horreur) littéraire permettent facilement de
+    défendre son statut, sinon de classique, au moins d’œuvre majeure
+    dans ces genres.

@@ -1,34 +1,34 @@
 **Bilan historiographique (réception critique/réception académique)**
 
-En préambule à ce chapitre consacré au bilan historiographique, il
+En préambule à cette partie consacré au bilan historiographique, il
 convient d’apporter quelques précisions méthodologiques quant au choix
-des sources utilisées. Ce chapitre se concentre sur la réception
+des sources utilisées. Cette partie se concentre sur la réception
 critique et académique de *Invasion of the Body Snatchers* et ses
 remakes : le contexte du roman source sera discuté ultérieurement, dans
-le deuxième chapitre. Ce choix répond tout d’abord à une volonté – dans
-un premier temps – de séparer notre objet (le film et ses remakes) et sa
+la deuxième partie. Ce choix répond tout d’abord à une volonté – dans un
+premier temps – de séparer notre objet (le film et ses remakes) et sa
 source littéraire. La deuxième précision méthodologique concerne
-l’origine des sources utilisées : ce chapitre traite et compare des
+l’origine des sources utilisées : cette partie traite et compare des
 sources qualitativement variées. D’une part, les réceptions critiques
 dont il sera question émanent en grande majorité de la grande presse
 quotidienne et hebdomadaire[^1]. Les jugements de valeur présents dans
 les articles ou ouvrages (para-)académiques feront, quant à eux, office
 d’une analyse détaillée dans la dernière partie de ce travail. Ils
-feront par contre office de source dans le cadre de la dernière partie
-de ce chapitre, intitulée « une métaphore pluri-sémantique », dans
-laquelle il sera question de recenser et discuter des interprétations à
-la métaphore proposée par les films ; une question qui est à
-l’origine[^2] d’un nombre important des articles académiques consacrés
-aux films. Finalement, il conviendra de mentionner les 3 livres dédiés
-au film (et certains de ses remakes), publiés en 1989[^3], 2010[^4] et
-2012[^5] : si les deux premiers sont issus de collections
-(para-)académiques et présentent toutes les qualités formelles d’un
-travail universitaire (notes de bas de page, bibliographie), le livre de
-McGee s’auto-définit comme un ouvrage de *fan* présentant tout ce que
-l’auteur sait à propos de *Invasion of the Body Snatchers*[^6].
-Néanmoins, les trois livres ont grandement facilité la démarche
-entreprise dans le cadre de ces travail en reproduisant dans leur
-intégralité des documents retrouvés dans les archives de Walter
+feront par contre office de source dans le cadre de les derniers
+pragraphes de cette partie, intitulée « une métaphore
+pluri-sémantique », dans laquelle il sera question de recenser et
+discuter des interprétations à la métaphore proposée par les films ; une
+question qui est à l’origine[^2] d’un nombre important des articles
+académiques consacrés aux films. Finalement, il conviendra de mentionner
+les 3 livres dédiés au film (et certains de ses remakes), publiés en
+1989[^3], 2010[^4] et 2012[^5] : si les deux premiers sont issus de
+collections (para-)académiques et présentent toutes les qualités
+formelles d’un travail universitaire (notes de bas de page,
+bibliographie), le livre de McGee s’auto-définit comme un ouvrage de
+*fan* présentant tout ce que l’auteur sait à propos de *Invasion of the
+Body Snatchers*[^6]. Néanmoins, les trois livres ont grandement facilité
+la démarche entreprise dans le cadre de ces travail en reproduisant dans
+leur intégralité des documents retrouvés dans les archives de Walter
 Wagner[^7] ou des critiques publiées dans la presse et aujourd’hui
 difficilement accessibles.
 
@@ -97,15 +97,15 @@ relève plutôt d’un « processus actif de sélection »[^23]. Le canon
 proposé par Rosenbaum, qui inclut au passage *Invasion of the Body
 Snatchers* de Siegel, est donc ouvertement personnel et sujet à
 modifications. Il convient d’ajouter également une dernière remarque
-effectuée par l’auteur de laquelle il sera question dans le dernier
-chapitre de ce travail : celle de l’accès aux films. Rosenbaum précise
-que cinq des films de son canon « ne sont pas facilement accessibles
-dans ce pays \[les Etats-Unis d’Amérique\], en tout cas pas en
-vidéo »[^24], ces difficultés d’accessibilité au film semblent toutefois
-un « critère absurde pour l’établissement de ce qui mérite ou non le
-statut de ‹ classique ›. »[^25]. Une opinion peu commune qui semble
-intuitivement opposée à la volonté du canon de préserver et d’assurer la
-pérennité d’une œuvre.
+effectuée par l’auteur de laquelle il sera question dans la dernière
+partie de ce travail : celle de l’accès aux films. Rosenbaum précise que
+cinq des films de son canon « ne sont pas facilement accessibles dans ce
+pays \[les Etats-Unis d’Amérique\], en tout cas pas en vidéo »[^24], ces
+difficultés d’accessibilité au film semblent toutefois un « critère
+absurde pour l’établissement de ce qui mérite ou non le statut de ‹
+classique ›. »[^25]. Une opinion peu commune qui semble intuitivement
+opposée à la volonté du canon de préserver et d’assurer la pérennité
+d’une œuvre.
 
 Ce court aparté sur la notion de canon, sans prétendre rendre compte de
 la richesse et complexité du débat épistémologique sur les canons et
@@ -323,8 +323,8 @@ changements dans le récit des 4 films. La question du genre de chaque
 film individuel est donc relevée aussi bien dans la réception critique
 que dans les analyses académiques, sans pour autant – ou partiellement–
 être mise en perspective dans le cadre de la série. Il conviendra donc
-d’accorder une place aux questions de genre et d’esthétique dans le
-troisième chapitre de ce travail.
+d’accorder une place aux questions de genre et d’esthétique dans la
+troisième partie de ce travail.
 
 Si les questions d’hybridité et de changement de genres n’ont pas, ou
 peu, leur place dans les critiques et analyses liées au film, la
@@ -546,8 +546,8 @@ en contexte dans la dimension collaborative du cinéma, et du système
 hollywoodien en particulier[^147], mais permet d’aborder le film à
 travers une autre lecture que celui de son contexte socio-économique.
 Une lecture que ce travail va approfondir dans l’optique du processus de
-la canonisation à travers le discours des réalisateurs dans le chapitre
-quatre.
+la canonisation à travers le discours des réalisateurs dans la quatrième
+partie.
 
 [^1]: La présence de critiques issues de la revue hebdomadaire éditée
     par le British Film Institute (BFI) *Sight & Sound* ou du
@@ -575,22 +575,22 @@ quatre.
 
 [^9]: « focuses on the artistic object \[…\] fixed objectified units
     that constitute a point of reference for anyone dealing with a
-    certain form of art » Petro Bianchi, Giulio Bursi et Simone
-    Venturini (éds.), *op. cit.*, p. 15.
+    certain form of art » \[Petro Bianchi, Giulio Bursi et Simone
+    Venturini (éds.), *op. cit.*, p. 15\].
 
-[^10]: « affirmation of a series of formal procedures ». Petro Bianchi,
-    Giulio Bursi et Simone Venturini (éds.), *ibid.*
+[^10]: « affirmation of a series of formal procedures » \[Petro Bianchi,
+    Giulio Bursi et Simone Venturini (éds.), *ibid.*\].
 
 [^11]: « pertain to interpretative communities and to individual or
     collective subjects that choose an ensemble of works of art as
-    bearers of values ». Petro Bianchi, Giulio Bursi et Simone Venturini
-    (éds.), *ibid.*
+    bearers of values » \[Petro Bianchi, Giulio Bursi et Simone
+    Venturini (éds.), *ibid.*\].
 
-[^12]: « developed diachronically ». Petro Bianchi, Giulio Bursi et
-    Simone Venturini (éds.), *ibid.*
+[^12]: « developed diachronically » \[Petro Bianchi, Giulio Bursi et
+    Simone Venturini (éds.), *ibid.*\].
 
-[^13]: « developed synchronically ». Petro Bianchi, Giulio Bursi et
-    Simone Venturini (éds.), *ibid.*
+[^13]: « developed synchronically » \[Petro Bianchi, Giulio Bursi et
+    Simone Venturini (éds.), *ibid.*\].
 
 [^14]: Bien que, comme il en sera question dans le troisième chapitre,
     au sein de la série de remakes (et d’une certaine façon la série
@@ -610,28 +610,30 @@ quatre.
 [^19]: Jonathan Rosenbaum, *Essential Cinema: On the Necessity of Film
     Canons*, Baltimore, Johns Hopkins University Press, 2004.
 
-[^20]: « shame and apology ». Jonathan Rosenbaum, *op. cit.*, p. xvii.
+[^20]: « shame and apology » \[Jonathan Rosenbaum, *op. cit.*, p.
+    xvii\].
 
 [^21]: « too facile, too romantic, too apolitical, too redolent of film
     buffery, and too much grounded in art as opposed to the social
-    sciences ». Jonathan Rosenbaum, *op. cit.*, p. xv.
+    sciences » \[Jonathan Rosenbaum, *op. cit.*, p. xv\].
 
 [^22]: Jonathan Rosenbaum, *op. cit.*, p. xiii.
 
-[^23]: « an active process of selection ». Jonathan Rosenbaum, *ibid*.
+[^23]: « an active process of selection » \[Jonathan Rosenbaum,
+    *ibid*.\].
 
 [^24]: « are not readily available in this country, at least not on
-    video. ». Jonathan Rosenbaum, *op. cit.*, p. xvii.
+    video. » \[Jonathan Rosenbaum, *op. cit.*, p. xvii.\].
 
 [^25]: « an absurd criterion for establishing what does or doesn’t
-    deserve a ‹ classic › status. ». Jonathan Rosenbaum, *ibid*.
+    deserve a ‹ classic › status. » \[Jonathan Rosenbaum, *ibid*.\].
 
 [^26]: Reproduite dans son intégralité dans Al LaValley (éd.), *op.
     cit.*, p .163.
 
 [^27]: « it’s definitely an exploitation picture which they \[the
-    distributor and exhibitor\] didn’t exploit ». Al LaValley (éd.),
-    *ibid.*, p .163
+    distributor and exhibitor\] didn’t exploit » \[Al LaValley (éd.),
+    *ibid.*, p. 163\].
 
 [^28]: L’appellation « film d’exploitation », fait ici référence à
     plusieurs facteurs: les coûts de production bas du film,
@@ -649,8 +651,8 @@ quatre.
 [^31]: *Riot in Cell Block 11 (Les Révoltés de la cellule 11*, Don
     Siegel, 1954).
 
-[^32]: « lowly science fiction status » ; Al LaValley (éd.), *ibid.*, p
-    .161.
+[^32]: « lowly science fiction status » \[Al LaValley (éd.), *ibid.*, p
+    .161\].
 
 [^33]: Barry Keith Grant, *op. cit.*, p. 7.
 
@@ -661,15 +663,15 @@ quatre.
     INVASION OF THE BODY SNATCHERS, U.S.A., 1955 », *Monthly Film
     Bulletin*, 1er janvier 1956.
 
-[^35]: « excellent atmosphere ». –, « A Guide to Current Films », *Sight
-    and Sound*, Vol. 26, No. 2, automne 1956, p. 112.
+[^35]: « excellent atmosphere » \[–, « A Guide to Current Films »,
+    *Sight and Sound*, Vol. 26, No. 2, automne 1956, p. 112\].
 
-[^36]: « the solid emotion and suspense ». Jack Moffitt, « Invasion of
-    the Body Snatchers », *The Hollywood Reporter*, 16 février 1956.
+[^36]: « the solid emotion and suspense » \[Jack Moffitt, « Invasion of
+    the Body Snatchers », *The Hollywood Reporter*, 16 février 1956\].
 
-[^37]: « brilliant and unusual science shocker ». F. J., « Invasion of
+[^37]: « brilliant and unusual science shocker » \[ F. J., « Invasion of
     the Body Snatchers », *Daily Film Reviewer \[London\]*, 23 août
-    1956.
+    1956\].
 
 [^38]: *The Thing from Another World* (*La chose d’un autre monde*,
     Christian Nyby, 1951)
@@ -720,37 +722,37 @@ quatre.
     case of *Invasion of the Body Snatchers*, the original is thoroughly
     well-known (as was not the case with the recent *Heaven Can Wait*),
     fully out in the mainstream of movie culture, and also when the
-    original was not only popular, but a very *good* film indeed ».
-    David Bartholomew, « invasion of the body snatchers », *Cinéaste*,
-    Vol. 10, No. 1, hiver 1979, p. 52.
+    original was not only popular, but a very *good* film indeed »
+    \[David Bartholomew, « invasion of the body snatchers », *Cinéaste*,
+    Vol. 10, No. 1, hiver 1979, p. 52\].
 
-[^49]: « why does it seem needless to say ‘needless to say’ ? ». David
+[^49]: « why does it seem needless to say ‘needless to say’ ? » \[David
     Kehr, « Invasion of the Body Snatchers », *The Chicago Reader*,
-    1978.
+    1978\].
 
 [^50]: « Phil Kaufman’s version \[…\] is as good as remakes go, but not
-    as good as the original ». David Kehr, *ibid.*
+    as good as the original » \[David Kehr, *ibid.*\].
 
-[^51]: « one of the most intriguing adaptations for some time ». Richard
-    Combs, « Invasion of the Body Snatchers », *Monthly Film Bulletin*,
-    1^er^ janvier 1979.
+[^51]: « one of the most intriguing adaptations for some time »
+    \[Richard Combs, « Invasion of the Body Snatchers », *Monthly Film
+    Bulletin*, 1^er^ janvier 1979\].
 
 [^52]: Robert Chazal, « L’invasion des profanateurs. Nouvelle version »,
     France Soir, 15 février 1979.
 
-[^53]: « showy ». Janet Maslin, « Screen: ‘Body Snatchers’ Return in All
-    Their Creepy Glory », The New York Times, 22 décembre 1978.
+[^53]: « showy » \[Janet Maslin, « Screen: ‘Body Snatchers’ Return in
+    All Their Creepy Glory », The New York Times, 22 décembre 1978\].
 
-[^54]: « swift, compact and efficient ». David Kehr, *op. cit.*
+[^54]: « swift, compact and efficient » \[David Kehr, *op. cit.*\].
 
 [^55]: A. F., « Fantastique cauchemar », *La Croix*, 15 mai 1993.
 
 [^56]: « as sheer moviemaking, is it skilled and knowing, and deserves
-    the highest praise you can give a horror film : It works ! ». Roger
-    Ebert, « Body Snatchers », *Chicago Sun-Times*, 25 février 1994.
+    the highest praise you can give a horror film : It works ! » \[Roger
+    Ebert, « Body Snatchers », *Chicago Sun-Times*, 25 février 1994\].
 
-[^57]: « by far the best \[of the series\] ». Roger Ebert, « The
-    Invasion », *Chicago Sun-Times*, 16 août 2007.
+[^57]: « by far the best \[of the series\] » \[Roger Ebert, « The
+    Invasion », *Chicago Sun-Times*, 16 août 2007\].
 
 [^58]: Jean-Paul Grousset, « Body Snatchers. Ravage de cerveaux », *Le
     Canard enchaîné*, 9 juin 1993.
@@ -761,8 +763,8 @@ quatre.
 [^60]: Owen Glieberman, « Body Snatchers », *Entertainment Weekly*, 11
     février 1994.
 
-[^61]: « hollow ». Richard Harrington, « The Body Snatchers », *The
-    Washington Post*, 18 février 1994.
+[^61]: « hollow » \[Richard Harrington, « The Body Snatchers », *The
+    Washington Post*, 18 février 1994\].
 
 [^62]: Gérard Lefort, « Ferrara envahi par la flemme », *Libération*, 17
     mai 1993.
@@ -777,15 +779,15 @@ quatre.
 [^66]: Nous reviendrons sur les mythes entourant la production des films
     dans le dernier chapitre de ce travail.
 
-[^67]: « two versions of the film wrestling ». Ty Burr, « Creative
+[^67]: « two versions of the film wrestling » \[Ty Burr, « Creative
     compromises are the real enemy in ‘Invasion’ », *The Globe*, 17 août
-    2007.
+    2007\].
 
 [^68]: Déjà présentes dans trois critiques négatives des films de 1978
     et 1993.
 
-[^69]: « looks like the work of \[…\] pod people ». Keith Phipps, « The
-    Invasion », *The A.V. Club*, 17 août 2007.
+[^69]: « looks like the work of \[…\] pod people » \[Keith Phipps, « The
+    Invasion », *The A.V. Club*, 17 août 2007\].
 
 [^70]: *Time and Again* (1970), un roman de science-fiction, étant
     systématiquement cité lorsqu’il est question de l’auteur. Comme
@@ -796,8 +798,8 @@ quatre.
 [^71]: « \[…\] Then out of the sky came a solution. Seeds, drifting
     through space for years, took root in a farmer’s field. From the
     seeds came pods which have the power to reproduce themselves in the
-    exact likeness of any form of life. ». Al LaValley (éd.), *op.
-    cit.*, p. 87.
+    exact likeness of any form of life. » \[Al LaValley (éd.), *op.
+    cit.*, p. 87\].
 
 [^72]: Voir J. P. Telotte, *Science Fiction Film*, Cambridge, Cambridge
     University Press, 2004 \[2001\], pp. 14-16.
@@ -839,10 +841,10 @@ quatre.
     *Réforme*, 18 novembre 1967.
 
 [^83]: « befuddled by a film that did not clearly fit into science
-    fiction or horror genre formats ». Al LaValley (éd.), *op. cit.*, p.
-    4.
+    fiction or horror genre formats » \[Al LaValley (éd.), *op. cit.*,
+    p. 4\].
 
-[^84]: « highly unstable text ». Al LaValley (éd.), *ibid.*, p. 5.
+[^84]: « highly unstable text » \[Al LaValley (éd.), *ibid.*, p. 5\].
 
 [^85]: Barry Keith Grant, *op. cit.*, p. 50. Il convient de relever le
     fait que la notion de *film noir* n’étant pas encore prévalante dans
@@ -860,7 +862,7 @@ quatre.
     remake plays with generic conventions, and mixes and blends
     different looks and styles against the science fiction back-drop of
     the story, thereby enhancing the aesthetic value and originality of
-    each work. ». Kathleen Loock, *ibid*.
+    each work. » \[Kathleen Loock, *ibid*.\].
 
 [^88]: En se basant des textes critiques et ou académiques concernant
     les 4 films.
@@ -900,20 +902,20 @@ quatre.
     interpretation*, New York, Picador, 1966 \[1965\], pp. 209-225.
 
 [^100]: « Science fiction films are not about science. They are about
-    disaster, which is one of the oldest subjects of all. ». Susan
-    Sontag, *ibid.*, p. 213.
+    disaster, which is one of the oldest subjects of all. » \[Susan
+    Sontag, *op. cit.*, p. 213\].
 
-[^101]: « regime of emotionlessness ». Susan Sontag, *ibid.*, p. 221.
+[^101]: « regime of emotionlessness » \[Susan Sontag, *ibid.*, p. 221\].
 
-[^102]: « unpersons ». Susan Sontag, *ibid.*, p. 221.
+[^102]: « unpersons » \[Susan Sontag, *ibid.*\].
 
-[^103]: « always perilously close to insanity ». Susan Sontag, *ibid.*,
-    p. 221.
+[^103]: « always perilously close to insanity » \[Susan Sontag,
+    *ibid.*\].
 
-[^104]: « from a psychological point of view ». Susan Sontag, *ibid.*,
-    p. 224.
+[^104]: « from a psychological point of view » \[Susan Sontag, *op.
+    cit.*, p. 224\]
 
-[^105]: Susan Sontag, *ibid.*, p. 224.
+[^105]: Susan Sontag, *ibid.*
 
 [^106]: Puisque l’essai traite de la science-fiction comme d’un genre
     cinématographique très clairement défini thématiquement et délimité
@@ -941,15 +943,15 @@ quatre.
 
 [^113]: « a term that describes generically the growing fear of
     subversion and the extreme measures to counter it, that developed
-    and heightened from the end of World War II to the early 1950s ».
-    Alan Nadel, *Containment Culture: American Narratives,
+    and heightened from the end of World War II to the early 1950s »
+    \[Alan Nadel, *Containment Culture: American Narratives,
     Postmodernism, and the Atomic Age*, Durham/London, Duke University
-    Press, 1995, p. 71.
+    Press, 1995, p. 71\].
 
 [^114]: « Historical Highlights. The permanent standing House Committee
     on Un-American Activities », History, Art & Archives. United States
-    House of Representatives, <http://history.house.gov/>, consulté le
-    04.12.2016
+    House of Representatives, <http://history.house.gov/> (consulté le
+    04.12.2016).
 
 [^115]: Au moment de sa création, le champ principal d’investigation
     était les groupes fascistes ; champ qui va ensuite se modifier au
@@ -985,17 +987,18 @@ quatre.
 [^123]: Y compris dans les critiques publiées à partir des années 1970
     dans le cadre de ressorties du film sur divers supports.
 
-[^124]: « suffered because of the blacklist ». Barry Keith Grant, *op.
-    cit.*, p. 33.
+[^124]: « suffered because of the blacklist » \[Barry Keith Grant, *op.
+    cit.*, p. 33\].
 
 [^125]: « college-level educated intellectual of liberal politics » ;
-    « genre films with a message ». Barry Keith Grant, *ibid.*, p. 30.
+    « genre films with a message ». \[Barry Keith Grant, *ibid.*, p.
+    30\].
 
 [^126]: Michel Ciment, *Conversations with Losey*, London, Methuen &
     Company, 1985, p. 78.
 
-[^127]: « may have been a communist in the thirties ». Al LaValley
-    (éd.), *op. cit.*, p. 7.
+[^127]: « may have been a communist in the thirties » \[Al LaValley
+    (éd.), *op. cit.*, p. 7\]
 
 [^128]: « Daniel Mainwaring – né Geoffrey Holmes – member (non-paying)
     of the Older Communist League ». Lettre de Don Siegel à Daniel
@@ -1003,8 +1006,8 @@ quatre.
 
 [^129]: Al LaValley (éd.), *op. cit.*, p. 12-13.
 
-[^130]: « outsider and politically unaligned ». Al LaValley (éd.),
-    *ibid.*, p. 18.
+[^130]: « outsider and politically unaligned » \[Al LaValley (éd.),
+    *ibid.*, p. 18\].
 
 [^131]: Howard Hughes, *Outer Limits: The Filmgoer’s Guide to the Great
     Science-Fiction Films*, London, I.B. Tauris, 2014, p. 53.
@@ -1037,9 +1040,10 @@ quatre.
     *Invasion of the Body Snatchers* », *Science Fiction Studies*, Vol.
     11, No. 2, juillet 1984, pp. 139-153.
 
-[^136]: « burgeoning intimacy ». Nancy Steffen-Fluhr, *ibid.*, p. 140.
+[^136]: « burgeoning intimacy » \[Nancy Steffen-Fluhr, *ibid.*, p.
+    140\].
 
-[^137]: Nancy Steffen-Fluhr, *ibid.*, p. 143.
+[^137]: Nancy Steffen-Fluhr, *op. cit.*, p. 143.
 
 [^138]: Michael Rogin, *Ronald Reagan: The Movie,* *and Other Episodes
     in Political Demonology*, Berkeley/Los Angeles/London, University of
@@ -1057,7 +1061,7 @@ quatre.
 
 [^142]: J. Hoberman, *op. cit.*, p. 215.
 
-[^143]: J. Hoberman, *ibid.*, p. 216.
+[^143]: J. Hoberman, *op. cit.*, p. 216.
 
 [^144]: Avec, par exemple, un article utilisant les films de 1956 et
     1978 pour parler d’écologie et d’hégémonie des plantes. Voir Natania

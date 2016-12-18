@@ -137,8 +137,12 @@ ECO, Umberto,
 – « Le mythe de Superman », *Communications*, Vol. 24, No. 1, 1976, pp.
 24-40.
 
-– « Between Modern and Post-Modern Aesthetics », *Daedalus*, Vol. 114,
-No. 4, automne 1985, pp. 161-184.
+– « Innovation and Repetition: Between Modern and Post-Modern
+Aesthetics », *Daedalus*, Vol. 114, No. 4, automne 1985, pp. 161-184.
+
+– « Innovation et répétition : Entre esthétique moderne et post-moderne
+», trad. de l’américain par Marie-Christine Gamberini, *Réseaux*, Vol.
+12, No. 68, 1994 \[1985\], pp. 9-26.
 
 FORREST, Jennifer et KOOS, Leonard R. (éd.), *Dead Ringers: The Remake
 in Theory and Practice*, Albany, State University of New York Press,
@@ -440,6 +444,10 @@ BFI/Palgrave MacMillan, 2014.
 ROSZAK, Theodore, *The Making of a Counter Culture: Reflections on the
 Technocratic Society and Its Youthful Opposition*, Berkeley, University
 of California Press, 1969.
+
+BENJAMIN, Walter, *The Work of Art in the Age of Mechanical
+Reproduction*, trad. de l’allemand par J.A. Underwood, London, Penguin,
+2008 \[1939\].
 
 ***Réception critique :***
 

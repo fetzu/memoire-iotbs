@@ -3,34 +3,34 @@ Le paratexte : des discours à la canonisation
 
 En déca de son texte filmique autonome, toute œuvre cinématographique
 évolue dans un contexte précis. Si le contexte de production et de
-réception critique a déjà été abordé dans le premier chapitre de ce
-travail, ce dernier chapitre propose de revenir sur certains aspects de
-son paratexte. En effet, la formation d’un canon cinématographique n’est
-pas du ressort du texte filmique lui-même, mais des discours autour de
-ce dernier. Bien que le statut canonique de *Invasion of the Body
-Snatchers* (1956) soit relevé aussi bien par la critique de presse
+réception critique a déjà été abordé dans la premiere partie de ce
+travail, cette dernière partie propose de revenir sur certains aspects
+de son paratexte. En effet, la formation d’un canon cinématographique
+n’est pas du ressort du texte filmique lui-même, mais des discours
+autour de ce dernier. Bien que le statut canonique de *Invasion of the
+Body Snatchers* (1956) soit relevé aussi bien par la critique de presse
 (« véritable classique SF »[^1], « son statut de film de science-fiction
 culte »[^2]), les ouvrages spécialisés (« un des films de
 science-fiction définitifs des années 1950 »[^3]) et les ouvrages
 académiques (« *Invasion of the Body Snatchers* est devenu pas moins
 qu’une pierre de touche culturelle »[^4]), aucun commentateur ne propose
-d’analyser les mécanismes menant au statut canonique du film[^5]. Ce
-chapitre propose donc d’explorer les mécanismes ayant menés *Invasion of
+d’analyser les mécanismes menant au statut canonique du film[^5]. Cette
+partie propose donc d’explorer les mécanismes ayant menés *Invasion of
 the Body Snatchers* au statut de classique. Pour ce faire, il considère
 trois vecteurs de cette réévaluation de son statut : la place qu’occupe
 la question de l’auteur, ses modalités de diffusion et de rediffusion et
 finalement la place qu’il occupe dans le discours (para-)académique. En
 dressant un bilan de l’évolution vers son statut d’œuvre classique par
-ces trois vecteurs, ce chapitre fait état du poids de trois institutions
-(artistique, commerciale et académique) dans la formation d’un canon
-cinématographique. Par quels mécanismes les discours autour du film et
-ses remakes favorise-t-ils son l’entrée dans le canon, et comment ce
-processus prend-il forme ?
+ces trois vecteurs, cette partie fait état du poids de trois
+institutions (artistique, commerciale et académique) dans la formation
+d’un canon cinématographique. Par quels mécanismes les discours autour
+du film et ses remakes favorise-t-ils son l’entrée dans le canon, et
+comment ce processus prend-il forme ?
 
 Auteurisme et originalité
 -------------------------
 
-Le premier type de discours auquel ce chapitre va s’intéresser est
+Le premier type de discours auquel cette partie va s’intéresser est
 auterial. Celui-ci se manifeste aussi bien dans les discours des
 réalisateurs sur leur film, mais également dans la critique et dans les
 monographies qui leur sont dédiés. Dans le cas de *Invasion of the Body
@@ -45,15 +45,15 @@ De par le statut du film au moment de sa sortie en 1956, mais aussi le
 fonctionnement de l’industrie cinématographique américaine durant les
 années 1950, il est difficile de trouver un discours de Siegel sur son
 film ; la seule trace écrite concrète résidant dans les lettres et mémos
-archivés par Walter Wagner et déjà discutés dans le second chapitre de
-son travail. Subsistent pourtant une série d’entretiens accordées à
-Stuart M. Kaminsky pour sa monographie[^10] et reproduites dans la
-monographie de Alan Lovell ainsi que dans l’ouvrage de LaValley[^11].
-Dans ces deux entrevues effectuées au milieu des années 1970 (mais avant
-la sortie du film de Kaufman), Siegel se voit accorder le bénéfice d’un
-recul de deux décennies par rapport à la sortie initiale de son film.
-Dans l’une d’entre elles, il définit *Invasion of the Body Snatchers*
-comme « probablement mon meilleur film »[^12], il justifie ce propos en
+archivés par Walter Wagner et déjà discutés dans la seconde partie de ce
+travail. Subsistent pourtant une série d’entretiens accordées à Stuart
+M. Kaminsky pour sa monographie[^10] et reproduites dans la monographie
+de Alan Lovell ainsi que dans l’ouvrage de LaValley[^11]. Dans ces deux
+entrevues effectuées au milieu des années 1970 (mais avant la sortie du
+film de Kaufman), Siegel se voit accorder le bénéfice d’un recul de deux
+décennies par rapport à la sortie initiale de son film. Dans l’une
+d’entre elles, il définit *Invasion of the Body Snatchers* comme
+« probablement mon meilleur film »[^12], il justifie ce propos en
 expliquant que « je me cache habituellement derrière une façade de
 mauvais scénarios racontant une histoire dans importance, mais je
 sentais cette histoire-là était très importante »[^13]. Bien que le
@@ -309,7 +309,7 @@ et historiens du cinéma.
 *Invasion of the Body Snatchers* dans le discours académique
 ------------------------------------------------------------
 
-Le bilan historiographique dans le premier chapitre de ce travail a
+Le bilan historiographique dans la première partie de ce travail a
 montré la place accordée dans les discours académiques concernant les
 interprétations possibles du film : la plupart de ces discours cherchant
 à lire les textes filmiques à travers leurs contextes historiques. Si
@@ -421,7 +421,7 @@ publiés en 1965 et 1972, l’augmentation du rythme de publication
 coïncide avec la sortie du film de Kaufman, et ce bien que parfois il ne
 soit pas question du remake dans l’article.
 
-Par l’étude de trois vecteurs discursifs, ce chapitre a montré une
+Par l’étude de trois vecteurs discursifs, cette partie a montré une
 certaine interdépendance de ces derniers quand il s’agit du processus de
 canonisation : les discours des auteurs permettant de justifier et
 reconduite une certaine *politique des auteurs* prônée dans certains
@@ -438,29 +438,30 @@ de se retrouvés confrontés à l’un des films augmente – par des
 mécanismes sociaux dont l’analyse dépasse la portée de ce travail – avec
 l’intérêt renouvelé pour le film par des spécialistes[^94].
 
-[^1]: « genuine SF classic ». Don Drucker, « Invasion of the Body
-    Snatchers », *The Chicago Reader*, 1997.
+[^1]: « genuine SF classic » \[Don Drucker, « Invasion of the Body
+    Snatchers », *The Chicago Reader*, 1997\].
 
 [^2]: Jean-François Rauger, « Reprise : ‹ L’invasion des profanateurs de
     sépultures ›, de la série B à portée philosophique », *Le Monde*, 13
     janvier 2015.
 
-[^3]: « one of the definitive science fiction film of the 1950s ». Keith
-    M. Booker, *Historical Dictionary of Science Fiction Cinema*,
-    Lanham/Toronto/Plymouth, The Scarecrow Press, 2010, p. 155.
+[^3]: « one of the definitive science fiction film of the 1950s »
+    \[Keith M. Booker, *Historical Dictionary of Science Fiction
+    Cinema*, Lanham/Toronto/Plymouth, The Scarecrow Press, 2010, p.
+    155\].
 
 [^4]: « *Invasion of the Body Snatchers* has become no less than a
-    cultural touchstone ». Barry Keith Grant, *op. cit.*, p. 8.
+    cultural touchstone » \[Barry Keith Grant, *op. cit.*, p. 8\].
 
 [^5]: Le commentaire le plus représentatif de cette tendance se trouve
     dans une note de bas de page de l’article de Katrina Mann, qui
     affirme que « Il est en deçà de la portée de cet article de tracer
     précisément la piste de l’accès du film à sa popularité
     ultérieure ». « It is beyond the scope of this article to map out
-    precisely how the film attained subsequent popularity. ». Katrina
+    precisely how the film attained subsequent popularity. » \[Katrina
     Mann, « ‹ You're Next! ›: Postwar Hegemony Besieged in Invasion of
     the Body Snatchers », *Cinema Journal*, Vol. 44, No. 1, automne
-    2004, p. 66.
+    2004, p. 66\].
 
 [^6]: Oliver Hirshbiegel, réalisateur encore relativement jeune dont la
     carrière cinématographique a commencée en 2001, ne dispose pas
@@ -480,11 +481,11 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
 [^11]: Stuart M. Kaminsky, « Don Siegel on the Pod Society » *in*
     LaValley, *op. cit.*, pp. 153-157.
 
-[^12]: « probably my best film ». Alan Lovell, *op. cit.*, p. 54.
+[^12]: « probably my best film » \[Alan Lovell, *op. cit.*, p. 54\].
 
 [^13]: « I hide behind a facade of bad scripts, telling stories of no
-    import and I felt that this was a very important story. ». Alan
-    Lovell, *ibid*.
+    import and I felt that this was a very important story. » \[Alan
+    Lovell, *ibid*.\].
 
 [^14]: *The Beguilded* (*Les Proies*, Don Siegel, 1971)
 
@@ -511,10 +512,10 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
     Metaphor for the Fifties », *Litterature/Film Quarterly*, Vol. 6,
     No. 3, été 1978, p. 287.
 
-[^19]: « a conscious choice ». Stuart M. Kaminsky, *ibid*.
+[^19]: « a conscious choice » \[Stuart M. Kaminsky, *op. cit.*, p. 159\]
 
-[^20]: « the idea of a stupid pod ». Stuart M. Kaminsky, *op. cit.*, p.
-    155.
+[^20]: « the idea of a stupid pod » \[Stuart M. Kaminsky, *op. cit.*, p.
+    155\].
 
 [^21]: Stuart M. Kaminsky, *ibid*.
 
@@ -552,38 +553,39 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
 [^29]: Stephen Farber, « Hollywood Maverick », *Film Comment*, Vol. 15,
     No. 1, janvier/février 1979, pp. 26-31.
 
-[^30]: « I was involved before there ever was a script. ».  Stephen
-    Farber, *op. cit.*, p. 28
+[^30]: « I was involved before there ever was a script. » \[Stephen
+    Farber, *op. cit.*, p. 28\].
 
 [^31]: « Rick Richter \[…\] and in fact didn’t have a finished version
     of the script until a month after we were finished shooting.
-    ». Stephen Farber, *ibid*.
+    » \[Stephen Farber, *ibid*.\].
 
 [^32]: « Mike Chapman \[the cinematographer\] and I spent a lot of time
-    at the Pacific Film Archive ». Stephen Farber, *ibid*.
+    at the Pacific Film Archive ». \[Stephen Farber, *ibid*.\].
 
-[^33]: « I spent a lot of time laying in a fabric of sound ». Stephen
-    Farber, *ibid*.
+[^33]: « I spent a lot of time laying in a fabric of sound » \[Stephen
+    Farber, *ibid*.\].
 
 [^34]: Jusqu’au point d’affirmer que le film aurait été écrit au
     tournage et que W. D. Richter aurait rédigé le scénario en fonction
     du film tourné par Kaufman.
 
-[^35]: « I wanted to take it further. ». Stephen Farber, *op. cit.*, p.
-    27.
+[^35]: « I wanted to take it further. » \[Stephen Farber, *op. cit.*, p.
+    27\].
 
-[^36]: « *Body Snatchers* is not really a remake. ». Stephen Farber,
-    *ibid*.
+[^36]: « *Body Snatchers* is not really a remake. » \[Stephen Farber,
+    *ibid*.\].
 
-[^37]: « there are a lot of great remakes. ». Stephen Farber, *ibid*.
+[^37]: « there are a lot of great remakes. » \[Stephen Farber,
+    *ibid*.\].
 
 [^38]: « In 1956, the science-fiction consciousness of the public was
-    limited ». Stephen Farber, *ibid*.
+    limited » \[Stephen Farber, *ibid*.\].
 
 [^39]: « It is less a remake of Don Siegel’s 1956 classic than a new
-    take on the original novel by Jack Finney, *The Body Snatchers.* ».
-    Annette Insdorf, *Philip Kaufman*, Urbana/Chicago, University of
-    Illinois Press, 2012, p. 102.
+    take on the original novel by Jack Finney, *The Body Snatchers.* »
+    \[Annette Insdorf, *Philip Kaufman*, Urbana/Chicago, University of
+    Illinois Press, 2012, p. 102\].
 
 [^40]: Alors qu’elle consacre une phrase à l’historique de publication
     du récit de Finney.
@@ -602,8 +604,8 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
 [^44]: Dont la couverture est d’ailleurs une image tirée du film.
 
 [^45]: « Jack Finney’s 1955 novel *The Body Snatchers*, which has so far
-    inspired three films (with a fourth reportedly on the way). ».
-     Nicole Brenez, *op. cit.*, p. 6.
+    inspired three films (with a fourth reportedly on the way). »
+    \[Nicole Brenez, *op. cit.*, p. 6\].
 
 [^46]: La sortie ayant été repoussée de 2 ans à la demande du
     producteur, qui a confié la réécriture et le retournage d’une partie
@@ -636,16 +638,16 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
     University of California Press, 2013, p. 1.
 
 [^54]: « public has grown steadily in the last century since its first
-    syndication by American television in 1959. ». Barry Keith Grant,
-    *op. cit.*, p. 7.
+    syndication by American television in 1959. » \[Barry Keith Grant,
+    *op. cit.*, p. 7\].
 
 [^55]: Dans un ouvrage dédié au film qui, du propre aveu de son auteur,
     est le résultat de l’obsession d’un fan du film ; mais dont le
     contenu très riche et documenté révèle une certaine méthodologie.
 
-[^56]: « CBS continued to show de film two or three times a year ». Mark
-    Thomas McGee, *Invasion of the Body Snatchers: The Making of a
-    Classic*, Duncan, BearManor, 2012, p. 9.
+[^56]: « CBS continued to show de film two or three times a year »
+    \[Mark Thomas McGee, *Invasion of the Body Snatchers: The Making of
+    a Classic*, Duncan, BearManor, 2012, p. 9\].
 
 [^57]: La question reposant en réalité sur la possibilité de couper de
     récit cadre à la diffusion, aucune réaction de Siegel n’est donnée
@@ -658,12 +660,12 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
     (consulté le 10.12.2016).
 
 [^59]: « According to NTA, which distributes it, it is one of the most
-    requested movies on television ». Stuart M. Kaminsky, *op. cit.*, p.
-    153. 
+    requested movies on television » \[Stuart M. Kaminsky, *op. cit.*,
+    p. 153\].
 
 [^60]: « Had it not been for television it’s quite possible that *The
-    Body Snatchers*\[sic\] would be a forgotten film. ». Mark Thomas
-    McGee, *op. cit.*, p. 14.
+    Body Snatchers*\[sic\] would be a forgotten film. » \[Mark Thomas
+    McGee, *op. cit.*, p. 14\].
 
 [^61]: Label new yorkais spécialisé dans la diffusion de « classiques et
     films contemporains importants » sur supports vidéo destiné aux
@@ -721,9 +723,9 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
     sortie en salle, ce qui insuffle également un certain prestige au
     film.
 
-[^75]: « continuing power ». Al LaValley, *op. cit.*, p. 16.
+[^75]: « continuing power » \[Al LaValley, *op. cit.*, p. 16\].
 
-[^76]: « basic human fears ». Al LaValley, *ibid*.
+[^76]: « basic human fears » \[Al LaValley, *ibid.*\].
 
 [^77]: Il convient de préciser ici qu’il ne s’agît pas d’une approche
     téléologique à ces discours, puisque ces derniers interviennent dans
