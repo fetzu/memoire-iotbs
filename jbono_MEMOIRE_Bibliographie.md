@@ -122,8 +122,14 @@ Vol. 78, No. 3, mars 1997, pp. 77-81.
 
 **Remake, sérialité, hypertextualité :**
 
-BENASSI, Stéphane, « Sérialité(s) », *in* Sarah Sepulchre (dir.),
-*Décoder les séries télévisées*, Bruxelles, De Boeck, 2011, pp. 75-105.
+BENASSI, Stéphane
+
+– « Sérialité(s) », *in* Sarah Sepulchre (dir.), *Décoder les séries
+télévisées*, Bruxelles, De Boeck, 2011, pp. 75-105.
+
+– « Télévision et sérialité : Eléments pour une typologie des genres
+fictionnels télévisuels », Thèse de doctorat, Univeristé de Metz,
+janvier 1998.
 
 BERTON, Mireille et PORTMANN, Sylvain (dir.), « Dossier : séries
 télévisées contemporaines », *Décadrages*, No. 32-33, printemps 2016,
@@ -167,6 +173,10 @@ Structurale*, Paris, Plon, 1958, pp. 227-257.
 
 LOOCK, Kathleen et VERVIS, Constantine (éd.), *Film Remakes, Adaptations
 and Fan Productions: Remake/Remodel*, Londres, Palgrave MacMillan, 2012.
+
+SILVERMAN, Stephen M., « Hollywood Cloning: Sequels, Prequels, Remakes
+and Spin-Offs. », *American Film*, Vol. 3, No. 9, juillet-aout 1978, pp.
+24–30.
 
 VERVIS, Constantine, *Film Remakes*, Edinburgh, Edinburgh University
 Press, 2006.
@@ -448,6 +458,13 @@ of California Press, 1969.
 BENJAMIN, Walter, *The Work of Art in the Age of Mechanical
 Reproduction*, trad. de l’allemand par J.A. Underwood, London, Penguin,
 2008 \[1939\].
+
+KOZLOFF, Sarah, *Invisible Storytellers. Voice-over Narration in
+American Fiction Film*, Berkeley/Los Angeles/Londres, University of
+California Press, 1988.
+
+JENKINS, Henry, *Convergence Culture: Where Old and New Media Collide*,
+New York/London, New York University Press, 2008 \[2006\].
 
 ***Réception critique :***
 

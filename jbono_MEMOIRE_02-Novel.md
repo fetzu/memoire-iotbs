@@ -19,85 +19,87 @@ l’adaptation, il se limitera donc à offrir un compte rendu de la
 rassemblent et différencient le film de 1956 et son œuvre source sous
 ses deux formes.
 
+En effet, et probablement à cause du processus expéditif de l’adaptation
+filmique de *Invasion of the Body Snatchers* qui sera détaillé plus bas,
+aucune étude ne se concentre sur les différences textuelles entre le
+film et son œuvre source. Il est pourtant difficile d’imaginer que le
+désaccord entre les parties impliquées n’ait pas trouvé racine dès
+l’écriture du scénario par Mainwaring. Cette partie propose donc, en
+acceptant le problème posé par certaines pièces manquantes[^2],
+d’effectuer une comparaison entre le feuilleton publié dans *Collider’s*
+et le film dans sa version finale (tout en prenant compte, si possible,
+des changements apportés à cette dernière sur la base des notes de
+Siegel[^3] et Wagner[^4]).
+
 **Adaptation : du feuilleton à la série B**
 -------------------------------------------
 
-C’est dans le magazine bi-hebdomadaire[^2] *Collider’s*, entre des
+C’est dans le magazine bi-hebdomadaire[^5] *Collider’s*, entre des
 publicités pour du tabac à pipe et des cadeaux de noël, que l’on
 retrouve la première publication du feuilleton de Jack Finney. Finney
 n’en est pas à sa première nouvelle en 1954 (il publie régulièrement de
 la fiction dans *Collider’s* et d’autres magazines depuis 1947), ni à
 son premier récit de science-fiction, ou à sa première œuvre adaptée au
-cinéma[^3]. Dans une réponse à une lettre à Arthur LeGacy, l’auteur
+cinéma[^6]. Dans une réponse à une lettre à Arthur LeGacy, l’auteur
 affirme « Tous mes livres sont écrits de cette manière \[avec un film en
-tête\] »[^4], « j’ai toujours affirmé que je n’écris pas réellement des
+tête\] »[^7], « j’ai toujours affirmé que je n’écris pas réellement des
 romans, j’écris des films –le roman étant une bonne manière de rendre
-les producteurs attentifs à mes idées de films »[^5]. Si ces propos *a
+les producteurs attentifs à mes idées de films »[^8]. Si ces propos *a
 posteriori* (la correspondance entre LeGacy et Finney ayant eu lieu
-entre janvier et mai 1975[^6]) sont à considérer avec un certain recul,
+entre janvier et mai 1975[^9]) sont à considérer avec un certain recul,
 une majorité des dialogues originaux du feuilleton sont présents dans le
 film, parfois reproduits de manière exacte. Barry Keith Grand relève que
 certaines descriptions évoquent le style du film noir qui influencera
-l’aspect visuel de l’adaptation de Siegel[^7]. Il s’appuie sur la scène
+l’aspect visuel de l’adaptation de Siegel[^10]. Il s’appuie sur la scène
 d’observation du corps sur la table de billard, qui à plusieurs reprises
 décrit en détail l’éclairage contrasté de la salle : « L’éclairage d’une
 table de billard est conçu de manière à éclairer fortement la table. La
 lampe est suspendue de manière à ne pas aveugler le joueur tout en
-laissant le plafond dans la pénombre. »[^8] en donnant à cette lampe un
+laissant le plafond dans la pénombre. »[^11] en donnant à cette lampe un
 mouvement et créant ainsi un jeu d’ombre dynamiques (« l’ombre se
 balançait encore dans un petit demi-arc, la lumière dépassant les bords
 de la table puis se retirant sur les yeux ouverts du corps, laissant son
-front lisse dans une demi-pénombre pour un instant »[^9]) qui n’est pas
+front lisse dans une demi-pénombre pour un instant »[^12]) qui n’est pas
 sans rappeler l’esthétique *low key* associée au film noir.
 
 Le producteur Walter Wagner a reconnu très tôt le potentiel du
 feuilleton de Finney, en amorçant dès la publication de la première
 partie en novembre 1954 les négociations pour en acquérir les
-droits[^10]. Ces négociations aboutissent durant le mois de janvier 1955
+droits[^13]. Ces négociations aboutissent durant le mois de janvier 1955
 et donnent lieu à un premier jet du scénario par Daniel Mainwaring le 10
-février[^11], et à un tournage bouclé en 23 jours entre mars et avril de
-la même année[^12]. Mais cet élan considérable[^13] dans l’écriture et
+février[^14], et à un tournage bouclé en 23 jours entre mars et avril de
+la même année[^15]. Mais cet élan considérable[^16] dans l’écriture et
 la production du film va rencontrer un frein une fois le montage
-terminé : les quatre projections test organisées par Wagner entre juin
-et aout 1955[^14] vont le conduire à douter de la valeur de son film. Le
+terminé : les quatre projections-test organisées par Wagner entre juin
+et aout 1955[^17] vont le conduire à douter de la valeur de son film. Le
 producteur cite une dégradation de la réception par le public lors de la
 quatrième projection-test qu’il attribue au « traitement
-antipathique »[^15] des modifications relatives au montage du film. En
+antipathique »[^18] des modifications relatives au montage du film. En
 réalité, les incertitudes de Wagner par rapport au film avaient déjà
-commencé avant les premières projections-test[^16]. En effet, durant le
+commencé avant les premières projections-test[^19]. En effet, durant le
 tournage du film : McGee évoque une lettre datée du 28 mars 1955
 adressée à un *studio executive* de Allied Artists en Angleterre afin de
 demander les droits d’utiliser un discours récemment prononcé par
-Winston Churchill pour l’introduction du film[^17]. Le 8 juillet, après
+Winston Churchill pour l’introduction du film[^20]. Le 8 juillet, après
 trois des projections-test, Wagner rédige un mémorandum adressé au
 studio suggérant – entre autres – un monologue d’ouverture prononcé par
-Orson Welles[^18] : une autre manifestation de l’insatisfaction du
+Orson Welles[^21] : une autre manifestation de l’insatisfaction du
 producteur envers l’ouverture de son film dans son état actuel. Grant
-attribue ces changements[^19] à une volonté de « rendre le message du
-film plus explicite »[^20] et « d’aider les spectateurs à suivre
-l’histoire »[^21], LaValley et McGee s’accordent à dire que ces
+attribue ces changements[^22] à une volonté de « rendre le message du
+film plus explicite »[^23] et « d’aider les spectateurs à suivre
+l’histoire »[^24], LaValley et McGee s’accordent à dire que ces
 changements indiquent une volonté de la part du producteur « d’élever le
-thème »[^22] du film en lui accordant une note de
-« respectabilité »[^23]. Une lecture attentive du feuilleton original
+thème »[^25] du film en lui accordant une note de
+« respectabilité »[^26]. Une lecture attentive du feuilleton original
 fait pourtant remarquer que Churchill n’était pas absent du récit
 source : le discours « We shall fight them in the fields… » est cité
-dans les derniers paragraphes du feuilleton[^24], la citation étant
-nominativement attribuée à l’homme d’état britannique[^25]. Ces
-désaccords entre producteur, réalisateur et studio[^26] résonnent avec
-l’« instabilité »[^27] du texte dans sa forme filmique, que les
+dans les derniers paragraphes du feuilleton[^27], la citation étant
+nominativement attribuée à l’homme d’état britannique[^28]. Ces
+désaccords entre producteur, réalisateur et studio[^29] résonnent avec
+l’« instabilité »[^30] du texte dans sa forme filmique, que les
 monographies dédiées au film ne manquent pas de souligner – à travers le
 contexte politique, *la blacklist*, le contexte de production et les
-aspirations individuelles des professionnels impliqués. Néanmoins, et
-probablement à cause du processus expéditif de l’adaptation filmique de
-*Invasion of the Body Snatchers*, aucune étude ne se concentre sur les
-différences textuelles entre le film et son œuvre source. Il est
-pourtant difficile d’imaginer que le désaccord entre les parties
-impliquées n’ait pas trouvé racine dès l’écriture du scénario par
-Mainwaring. Cette partie propose donc, en acceptant le problème posé par
-certaines pièces manquantes[^28], d’effectuer une comparaison entre le
-feuilleton publié dans *Collider’s* et le film dans sa version finale
-(tout en prenant compte, si possible, des changements apportés à cette
-dernière sur la base des notes de Siegel[^29] et Wagner[^30]).
+aspirations individuelles des professionnels impliqués.
 
 Si la scène d’ouverture du film est l’une des sources de conflit entre
 Siegel, Wagner et le studio, la scène finale du film en est un autre.
@@ -174,8 +176,8 @@ constaté que les papiers étalés sur son bureau n’ont pas été touchés
 depuis longtemps. C’est donc une confrontation face à un mensonge qui
 amorce la longue explication scientifique[^57] du Prof. Budlong. Or,
 dans le film, le personnage du Prof. Budlong est absent : le rôle de
-porte-parole est laissé au Dr. Danny Kaufman[^58], ami de Miles et
-psychiatre de profession. Ce premier changement a plusieurs
+porte-parole est laissé uniquement au Dr. Danny Kaufman[^58], ami de
+Miles et psychiatre de profession. Ce premier changement a plusieurs
 implications : d’une part, la profession du *représentant* n’est plus
 celle d’un biologiste mais celle d’un psychiatre, d’autre part, la
 relation de confiance qu’il entretenait[^59] avec Miles rend son
@@ -185,30 +187,34 @@ en teneur que celle du Prof. Budlong. Danny insert des émotions[^60] au
 cœur de son argumentation, au défaut de l’explication scientifique[^61].
 Cette première différence diminue donc l’importance du cadre
 science-fictionnel du texte en privilégiant l’aspect émotionnel[^62] sur
-l’explication rationnelle[^63]. Le deuxième changement réside dans la
-manière dont cette confrontation à lieu : dans le feuilleton, c’est
-Miles (et Becky) qui se rendent volontairement au domicile du
-*porte-parole *; dans le film, Danny (accompagné de Jack et d’un
-officier de police) fait irruption dans le cabinet de Miles, alors que
-ce dernier et Becky tentent de se cacher pour éviter d’être capturés. Ce
-changement de dynamique, de la visite cordiale à la prise au piège –
-d’autant plus accentué par un représentant des forces de l’ordre –,
-confère *dans* le texte à la scène une ambiance qui passe de l’étrange
-rencontre à l’horreur de l’invasion (de la sphère professionnelle) ; et
-a pour effet d’accentuer la dimension horrifique de la scène. Dans le
-film, Becky se voit accordée une plus grande importance car elle
-participe activement au dialogue[^64] et un baiser entre les deux
-protagonistes est inclut, Becky affirmant « je veux aimer et être aimée.
-Je veux tes enfants. Je ne veux pas vivre dans un monde sans amour, sans
-peine ou sans beauté. Je préfère mourir »[^65]. Dans les deux textes, le
-personnage de Becky est défini à travers sa relation avec Miles, cette
-relation connaît toutefois un nombre important de changements dans
-l’adaptation cinématographique : le feuilleton décrit les deux
-personnages comme « s’étant mariés, mais aucun des deux n’a réussi à
-faire fonctionner leur mariage \[respectif\] »[^66] et précise le
-divorce dans un dialogue où chaque personnage s’excuse pour le divorce
-de l’autre. Dans le film, la question est également abordée à travers un
-dialogue :
+l’explication rationnelle[^63] . Si ce changement n’est pas discuté par
+les auteurs ou dans la littérature secondaire, il est toutefois possible
+d’émettre un certain nombre d’hypothèses. La première trouve ses
+origines dans le discours de Finney lui-même : « » et la deuxième…
+
+Le deuxième changement réside dans la manière dont cette confrontation à
+lieu : dans le feuilleton, c’est Miles (et Becky) qui se rendent
+volontairement au domicile du *porte-parole *; dans le film, Danny
+(accompagné de Jack et d’un officier de police) fait irruption dans le
+cabinet de Miles, alors que ce dernier et Becky tentent de se cacher
+pour éviter d’être capturés. Ce changement de dynamique, de la visite
+cordiale à la prise au piège – d’autant plus accentué par un
+représentant des forces de l’ordre –, confère *dans* le texte à la scène
+une ambiance qui passe de l’étrange rencontre à l’horreur de l’invasion
+(de la sphère professionnelle) ; et a pour effet d’accentuer la
+dimension horrifique de la scène. Dans le film, Becky se voit accordée
+une plus grande importance car elle participe activement au
+dialogue[^64] et un baiser entre les deux protagonistes est inclut,
+Becky affirmant « je veux aimer et être aimée. Je veux tes enfants. Je
+ne veux pas vivre dans un monde sans amour, sans peine ou sans beauté.
+Je préfère mourir »[^65]. Dans les deux textes, le personnage de Becky
+est défini à travers sa relation avec Miles, cette relation connaît
+toutefois un nombre important de changements dans l’adaptation
+cinématographique : le feuilleton décrit les deux personnages comme
+« s’étant mariés, mais aucun des deux n’a réussi à faire fonctionner
+leur mariage \[respectif\] »[^66] et précise le divorce dans un dialogue
+où chaque personnage s’excuse pour l’infortune de l’autre. Dans le film,
+la question est également abordée à travers un dialogue :
 
 > MILES: (*la regardant d’un regard romantique*) Depuis quand est-tu de
 > retour?
@@ -231,29 +237,29 @@ traitement de la relation entre les deux personnages dans le film. Les
 moments romantiques, rares dans le feuilleton[^69], sont multipliés dans
 le film, les plus prévalantes étant une scène de baiser dans une
 armoire, laquelle se termine sur un fondu au noir et ouvre sur un
-cendrier rempli de cigarettes et les deux amants assis proche l’un de
-l’autre au lendemain. Katrina Mann relève ses suggestions de
-« commémoration post coïtale avec une tournure macabre »[^70] (puisque
-c’est le moment ou Danny fait irruption dans le bureau de Miles). La
-scène du baiser ayant lieu après la transformation de Becky en *pod
-person* est plus signifiante encore. Cette scène propre au film,
-largement l’objet de commentaires dans les articles de Mann[^71], Nancy
-Steffen-Fluhr[^72] et Michael Rogin[^73] est souvent interprétée en
-termes d’une culmination des anxiétés de la perte de l’hégémonie
-masculine et les changements des « rôles genrés traditionnels »[^74]
-durant la période de la Guerre Froide. Elle articule également une forme
-de *body horror* qui prend racine dans l’aspect reproductif du corps
-féminin (et, par extension, du *pod*). Ces ajouts consistent à
-approfondir la relation Miles/Becky, se soldant par un échec quand Becky
-s’avère être devenue elle-même un *pod*. En effet, selon Steffen-Fluhr,
-se sont les émotions de Miles envers Becky qui consituent le « battement
-de cœur »[^75] du film ; celui-ci se construisant en partie autour de
-l’acceptation/refus de Miles envers Becky[^76] et de sa peur de
-s’impliquer dans cette relation. Relation qui s’avère impossible dans le
-texte filmique quand Becky est transformée en *pod person*, alors que
-l’épilogue du feuilleton affirme que les deux amants sont ensemble et
-sous-entends qu’ils sont mariés[^77], offrant ainsi un tout autre
-dénouement à cet arc narratif.
+cendrier rempli de cigarettes et les deux personnages assis l’un à côté
+de l’autre. Katrina Mann présente ce plan comme une « commémoration post
+coïtale avec une tournure macabre »[^70] (puisque c’est le moment ou
+Danny fait irruption dans le bureau de Miles). La scène du baiser ayant
+lieu après la transformation de Becky en *pod person* est plus
+signifiante encore. Cette scène propre au film, largement l’objet de
+commentaires dans les articles de Mann[^71], Nancy Steffen-Fluhr[^72] et
+Michael Rogin[^73] est souvent interprétée en termes d’une culmination
+des anxiétés de la perte de l’hégémonie masculine et les changements des
+« rôles genrés traditionnels »[^74] durant la période de la Guerre
+Froide. Elle articule également une forme de *body horror* qui prend
+racine dans l’aspect reproductif du corps féminin (et, par extension, du
+*pod*). Ces ajouts consistent à approfondir la relation Miles/Becky, se
+soldant par un échec quand Becky s’avère être devenue elle-même un
+*pod*. En effet, selon Steffen-Fluhr, se sont les émotions de Miles
+envers Becky qui consituent le « battement de cœur »[^75] du film ;
+celui-ci se construisant en partie autour de l’acceptation/refus de
+Miles envers Becky[^76] et de sa peur de s’impliquer dans cette
+relation. Relation qui s’avère impossible dans le texte filmique quand
+Becky est transformée en *pod person*, alors que l’épilogue du
+feuilleton affirme que les deux amants sont ensemble et sous-entends
+qu’ils sont mariés[^77], offrant ainsi un tout autre dénouement à cet
+arc narratif.
 
 L’ensemble des changements apportés au texte lors de sa première
 adaptation au cinéma tendent vers une accentuation des éléments
@@ -448,13 +454,13 @@ grande qui attire l’œil du lecteur. Il est également intéressant de
 signaler, qu’excepté l’exemple cité précédemment, qu’aucune couverture
 de livre ne fait usage d’une image tirée de l’une des adaptations
 cinématographiques. Ces changements successifs dans les décisions
-éditoriales illustrent l’interdépendance qu’entretient celui-ci avec ses
-adaptations, probablement dans l’espoir que le succès du film de Kaufman
-attirera un nouveau lectorat.
+éditoriales illustrent l’interdépendance qu’entretient le récit de
+Finney avec ses adaptations, probablement dans l’espoir que le succès du
+film de Kaufman attirera un nouveau lectorat.
 
 Au-delà des changements cosmétiques, les rééditions successives
-entraînent également leur lot de changements dans le corps même du
-texte. Une altération intéressante intervient en marge des corrections
+entraînent également leur lot de variations dans le corps même du texte.
+Une altération intéressante intervient en marge des corrections
 d’orthographe et de mise en page : alors que le feuilleton ne donne
 aucune indication quant a une date exacte[^99], la première édition du
 roman par Dell évoque les dates très précises du « jeudi 13 août 1953 »
@@ -517,7 +523,24 @@ conditions favorables à la sérialité.
     10 et 24 décembre. REMARQUE POUR TOUTES LES NOTES : FAIRE DES
     PHRASES COMPLETES.
 
-[^2]: La chute du lectorat après la Seconde Guerre Mondiale ayant forcé
+[^2]: Seul le *continuity script* établi sur base de visionnement de
+    film par McGee (« de mémoire » après plusieurs dizaines visionnement
+    du film) et LaValley (édition « Criterion » sur LaserDisc) est
+    disponible. Ni LaValley ou Grant, ayant eu accès aux archives de
+    Walter Wagner, ne mentionnent l’existence d’une autre version du
+    scénario.
+
+[^3]: Don Siegel, « Letter to Walter Wagner », 19 mai 1955, reproduit
+    dans Al LaValley (éd.), *op. cit.*, pp. 129-1; Don Siegel,
+    « Memorandum to Walter Wagner », 21 septembre 1955, reproduit dans
+    Al LaValley (éd.), *op. cit.*, pp. 135-137.
+
+[^4]: Walter Wagner, « Suggestions for Additions to the Film », 3 mai
+    1955, reproduit dans Al LaValley (éd.), *op. cit.*, pp. 133-134;
+    Walter Wagner, « The Body Snatchers – Memorandum », 8 juillet 1955,
+    reproduit dans Al LaValley (éd.), *op. cit.*, pp. 134-137.
+
+[^5]: La chute du lectorat après la Seconde Guerre Mondiale ayant forcé
     les éditeurs à réduire le rythme publication, hebdomadaire depuis la
     création du magazine en 1888. Voir « *Collider’s Weekly »*,
     Spartacus Educational,
@@ -525,49 +548,49 @@ conditions favorables à la sérialité.
     09.12.2016). REMARQUE POUR TOUTES LES NOTES WEB : METTRE LE CONSULTE
     ENTRE PARENTHESES.
 
-[^3]: *5 Against the House* (*On ne joue pas avec le crime*, Phil
+[^6]: *5 Against the House* (*On ne joue pas avec le crime*, Phil
     Karlson, 1955), basé sur son roman du même nom paru en 1954, est
     alors en tournage. Voir « *5 Against the House* », AFI, Catalog of
     Feature Films,
     <http://www.afi.com/members/catalog/DetailView.aspx?s=&Movie=51499>
     (consulté le 09.12.2016).
 
-[^4]: « All my books have been written that way \[with a picture in
-    mind\] » (Arthur Legacy, « *The Invasion of the Body Snatchers *: A
+[^7]: « All my books have been written that way \[with a picture in
+    mind\] » \[Arthur Legacy, « *The Invasion of the Body Snatchers *: A
     Metaphor for the Fifties », *Litterature/Film Quarterly*, vol. 6, n°
-    3, été 1978, p. 287).
+    3, été 1978, p. 287\].
 
-[^5]: « I have always said that I don’t really write novels, I write
+[^8]: « I have always said that I don’t really write novels, I write
     movies – the novel form being a good way to bring my movie ideas to
     the attention of the movie makers. » \[Arthur Legacy, *ibid.*, p.
     287\].
 
-[^6]: Arthur Legacy, *ibid.*, p. 292.
+[^9]: Arthur Legacy, *ibid.*, p. 292.
 
-[^7]: Barry Keith Grant, *Invasion of the Body Snatchers*, London,
+[^10]: Barry Keith Grant, *Invasion of the Body Snatchers*, London,
     BFI/Palgrave MacMillan, 2010, p. 30.
 
-[^8]: « The light over a billiard table is designed to light up the
+[^11]: « The light over a billiard table is designed to light up the
     table surface brilliantly. It hangs low so it won't shine in your
     eyes as you play, and it leaves the ceiling in darkness. » \[Jack
     Finney, « *The Body Snatchers (First of Three Parts)* »,
     *Collider’s*, 26 novembre 1954, p. 94\].
 
-[^9]: « The shade still swung in a tiny half-inch arc, the light
+[^12]: « The shade still swung in a tiny half-inch arc, the light
     spilling off over the edge of the table, then retreating to the open
     eyes of the body, leaving the smooth forehead in semi-dark for an
     instant. » \[Jack Finney, *ibid*., p. 97\].
 
-[^10]: Al LaValley (éd.), *Invasion of the Body Snatchers*, New
+[^13]: Al LaValley (éd.), *Invasion of the Body Snatchers*, New
     Brunswick, Rutgers University Press, 1989, p. 3.
 
-[^11]: Al LaValley (éd.), *ibid.*, p. 3.
+[^14]: Al LaValley (éd.), *ibid.*, p. 3.
 
-[^12]: Un compte rendu détaillé du tournage, jour-par-jour, est donné
+[^15]: Un compte rendu détaillé du tournage, jour-par-jour, est donné
     par Mark Thomas McGee, *Invasion of the Body Snatchers : The Making
     of a Classic*, Duncan, BearManor, 2012, pp. 43-59.
 
-[^13]: Grant cite un communiqué de presse trouvé dans les archives
+[^16]: Grant cite un communiqué de presse trouvé dans les archives
     Wagner affirmant que le film « établit un record en commençant son
     tournage 90 jours après que la dernière partie ait été publiée dans
     *Collider’s* » (« it established a record in reaching the
@@ -575,66 +598,49 @@ conditions favorables à la sérialité.
     in *Collider’s* ») \[cité dans Barry Keith Grant, *op. cit.*, p.
     35\].
 
-[^14]: Mark Thomas McGee, *op. cit.*, p. 67
+[^17]: Mark Thomas McGee, *op. cit.*, p. 67
 
-[^15]: « unsympathetic treatment ». Walter Wagner, « Memorandum to
+[^18]: « unsympathetic treatment ». Walter Wagner, « Memorandum to
     Myself », 24 aout 1955 \[reproduit dans Al LaValley (éd.), *op.
     cit.*, p. 142\].
 
-[^16]: Que Grant date au 10 juin \[Barry Keith Grant, *op. cit.*, p.
+[^19]: Que Grant date au 10 juin \[Barry Keith Grant, *op. cit.*, p.
     35\].
 
-[^17]: Mark Thomas McGee, *op. cit.*, p. 62. Lettre également
+[^20]: Mark Thomas McGee, *op. cit.*, p. 62. Lettre également
     mentionnée, mais non reproduite, dans Al LaValley (éd.), *op. cit.*,
     p. 132.
 
-[^18]: Walter Wagner, « The Body Snatchers – Memorandum », 8 juillet
+[^21]: Walter Wagner, « The Body Snatchers – Memorandum », 8 juillet
     1955, reproduit dans Al LaValley (éd.), *op. cit.*, pp. 134-137.
 
-[^19]: Non seulement la suggestion du monologue introductif, mais
+[^22]: Non seulement la suggestion du monologue introductif, mais
     également l’ajout de voix-over enregistrés par l’acteur principal.
 
-[^20]: « Make the movie’s message more explicit » \[Barry Keith Grant,
+[^23]: « Make the movie’s message more explicit » \[Barry Keith Grant,
     *op. cit.*, p. 35\].
 
-[^21]: « Help viewers follow the story » \[Barry Keith Grant, *op.
+[^24]: « Help viewers follow the story » \[Barry Keith Grant, *op.
     cit.*, p. 35\].
 
-[^22]: « Heighten the theme » \[Al LaValley (éd.), *op. cit.*, p. 14\].
+[^25]: « Heighten the theme » \[Al LaValley (éd.), *op. cit.*, p. 14\].
 
-[^23]: « Add a note of respectability » \[Mark Thomas McGee, *op. cit.*,
+[^26]: « Add a note of respectability » \[Mark Thomas McGee, *op. cit.*,
     p. 62\].
 
-[^24]: Jack Finney, « *The Body Snatchers (Conclusion)* », *Collider’s*,
+[^27]: Jack Finney, « *The Body Snatchers (Conclusion)* », *Collider’s*,
     24 décembre 1954, p. 73.
 
-[^25]: Une mention nominative qui disparaît dans les versions
+[^28]: Une mention nominative qui disparaît dans les versions
     ultérieures, bien que la citation subsiste dans son intégralité.
 
-[^26]: Bien qu’il n’ait pas été question de l’implication de Don Siegel
+[^29]: Bien qu’il n’ait pas été question de l’implication de Don Siegel
     dans la post-production du film dans ce texte, les notes et lettres
     de réalisateur adressées à son producteur montrent son implication
     dans le montage notamment à travers de suggestions de coupes très
     précises.
 
-[^27]: « Its instability » \[Al LaValley (éd.), *op. cit.*, p. 15\].
-
-[^28]: Seul le *continuity script* établi sur base de visionnement de
-    film par McGee (« de mémoire » après plusieurs dizaines visionnement
-    du film) et LaValley (édition « Criterion » sur LaserDisc) est
-    disponible. Ni LaValley ou Grant, ayant eu accès aux archives de
-    Walter Wagner, ne mentionnent l’existence d’une autre version du
-    scénario.
-
-[^29]: Don Siegel, « Letter to Walter Wagner », 19 mai 1955, reproduit
-    dans Al LaValley (éd.), *op. cit.*, pp. 129-1; Don Siegel,
-    « Memorandum to Walter Wagner », 21 septembre 1955, reproduit dans
-    Al LaValley (éd.), *op. cit.*, pp. 135-137.
-
-[^30]: Walter Wagner, « Suggestions for Additions to the Film », 3 mai
-    1955, reproduit dans Al LaValley (éd.), *op. cit.*, pp. 133-134;
-    Walter Wagner, « The Body Snatchers – Memorandum », 8 juillet 1955,
-    reproduit dans Al LaValley (éd.), *op. cit.*, pp. 134-137.
+[^30]: « Its instability » \[Al LaValley (éd.), *op. cit.*, p. 15\].
 
 [^31]: Non seulement les autorités policières, mais également médicales,
     incarnées par un médecin généraliste (Dr. Basset) et un psychiatre
@@ -715,7 +721,7 @@ conditions favorables à la sérialité.
     *Collider’s*, 10 décembre 1954, p. 117\]
 
 [^51]: « *mysterious objects* found on a farm west of town». \[Jack
-    Finney, « *The Body Snatchers (Second of three Parts)* », *ibid.\]*
+    Finney, « *The Body Snatchers (Second of three Parts)* », *ibid.*\].
 
 [^52]: Finney accorde à la scène 3 pages entières à la scène. Jack
     Finney , *ibid.*, pp. 122-124.
@@ -723,7 +729,7 @@ conditions favorables à la sérialité.
 [^53]: Becky est présente mais ne s’exprime pas verbalement, seules ses
     réactions physiques sont décrites par Miles.
 
-[^54]: « The reporter trapped me » \[Jack Finney, *op. cit.*, p. 122\]
+[^54]: « The reporter trapped me » \[Jack Finney, *op. cit.*, p. 122\].
 
 [^55]: Un commentaire sur le rôle des médias totalement absent de la
     version de Siegel, mais qui sera réarticulée dans les versions de
