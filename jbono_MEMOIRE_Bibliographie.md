@@ -466,6 +466,15 @@ California Press, 1988.
 JENKINS, Henry, *Convergence Culture: Where Old and New Media Collide*,
 New York/London, New York University Press, 2008 \[2006\].
 
+LEITCH, Thomas, *Film Adaptation & Its Discontents*, Baltimore, The
+Johns Hopkins University Press, 2007.
+
+CARTMELL, Deborah (éd.), *A Companion to Litterature, Film, and
+Adaptation*, West Sussex, Wiley-Blackwell, 2012.
+
+TELLOTE, J. P. et DUCHOVNAY, Gerald (éds.), *Science Fiction Film,
+Television, and Adaptation*, New York/London, Routeledge, 2012.
+
 ***Réception critique :***
 
 **Invasion of the Body Snatchers \[1956\] :**

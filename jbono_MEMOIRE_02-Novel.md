@@ -187,7 +187,7 @@ en teneur que celle du Prof. Budlong. Danny insert des émotions[^60] au
 cœur de son argumentation, au défaut de l’explication scientifique[^61].
 Cette première différence diminue donc l’importance du cadre
 science-fictionnel du texte en privilégiant l’aspect émotionnel[^62] sur
-l’explication rationnelle[^63] . Si ce changement n’est pas discuté par
+l’explication rationnelle[^63]. Si ce changement n’est pas discuté par
 les auteurs ou dans la littérature secondaire, il est toutefois possible
 d’émettre un certain nombre d’hypothèses. La première trouve ses
 origines dans le discours de Finney lui-même : « » et la deuxième…
@@ -252,7 +252,7 @@ racine dans l’aspect reproductif du corps féminin (et, par extension, du
 *pod*). Ces ajouts consistent à approfondir la relation Miles/Becky, se
 soldant par un échec quand Becky s’avère être devenue elle-même un
 *pod*. En effet, selon Steffen-Fluhr, se sont les émotions de Miles
-envers Becky qui consituent le « battement de cœur »[^75] du film ;
+envers Becky qui constituent le « battement de cœur »[^75] du film ;
 celui-ci se construisant en partie autour de l’acceptation/refus de
 Miles envers Becky[^76] et de sa peur de s’impliquer dans cette
 relation. Relation qui s’avère impossible dans le texte filmique quand
@@ -462,7 +462,7 @@ Au-delà des changements cosmétiques, les rééditions successives
 entraînent également leur lot de variations dans le corps même du texte.
 Une altération intéressante intervient en marge des corrections
 d’orthographe et de mise en page : alors que le feuilleton ne donne
-aucune indication quant a une date exacte[^99], la première édition du
+aucune indication quant à une date exacte[^99], la première édition du
 roman par Dell évoque les dates très précises du « jeudi 13 août 1953 »
 (à six heures précises, le début des événements du livre) et d’un
 événement passé s’étant déroulé le « 2 septembre 1944 ». À partir de
@@ -530,7 +530,7 @@ conditions favorables à la sérialité.
     Walter Wagner, ne mentionnent l’existence d’une autre version du
     scénario.
 
-[^3]: Don Siegel, « Letter to Walter Wagner », 19 mai 1955, reproduit
+[^3]: Don Siegel, « Letter to Walter Wagner », 19 mai 1955, reproduite
     dans Al LaValley (éd.), *op. cit.*, pp. 129-1; Don Siegel,
     « Memorandum to Walter Wagner », 21 septembre 1955, reproduit dans
     Al LaValley (éd.), *op. cit.*, pp. 135-137.
