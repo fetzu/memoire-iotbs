@@ -3,14 +3,30 @@
 # Add docx files manually as needed.
 PATH=$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin
 
-pandoc jbono_MEMOIRE_Bibliographie.docx -o jbono_MEMOIRE_Bibliographie.md
-pandoc jbono_MEMOIRE_Filmographie.docx -o jbono_MEMOIRE_Filmographie.md
-pandoc jbono_MEMOIRE_Annexes.docx -o jbono_MEMOIRE_Annexes.md
-pandoc jbono_MEMOIRE_Projet.docx -o jbono_MEMOIRE_Projet.md
-pandoc jbono_MEMOIRE_Plan.docx -o jbono_MEMOIRE_Plan.md
-pandoc jbono_MEMOIRE_00-Introduction.docx -o jbono_MEMOIRE_00-Introduction.md
+# Individual files (from FINAL)
+pandoc jbono_MEMOIRE_00-0-Pagedegarde.doc -o jbono_MEMOIRE_00-0-Pagedegarde.md
+pandoc jbono_MEMOIRE_00-1-Poeme.docx -o jbono_MEMOIRE_00-1-Poeme.md
+pandoc jbono_MEMOIRE_00-2-Remerciements.docx -o jbono_MEMOIRE_00-2-Remerciements.md
+pandoc jbono_MEMOIRE_00-3-Introduction.docx -o jbono_MEMOIRE_00-3-Introduction.md
 pandoc jbono_MEMOIRE_01-StateOfTheArt.docx -o jbono_MEMOIRE_01-StateOfTheArt.md
 pandoc jbono_MEMOIRE_02-Novel.docx -o jbono_MEMOIRE_02-Novel.md
 pandoc jbono_MEMOIRE_03-Movies.docx -o jbono_MEMOIRE_03-Movies.md
 pandoc jbono_MEMOIRE_04-Paratext.docx -o jbono_MEMOIRE_04-Paratext.md
 pandoc jbono_MEMOIRE_05-Conclusion.docx -o jbono_MEMOIRE_05-Conclusion.md
+pandoc jbono_MEMOIRE_06-Annexes.docx -o jbono_MEMOIRE_06-Annexes.md
+pandoc jbono_MEMOIRE_071-Bibliographie.docx -o jbono_MEMOIRE_071-Bibliographie.md
+pandoc jbono_MEMOIRE_072-Filmographie.docx -o jbono_MEMOIRE_072-Filmographie.md
+
+# FINAL (test)
+pandoc jbono_MEMOIRE_FINAL.docx -o jbono_MEMOIRE_FINAL.md
+
+# Individual Files (VI)
+pandoc "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_00-Introduction.docx" -o "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_00-Introduction.md"
+pandoc "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_01-StateOfTheArt.docx" -o "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_01-StateOfTheArt.md"
+pandoc "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_02-Novel.docx" -o "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_02-Novel.md"
+pandoc "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_03-Movies.docx" -o "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_03-Movies.md"
+pandoc "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_04-Paratext.docx" -o "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_04-Paratext.md"
+pandoc "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_05-Conclusion.docx" -o "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_05-Conclusion.md"
+pandoc "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_Annexes.docx" -o "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_Annexes.md"
+pandoc "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_Bibliographie.docx" -o "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_Bibliographie.md"
+pandoc "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_Filmographie.docx" -o "VI - VERSIONS INDIVIDUELLES/jbono_MEMOIRE_Filmographie.md"
