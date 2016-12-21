@@ -60,44 +60,46 @@ Dans la deuxième partie, il a été question des origines littéraires de
 parties publié dans *Collider’s* puis de la publication sous forme
 romanesque en 1955 et ses éditions ultérieures. Une lecture comparée
 entre les différents textes (feuilleton, film de Siegel et roman) a
-montré une certaine instabilité du texte original par rapport à son
-adaptation cinématographique, instabilité qui se manifeste dans le
-contexte de production du film mais également dans le déplacement
-générique de l’œuvre en deçà de ses origines science-fictionnelles vers
-l’horreur. La lecture croisée a également permis de constater une
-certaine porosité entre le film et le roman, ce premier informant une
-partie des changements opérés par Finney lors du transfert de son œuvre
-sur un nouveau support. Finalement, un retour sur l’historique de
-publication du roman de Finney a permis de constater que les changements
-apportés au fil des éditions trouvent un certain écho dans la
-trajectoire de ses versions filmiques. Les constats formulés par cette
-partie permettent de dresser un premier bilan quant au rôle du remake
-dans le processus de canonisation d’une œuvre filmique adaptée d’une
-source littéraire[^3] en mesurant le rôle de l’instabilité de la source
-comme créatrice de conditions favorables à la sérialité.
+montré qu’un dialogue intertextuel entre les textes de Finney et
+l’adaptation cinématographique avait lieu. La lecture croisée a permis
+de constater une certaine porosité entre le film et le roman, ce premier
+informant une partie des changements opérés par Finney lors du transfert
+de son œuvre vers la forme romanesque. Finalement, un retour sur
+l’historique de publication du roman de Finney a permis de constater que
+les changements apportés au fil des éditions trouvent un certain écho
+dans la trajectoire de ses versions filmiques ; écho qui peut être
+considéré comme une stratégie de convergence médiatique visant à créer
+des synergies entre sortie des films et réédition des romans, mais qui a
+également pour effet de prolonger l’intertextualité entre films et roman
+bien après sa première adaptation. L’analyse effectuée permet de dresser
+un premier bilan quant au rôle du remake dans le processus de
+canonisation d’une œuvre filmique adaptée d’une source littéraire[^3],
+et de mesurer le rôle de l’œuvre source comme créatrice du récit
+matriciel formant une formule ensuite redéployée dans toute la série.
 
-Dans la troisième partie, il a été question des liens qu’entretiennent
-les différents films du corpus des remakes officiels[^4] et de la
-manière dont ces liens créent une tension entre réflexivité et
-originalité qui anime tout remake. Les éléments narratifs comme le
+Dans la troisième partie, il a été question des liens intertextuels
+qu’entretiennent les différents films du corpus des remakes officiels et
+de la manière dont ces liens révèlent la tension entre réflexivité et
+originalité centrale à tout remake. Les éléments narratifs comme le
 générique d’ouverture et l’utilisation d’une voix off et la récurrence
 de figures comme le cri des *pod people* ou la scène de camouflage
-mettent en scène les tensions d’un texte cherchant à se démarquer de son
-prédécesseur tout en le révérenant. Finalement, il a été question du
-statut de la série. En effet, si la suite du film est systématiquement
-présentée comme une série de remakes par la critique (journalistique,
-spécialisée et académique), les débordements et déplacements
-spatio-temporels d’un film au suivant permettent tout autant de
-considérer le corpus comme une série de fictions plurielles reposant sur
-la même formule[^5]. Le monde de *Invasion of the Body Snatchers* serait
-donc un monde diégétique cohérant, et chacune des versions une
-occurrence de la série reprenant la même formule[^6] tout en opérant un
-déplacement spatio-temporel. Dans tous les cas, l’ensemble de ces
-éléments montre comment chaque film de la série, de par son texte, y
-confirme son appartenance tout en problématisant son essence même. En
-reconduisant certains motifs et schémas narratifs, le film valide
-l’existence des précédents et assure que leur existence ne soit pas
-oubliée… puisque leur existence même en dépend.
+rendent évidente cette tension : celle d’un texte cherchant à se
+démarquer d’un autre tout en lui rendant hommage. Finalement, il a été
+question du statut de la série : si la suite du film est
+systématiquement présentée comme une série de remakes par la critique
+(journalistique, spécialisée et académique), les débordements et
+déplacements spatio-temporels d’un film au suivant permettent tout
+autant de considérer le corpus comme une série de fictions plurielles
+reposant sur la même formule[^4] matricielle. Le monde de *Invasion of
+the Body Snatchers* serait donc un monde diégétique cohérent, et chacune
+des versions une occurrence de la série reprenant la même formule[^5]
+mais opérant un déplacement spatio-temporel. Dans tous les cas,
+l’ensemble de ces éléments montre comment chaque film de la série, de
+par son texte, y confirme son appartenance tout en problématisant son
+essence-même. En reconduisant certains motifs et schémas narratifs,
+chaque version valide l’existence des précédentes et assure que leur
+existence ne soit pas oubliée ; puisque c’est son existence même qui en
+dépends.
 
 Finalement, dans la quatrième partie, il a été question de l’évolution
 du statut des films à travers le discours de leurs auteurs, de leur
@@ -115,26 +117,26 @@ télévisées facilite grandement le travail de chercheurs, et peut
 s’avérer un facteur décisif dans l’inclusion du film dans un discours.
 Les trois vecteurs analysés dans cette partie ne sont certainement pas
 les seuls ayant contribué à la canonisation du film : les discours
-d’autres réalisateurs sur le film[^7], mythes autour de la
+d’autres réalisateurs sur le film[^6], mythes autour de la
 postproduction des films de Siegel, Ferrara et Hirschbiegel, et la
 réarticulation de certains de ses motifs dans d’autres productions
 audio-visuelles. Les facteurs étudiés ont relevé l’importance du
 processus de remake dans cette canonisation : la sortie du remake
 coïncidant avec l’intensification du rythme de publication d’articles
 académiques relatifs au film, et permettant également à de nouveaux
-réalisateurs[^8] de s’exprimer sur les œuvres antérieures. Le remake,
+réalisateurs[^7] de s’exprimer sur les œuvres antérieures. Le remake,
 sans être une condition *sine qua non* de la réévaluation du statut d’un
 film, semble pourtant entretenir une relation dialectique de
-co-dépendance avec son œuvre source et puise dans son *aura*[^9] tout en
+co-dépendance avec son œuvre source et puise dans son *aura*[^8] tout en
 confirmant cette dernière.
 
-Bien que ce travail ait montré que l’instabilité du récit de Finney aie
-crée un terrain fertile pour les remakes, et que ceux-ci ont sans aucun
-doute contribué au changement progressif du statut du film de Siegel, il
-serait faux de postuler qu’il en est le seul : l’apparition progressive
-du statut d’auteur dans le champ académique et critique durant toute la
-moitié deuxième du XX^ème^ siècle[^10], la réévaluation des films de
-série B dans la critique académique[^11], sa potentialité
+Bien que ce travail ait montré que l’instabilité[^9] du récit de Finney
+aie crée un terrain fertile pour les remakes, et que ceux-ci ont sans
+aucun doute contribué au changement progressif du statut du film de
+Siegel, il serait faux de postuler qu’il en est le seul : l’apparition
+progressive du statut d’auteur dans le champ académique et critique
+durant toute la moitié deuxième du XX^ème^ siècle[^10], la réévaluation
+des films de série B dans la critique académique[^11], sa potentialité
 d’interprétation dans des champs divers, les connivences avec la série
 anglaise *Quartermass*[^12] elle aussi partie intégrante du canon de la
 science-fiction. Il n’est même pas certain qu’une étude plus exhaustive
@@ -156,19 +158,31 @@ et réalisateurs. Ces variantes et reprises, encore jamais étudiées en
 détail au moment de la rédaction de ce travail, pourraient servir de
 point de départ dans la création d’un nouveau modèle du processus de
 remake s’articulant autour de la contagion culturelle de motifs (formels
-ou narratifs) au sein des productions audio-visuelles.
+ou narratifs) au sein des productions audio-visuelles. Ce modèle
+épidémiologique, déjà partiellement développé dans les textes de Richard
+Dawkins[^16], Susan Blackmore[^17] et Dan Sperber[^18] permettrait de
+considérer la sérialité dans un corpus plus vaste de productions et
+s’intéressant à la manière dont les *memes* – unités de culture
+transmissibles – émanent et varient au sein, par exemple, d’un genre
+filmique donné. Cette approche épidémiologique aurait également
+l’avantage de pouvoir s’appliquer à n’importe quel texte filmique, pour
+autant qu’un *meme* puisse être identifié au sein du texte filmique,
+sans devoir nécessairement dépendre de catégories sérielles déjà
+existantes et parfois très restrictives dans leurs définitions.
 
 En conclusion, il serait opportun de reprendre une prévision faite par
 certains auteurs affirmant que « étant donné ces nouvelles technologies
 \[ingénierie génétique, intelligence artificielle, la robotique et
 l’internet\], il faut nous attendre à ce que la version originale de
 *Invasion of the Body Snatchers* reste pertinente et convaincante et
-qu’il y aura encore d’autres remakes dans le futur. »[^16]. L’occasion
+qu’il y aura encore d’autres remakes dans le futur. »[^19]. L’occasion
 idéale pour les futures générations d’historiens et théoriciens du
 cinéma d’explorer encore l’objet passionnant que représente cette
 série ; et pour les critiques de souligner encore une fois l’ironie de
 dupliquer sans cesse un film dont le thème central est la perte
 d’émotions engendrée par cette dernière.
+
+-   Intégrer un petit peu d’Eco
 
 [^1]: Dick Tomasovic, « Stratégies d’auto-canonisation: le cas Walt
     Disney », *in* Petro Bianchi, Giulio Bursi et Simone Venturini
@@ -185,37 +199,34 @@ d’émotions engendrée par cette dernière.
     défendre son statut, sinon de classique, au moins d’œuvre majeure
     dans ces genres.
 
-[^4]: Le « remake officiel » étant ici déterminé par rapport à son
-    statut face au roman de Finney: contrairement à la parodie
-    (*Invasion of the Bunny Snatchers*, Greg Ford/Terry Lennon, 1992) et
-    le mockbuster (*Invasion of the Pod People*, Justin Jones, 2007)
-    reprenant tout deux l’histoire de Finney sans citer cette dernière
-    comme source d’adaptation (et, par conséquent, payer les droits
-    relatifs à l’adaptation).
-
-[^5]: Au sens de « matrice consignée dans une *bible* et formalisée dans
+[^4]: Au sens de « matrice consignée dans une *bible* et formalisée dans
     le pilote de chaque œuvre. » Stéphane Benassi, « Sérialité(s) »,
     *in* Sarah Sepulchre (dir.), *Décoder les séries télévisées*,
     Bruxelles, De Boeck, 2011, p. 80 ; le pilote étant ici l’adaptation
     originale de Siegel qui informerait chacune de ses suites.
 
-[^6]: Dont les « paramètres invariants » seraient les prémices du récit
+[^5]: Dont les « paramètres invariants » seraient les prémices du récit
     (sa source littéraire), certaines scènes (par exemple celle du
     camouflage) et éléments clés (l’insomnie).
 
-[^7]: Par exemple Sam Peckinpah, auteur ayant lui aussi connu une
+[^6]: Par exemple Sam Peckinpah, auteur ayant lui aussi connu une
     réévaluation de son statut d’auteur, qui à plusieurs reprises à
     prétendu avoir contribué au scénario du film; propos rapidement
     balayés par Siegel dans une entrevue. Nancy Steffen-Fluhr, « Women
     and the Inner Game of Don Siegel's *Invasion of the Body Snatchers*
     », *Science Fiction Studies*, Vol. 11, No. 2, juillet 1984, p. 151.
 
-[^8]: Ou, au sens plus large, d’acteurs de l’industrie
+[^7]: Ou, au sens plus large, d’acteurs de l’industrie
     cinématographique.
 
-[^9]: Au sens proposé par Walter Benjamin. Voir Walter Benjamin, *The
+[^8]: Au sens proposé par Walter Benjamin. Voir Walter Benjamin, *The
     Work of Art in the Age of Mechanical Reproduction*, trad. de
     l’allemand par J.A. Underwood, London, Penguin, 2008 \[1939\].
+
+[^9]: Le terme d’instabilité est utilisé ici pour désigner d’une part
+    l’existence de deux versions de l’histoire de Finney sur deux
+    supports (feuilleton et roman), mais également pour signifier les
+    modifications apportées au roman lors de ses rééditions ultérieures.
 
 [^10]: Et l’élévation de Siegel au statut d’auteur, notamment amorcé par
     sa redécouverte à la fin des années 1950 par des jeunes critiques
@@ -237,7 +248,17 @@ d’émotions engendrée par cette dernière.
 [^15]: *The Stepford Wives* (*Les femmes de Stepford*), Bryan Forbes,
     1975.
 
-[^16]: « Given these new technologies, we should expect the original
+[^16]: Richard Dawkins, « Memes : The New Replicators » *in* Richard
+    Dawkins, *The Selfish Gene*, Oxford, Oxford University Press, 2006
+    \[1976\], pp. 189-201.
+
+[^17]: Susan Blackmore, *The Meme Machine*, Oxford, Oxford University
+    Press, 1999.
+
+[^18]: Dan Sperber, *Explaining Culture: A Naturalistic Approach*,
+    Oxford/Cambridge, Blackwell, 2002 \[1996\].
+
+[^19]: « Given these new technologies, we should expect the original
     version of *Invasion of the Body Snatchers* to remain relevant and
     compelling for viewers, and that there will be yet further remakes
     in the future. » \[Barry Keith Grant, *op. cit.*, p. 104\].

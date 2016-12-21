@@ -472,8 +472,14 @@ Johns Hopkins University Press, 2007.
 CARTMELL, Deborah (éd.), *A Companion to Litterature, Film, and
 Adaptation*, West Sussex, Wiley-Blackwell, 2012.
 
-TELLOTE, J. P. et DUCHOVNAY, Gerald (éds.), *Science Fiction Film,
+TELOTTE, J. P. et DUCHOVNAY, Gerald (éds.), *Science Fiction Film,
 Television, and Adaptation*, New York/London, Routeledge, 2012.
+
+HUTCHEON, Linda, *A Theory of Adaptation*, New York/London, Routeledge,
+2006.
+
+METZ, Christian, « Le film de fiction et son spectateur »,
+*Communications*, Vol. 23, No. 1, 1975, pp. 108-135.
 
 ***Réception critique :***
 
