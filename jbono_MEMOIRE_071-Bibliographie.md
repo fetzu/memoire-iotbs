@@ -442,7 +442,7 @@ KOZLOFF, Sarah, *Invisible Storytellers. Voice-over Narration in
 American Fiction Film*, Berkeley/Los Angeles/Londres, University of
 California Press, 1988.
 
-**Psychanalyse :**
+**Paranoïa et psychanalyse :**
 
 CAPGRAS, Joseph, « L'illusion des ‹ sosies › dans un délire systématisé
 chronique », *Bulletin de la Société clinique de médecine mentale*, n°
