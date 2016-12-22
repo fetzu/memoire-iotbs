@@ -64,5 +64,5 @@ we become, and like the spark
 
 of daylight presses down on us.
 
--Ira Sadoff, “Invasion of the Body Snatchers”, Ploughshares, Vol. 6, No.
-2 (1980), pp. 56-57
+Ira Sadoff, “Invasion of the Body Snatchers”, Ploughshares, Vol. 6, No.
+2 (1980), pp. 56-57.

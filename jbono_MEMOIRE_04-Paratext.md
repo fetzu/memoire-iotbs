@@ -68,7 +68,7 @@ sans émotion et que l’avertissement donné par le film est réel[^16], une
 manière non seulement de justifier son importance dans sa carrière par
 son côté personnel mais également de contribuer au mythe du film comme
 création artistique visant à transmettre les idées de son auteur. Il
-attribue par ces propos une mission à son film: non simplement de
+attribue par ces propos une mission à son film : non simplement de
 distraire mais d’avertir le public sur les dangers d’une vie sans
 émotions[^17]. Cette volonté de faire de son film un film à message
 personnel passe aussi par un déni de l’œuvre à partir de laquelle il a
@@ -279,7 +279,7 @@ les vidéophiles), montre toutefois une demande constante du public. En
 parallèle à ces sorties sur format vidéo, le film a également connu
 ressorties en salles, IMDB listant par exemple deux sorties en France en
 2009 et 2015[^71] ; ressorties qui illustrent encore une fois un intérêt
-maintenu pour le public envers le film.
+maintenu pour le public vis-à-vis du film.
 
 Les films de Kaufman, Ferrara et Hirschbiegel ont connu une vie moins
 tumultueuse après leurs sorties respectives en salles. Les trois films
@@ -438,14 +438,14 @@ de se retrouvés confrontés à l’un des films augmente – par des
 mécanismes sociaux dont l’analyse dépasse la portée de ce travail – avec
 l’intérêt renouvelé pour le film par des spécialistes[^94].
 
-[^1]: « genuine SF classic » \[Don Drucker, « Invasion of the Body
+[^1]: « Genuine SF classic » \[Don Drucker, « Invasion of the Body
     Snatchers », *The Chicago Reader*, 1997\].
 
 [^2]: Jean-François Rauger, « Reprise : ‹ L’invasion des profanateurs de
     sépultures ›, de la série B à portée philosophique », *Le Monde*, 13
     janvier 2015.
 
-[^3]: « one of the definitive science fiction film of the 1950s »
+[^3]: « One of the definitive science fiction film of the 1950s »
     \[Keith M. Booker, *Historical Dictionary of Science Fiction
     Cinema*, Lanham/Toronto/Plymouth, The Scarecrow Press, 2010, p.
     155\].
@@ -460,11 +460,11 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
     ultérieure ». « It is beyond the scope of this article to map out
     precisely how the film attained subsequent popularity. » \[Katrina
     Mann, « ‹ You're Next! ›: Postwar Hegemony Besieged in Invasion of
-    the Body Snatchers », *Cinema Journal*, Vol. 44, No. 1, automne
-    2004, p. 66\].
+    the Body Snatchers », *Cinema Journal*, vol. 44, n° 1, automne 2004,
+    p. 66\].
 
-[^6]: Oliver Hirshbiegel, réalisateur encore relativement jeune dont la
-    carrière cinématographique a commencée en 2001, ne dispose pas
+[^6]: Oliver Hirshbiegel, est réalisateur encore relativement jeune dont
+    la carrière cinématographique a commencée en 2001 et ne dispose pas
     encore de monographie qui lui est dédiée.
 
 [^7]: Alan Lovell, *Don Siegel*, London, BFI, 1977 \[1975\].
@@ -475,13 +475,13 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
 [^9]: Nicole Brenez, *Abel Ferrara*, Urbana/Chicago, University of
     Illinois Press, 2007.
 
-[^10]: Qu’il n’a malheresuement pas été possible de consulter pour ce
-    travail.
+[^10]: Monographie qu’il n’a malheureusement pas été possible de
+    consulter pour ce travail.
 
 [^11]: Stuart M. Kaminsky, « Don Siegel on the Pod Society » *in*
     LaValley, *op. cit.*, pp. 153-157.
 
-[^12]: « probably my best film » \[Alan Lovell, *op. cit.*, p. 54\].
+[^12]: « Probably my best film » \[Alan Lovell, *op. cit.*, p. 54\].
 
 [^13]: « I hide behind a facade of bad scripts, telling stories of no
     import and I felt that this was a very important story. » \[Alan
@@ -496,25 +496,25 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
     sont des pods. Beaucoup de mes associés sont certainement des pods
     \[…\] Ils existent, respirent, dorment. Être un pod veut dire ne
     plus avoir aucune passion, aucune colère, d’avoir perdu
-    l’étincelle. » ; « People are pods. Many of my associates are
+    l’étincelle. » (« People are pods. Many of my associates are
     certainly pods \[…\] they exist, breathe, sleep. To be a pod means
-    that you have no passion, no anger, the spark has left you. ». 
-    Stuart M. Kaminsky, *op. cit.*, p. 154.
+    that you have no passion, no anger, the spark has left you. »)
+    \[Stuart M. Kaminsky, *op. cit.*, p. 154\].
 
 [^17]: Stuart M. Kaminsky, *op. cit.*, p. 159.
 
 [^18]: Une absence que constate également Arthur LeGacy en se référant à
     la même entrevue, trouvant l’omission « surprenante quand on se
     rends compte à quel point la conception du film de Siegel est tirée
-    directement du roman de Finney ». « I was surprised to find how much
+    directement du roman de Finney » (« I was surprised to find how much
     of the original conception was taken directly from Jack Finney’s
-    novel. »  Arthur LeGacy, « *The Invasion of the Body Snatchers*: A
-    Metaphor for the Fifties », *Litterature/Film Quarterly*, Vol. 6,
-    No. 3, été 1978, p. 287.
+    novel. ») \[Arthur LeGacy, « *The Invasion of the Body Snatchers*: A
+    Metaphor for the Fifties », *Litterature/Film Quarterly*, vol. 6, n°
+    3, été 1978, p. 287\].
 
-[^19]: « a conscious choice » \[Stuart M. Kaminsky, *op. cit.*, p. 159\]
+[^19]: « A conscious choice » \[Stuart M. Kaminsky, *op. cit.*, p. 159\]
 
-[^20]: « the idea of a stupid pod » \[Stuart M. Kaminsky, *op. cit.*, p.
+[^20]: « The idea of a stupid pod » \[Stuart M. Kaminsky, *op. cit.*, p.
     155\].
 
 [^21]: Stuart M. Kaminsky, *ibid*.
@@ -523,8 +523,8 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
     Bloom, *The Western Canon: The Books and School of Ages*, New
     York/San Diego/London, Harcourt Brace & Company, 1994, pp. 45-75.
 
-[^23]: Au point-de-vue personnel, puisqu’il n’est jamais question du
-    succès commercial du film dans son discours.
+[^23]: Importance au point-de-vue personnel, puisqu’il n’est jamais
+    question du succès commercial du film dans son discours.
 
 [^24]: La question du parallèle avec le maccarthisme est évoquée mais
     très rapidement balayée par le réalisateur qui affirme que la
@@ -550,8 +550,8 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
     Hollywood Cinema: An Introduction*, London, I. B. Tauris, 2002, pp.
     85-115.
 
-[^29]: Stephen Farber, « Hollywood Maverick », *Film Comment*, Vol. 15,
-    No. 1, janvier/février 1979, pp. 26-31.
+[^29]: Stephen Farber, « Hollywood Maverick », *Film Comment*, vol. 15,
+    n° 1, janvier/février 1979, pp. 26-31.
 
 [^30]: « I was involved before there ever was a script. » \[Stephen
     Farber, *op. cit.*, p. 28\].
@@ -566,9 +566,9 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
 [^33]: « I spent a lot of time laying in a fabric of sound » \[Stephen
     Farber, *ibid*.\].
 
-[^34]: Jusqu’au point d’affirmer que le film aurait été écrit au
-    tournage et que W. D. Richter aurait rédigé le scénario en fonction
-    du film tourné par Kaufman.
+[^34]: Kaufman va jusqu’au point d’affirmer que le film aurait été écrit
+    au tournage et que W. D. Richter aurait rédigé le scénario en
+    fonction du film tourné.
 
 [^35]: « I wanted to take it further. » \[Stephen Farber, *op. cit.*, p.
     27\].
@@ -576,7 +576,7 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
 [^36]: « *Body Snatchers* is not really a remake. » \[Stephen Farber,
     *ibid*.\].
 
-[^37]: « there are a lot of great remakes. » \[Stephen Farber,
+[^37]: « There are a lot of great remakes. » \[Stephen Farber,
     *ibid*.\].
 
 [^38]: « In 1956, the science-fiction consciousness of the public was
@@ -611,21 +611,23 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
     producteur, qui a confié la réécriture et le retournage d’une partie
     du film à d’autres scénaristes/réalisateur.
 
-[^47]: Acteurs, chef opérateur et scénariste (original) et réalisateur
-    (original).
+[^47]: Par l’équipe, il est sous-entendu acteurs, chef opérateur et
+    scénariste (original) et réalisateur (original).
 
-[^48]: Une trace supplémentaire du climat socio-politique post-11
-    septembre, dont regorge également son film.
+[^48]: Une évocation claire du terrorisme et une trace supplémentaire du
+    climat socio-politique post-11 septembre, dont regorge également son
+    film.
 
-[^49]: Et le montage relativement maladroit de celle-ci montrant que les
-    interventions ont été coupées dans un souci de garder une vidéo
+[^49]: Le montage relativement maladroit de celle-ci laisse penser que
+    les interventions ont été coupées dans un souci de garder une vidéo
     courte.
 
-[^50]: Et, dans le cas de *The Invasion*, Kajganich.
+[^50]: Dans le cas de *The Invasion*, c’est Kajganich qui évoque la
+    source littéraire dans son intervention.
 
-[^51]: Pas exactement dans ces termes, mais il n’est pas excessif
-    d’inférer que « plus loin » est un euphémisme utilisé par le
-    réalisateur pour « mieux ». 
+[^51]: Il ne l’affirme pas exactement dans ces termes, mais il n’est pas
+    excessif d’inférer que « plus loin » est un euphémisme utilisé par
+    le réalisateur pour « mieux ». 
 
 [^52]: Le taux de pénétration de la télévision dans les ménages
     américains passant de 9% en 1950 à 92.6% en 1965. « Number of TV
@@ -637,7 +639,7 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
     Spectatorship from VHS to File Sharing*, Berkley/Los Angeles/London,
     University of California Press, 2013, p. 1.
 
-[^54]: « public has grown steadily in the last century since its first
+[^54]: « Public has grown steadily in the last century since its first
     syndication by American television in 1959. » \[Barry Keith Grant,
     *op. cit.*, p. 7\].
 
@@ -667,13 +669,13 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
     Body Snatchers*\[sic\] would be a forgotten film. » \[Mark Thomas
     McGee, *op. cit.*, p. 14\].
 
-[^61]: Label new yorkais spécialisé dans la diffusion de « classiques et
-    films contemporains importants » sur supports vidéo destiné aux
-    cinéphiles/vidéophiles.
+[^61]: Criterion est un label new yorkais spécialisé dans la diffusion
+    de « classiques et films contemporains importants » sur supports
+    vidéo destiné aux cinéphiles/vidéophiles.
 
-[^62]: Un format de diffusion sur disque concurrent direct à la VHS et à
-    Betamax, mais n’ayant jamais été largement adopté par le public en
-    dehors du japon.
+[^62]: Le LaserDisc est un format de diffusion sur disque concurrent
+    direct à la VHS et à Betamax, mais n’ayant jamais été largement
+    adopté par le public en dehors du japon.
 
 [^63]: « CC1108L », LaserDisc Database,
     <http://www.lddb.com/laserdisc/46654/> (consulté le 10.12.2016).
@@ -682,8 +684,9 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
     [http://www.lddb.com/laserdisc/988/](http://www.lddb.com/laserdisc/46654/)
     (consulté le 10.12.2016).
 
-[^65]: Nom adopté par NTA au moment de leur rachat du studio Republic
-    Pictures en 1986. Voir « Republic Pictures », Wikipedia,
+[^65]: Republic Pictures Corporation est le nom adopté par NTA au moment
+    de leur rachat du studio Republic Pictures en 1986. Voir « Republic
+    Pictures », Wikipedia,
     <https://en.wikipedia.org/wiki/Republic_Pictures> (consulté le
     10.12.2016).
 
@@ -693,67 +696,70 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
     <http://vhscollector.com/movie/invasion-body-snatchers-3> (consulté
     le 10.12.2016).
 
-[^68]: Un autre label indépendant visant également
+[^68]: Olive Films est autre label indépendant visant également
     cinéphiles/videophiles.
 
 [^69]: « Invasion of the Body Snatchers (Blu-Ray) », Olive Films,
     <http://www.olivefilms.com/films/invasion-of-the-body-snatchers-blu-ray/>
     (consulté le 10.12.2016).
 
-[^70]: Betamax et le HD-DVD manquant à la liste, absence attribuable à
-    l’échec relativement précoce de ces deux formats face à leurs
-    concurrents respectifs.
+[^70]: Le Betamax et le HD-DVD manquent à la liste, une absence qui peut
+    être attribuée à l’échec relativement précoce de ces deux formats
+    face à leurs concurrents respectifs (VHS et Blu-Ray).
 
 [^71]: « *Invasion of the Body Snatchers*. Release Info », IMDB,
     <http://www.imdb.com/title/tt0049366/releaseinfo> (consulté le
     10.12.2016). Dates correspondant aux critiques contemporaines du
     film parues dans la presse quotidienne française.
 
-[^72]: VHS, DVD et Blu-Ray pour les films de 1978 et 1993, DVD et
-    Blu-Ray uniquement pour celui de 2007 (le remplacement progressif de
-    la VHS par le DVD ayant débuté à la fin des années 1990, les
-    éditions VHS devenant rares jusqu’à complètement stopper en 2007 sur
-    le marché américain).
+[^72]: Une sortie qui à lieu sur VHS, DVD et Blu-Ray pour les films de
+    1978 et 1993, et DVD et Blu-Ray uniquement pour celui de 2007 (le
+    remplacement progressif de la VHS par le DVD ayant débuté à la fin
+    des années 1990, les éditions VHS devenant rares jusqu’à
+    complètement stopper en 2007 sur le marché américain).
 
-[^73]: À partir d’un nouveau scan haute-qualité de l’interpositif et
-    l’ajout d’entrevues et *featurettes* inédites en marge du film.
+[^73]: Réalisée à partir d’un nouveau scan haute-qualité de
+    l’interpositif et l’ajout d’entrevues et *featurettes* inédites en
+    marge du film.
 
 [^74]: Il convient de rappeler ici que le film de Ferrara est d’abord
     montré en compétition officielle du festival de Cannes avant sa
     sortie en salle, ce qui insuffle également un certain prestige au
     film.
 
-[^75]: « continuing power » \[Al LaValley, *op. cit.*, p. 16\].
+[^75]: « Continuing power » \[Al LaValley, *op. cit.*, p. 16\].
 
-[^76]: « basic human fears » \[Al LaValley, *ibid.*\].
+[^76]: « Basic human fears » \[Al LaValley, *ibid.*\].
 
 [^77]: Il convient de préciser ici qu’il ne s’agît pas d’une approche
     téléologique à ces discours, puisque ces derniers interviennent dans
     des champs divers des études académiques et sont diffusés par des
     vecteurs très hétérogènes.
 
-[^78]: Et, discutablement, de celui de Kaufman.
+[^78]: C’est également, discutablement, également le cas pour le film de
+    Kaufman.
 
 [^79]: Susan Sontag, « The imagination of disaster », in *Against
     interpretation*, New York, Picador, 1966 \[1965\], pp. 209-225.
 
-[^80]: Comme représentatif d’un type de discours *typique* des films de
-    science-fiction américain de cette période.
+[^80]: Valeur du film comme représentatif d’un type de discours
+    *typique* des films de science-fiction américain de cette période.
 
 [^81]: Charles T. Gregory, « The Pod Society Versus the Rugged
-    Individualists », *Journal of Popular Film*, Vol. 1, No. 1, hiver
+    Individualists », *Journal of Popular Film*, vol. 1, n° 1, hiver
     1972, pp. 2-14.
 
-[^82]: Revue académique avec évaluation de pairs, renommé depuis
-    *Journal of Popular Film & Television*.
+[^82]: Le *Journal of Popular Film* est une revue académique avec
+    évaluation de pairs, renommé depuis *Journal of Popular Film &
+    Television*.
 
 [^83]: C*oogan's Bluff* (*Un shérif à New York*, Don Siegel, 1968)
 
 [^84]: Arthur LeGacy, « *The Invasion of the Body Snatchers*: A Metaphor
-    for the Fifties », *Litterature/Film Quarterly*, Vol. 6, No. 3, été
+    for the Fifties », *Litterature/Film Quarterly*, vol. 6, n° 3, été
     1978, pp. 285-292.
 
-[^85]: L’auteur n’ayant, au moment de la rédaction de son article, que
+[^85]: LeGacy n’ayant, au moment de la rédaction de son article, que
     très peu de littérature secondaire concernant son objet d’études.
 
 [^86]: LeGacy met en perspective le statut d’auteur de Siegel défendu
@@ -761,14 +767,14 @@ l’intérêt renouvelé pour le film par des spécialistes[^94].
     Sontag.
 
 [^87]: Michael Dempsey, « Invaders and Encampments: The Films of Philip
-    Kaufman », *Film Quarterly*, Vol. 32, No. 2, hiver 1978-1979, pp.
+    Kaufman », *Film Quarterly*, vol. 32, n° 2, hiver 1978-1979, pp.
     17-27; Charles Freund, « Pods over San Francisco », *Film Comment*,
-    Vol. 15, No. 1, janvier/février 1979, pp. 22-25. Il convient de
-    noter que *Film Comment* n’est pas une revue académique mais un
-    magazine à facture para-académique consacré au cinéma.
+    vol. 15, n° 1, janvier/février 1979, pp. 22-25. Il convient de noter
+    que *Film Comment* n’est pas une revue académique mais un magazine à
+    facture para-académique consacré au cinéma.
 
 [^88]: Glen M. Johnson, « We’d Fight… We Had To. *The Body Snatchers* as
-    Novel and Film », *Journal of Popular Culture*, Vol. 13, No. 1, été
+    Novel and Film », *Journal of Popular Culture*, vol. 13, n° 1, été
     1979, pp. 5-16.
 
 [^89]: Le quatrième ouvrage faisant le choix d’approcher le remake à

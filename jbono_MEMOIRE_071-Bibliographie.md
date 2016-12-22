@@ -28,24 +28,24 @@ Delhi, Touchstone, 2015 \[1989\].
 
 BADMINGTON, Neil, « Pod almighty!; or, humanism, posthumanism, and the
 strange case of *Invasion of the Body Snatchers* », *Textual Practice*,
-Vol. 15, No. 1, 2001, pp. 5-22.
+vol. 15, n° 1, 2001, pp. 5-22.
 
 BÉGHIN, Cyril (réd.), « L’invasion des profanateurs de sépultures »,
 *Livret et fiche transmettre le cinéma*, Cahiers du cinéma/CNC, Paris,
 2014.
 
 CHION, Michel, « Les enfants du remake. Sur deux versions des ‹ Body
-Snatchers › », *Positif*, No. 459, mai 1999, pp. 100-103.
+Snatchers › », *Positif*, n° 459, mai 1999, pp. 100-103.
 
 DEVILLIO, Sloan, « The Self and Self-less in Campbell’s *Who Goes
 There?* and Finney's *Invasion of the Body Snatchers* »,
-*Extrapolation*, Vol. 29, No. 2, été 1988, pp. 179-188.
+*Extrapolation*, vol. 29, n° 2, été 1988, pp. 179-188.
 
 DUPRÉ, Vincent, « L’Invasion des profanateurs de sépultures », *Jeune
-Cinéma*, No. 326-327, automne 2009, pp. 106-108.
+Cinéma*, n° 326-327, automne 2009, pp. 106-108.
 
-FREUND, Charles, « Pods over San Francisco », *Film Comment*, Vol. 15,
-No. 1, janvier/février 1979, pp. 22-25.
+FREUND, Charles, « Pods over San Francisco », *Film Comment*, vol. 15,
+n° 1, janvier/février 1979, pp. 22-25.
 
 GEORGI, Sonja et LOOCK, Kathleen (éd.), *Of Body Snatchers and
 Cyberpunks*, Göttingen, University of Göttingen Press, 2011.
@@ -54,20 +54,20 @@ GRANT, Barry Keith, *Invasion of the Body Snatchers*, London,
 BFI/Palgrave MacMillan, 2010.
 
 GREGORY, Charles T., « The Pod Society Versus the Rugged Individualists
-», *Journal of Popular Film*, Vol. 1, No. 1, hiver 1972, pp. 2-14.
+», *Journal of Popular Film*, vol. 1, n° 1, hiver 1972, pp. 2-14.
 
 HENDERSHOT, Cyndy, « The Invaded Body: Paranoia and Radiation Anxiety in
 *Invaders from Mars*, *It Came from outer Space*, and *Invasion of the
-Body Snatchers* », *Extrapolation*, Vol. 39, No. 1, 1998, pp. 26-39.
+Body Snatchers* », *Extrapolation*, vol. 39, n° 1, 1998, pp. 26-39.
 
 HIGASHI, Sumiko, « Invasion of the Body Snatchers: Pods then and now »,
-*Jump Cut*, No. 24-25, mars 1981, pp. 3-4.
+*Jump Cut*, n° 24-25, mars 1981, pp. 3-4.
 
-HOBERMAN, J., « Paranoia and the Pods », *Sight and Sound*, Vol. 4, No.
+HOBERMAN, J., « Paranoia and the Pods », *Sight and Sound*, vol. 4, n°
 5, mai 1994, pp. 28-31.
 
 JOHNSON, Glen M., « We’d Fight… We Had To. *The Body Snatchers* as Novel
-and Film », *Journal of Popular Culture*, Vol. 13, No. 1, été 1979, pp.
+and Film », *Journal of Popular Culture*, vol. 13, n° 1, été 1979, pp.
 5-16.
 
 KAEL, Pauline, « Pods » in Sanford Schwartz (éd.), *The Age of Movies:
@@ -78,12 +78,12 @@ LAVALLEY, Al (éd.), *Invasion of the Body Snatchers*, New Brunswick,
 Rutgers University Press, 1989.
 
 LAVERY, David, « Departure of the Body Snatchers, or the Confessions on
-a Carbon Chauvinist », *The Hudson Review*, Vol. 39, No. 3, automne
-1986, pp. 383-404.
+a Carbon Chauvinist », *The Hudson Review*, vol. 39, n° 3, automne 1986,
+pp. 383-404.
 
 LEGACY, Arthur, « *The Invasion of the Body Snatchers*: A Metaphor for
-the Fifties », *Litterature/Film Quarterly*, Vol. 6, No. 3, été 1978,
-pp. 285-292.
+the Fifties », *Litterature/Film Quarterly*, vol. 6, n° 3, été 1978, pp.
+285-292.
 
 LOOCK, Kathleen, « The Return of the Pod People: Remaking Cultural
 Anxieties in *Invasion of the Body Snatchers* », in Constantine Vervis
@@ -91,7 +91,7 @@ et Kathleen Loock (éd.), *Film Remakes, Adaptations and Fan Productions:
 Remake/Remodel*, Londres, Palgrave MacMillan, 2012, pp. 122-144.
 
 MANN, Katrina, « ‹ You're Next! ›: Postwar Hegemony Besieged in Invasion
-of the Body Snatchers », *Cinema Journal*, Vol. 44, No. 1, automne 2004,
+of the Body Snatchers », *Cinema Journal*, vol. 44, n° 1, automne 2004,
 pp. 49-68.
 
 MCGEE, Mark Thomas, *Invasion of the Body Snatchers: The Making of a
@@ -99,14 +99,14 @@ Classic*, Duncan, BearManor, 2012.
 
 MEEKER, Natania, SZABARI, Antónia, « From the Century of the Pods to the
 Century of the Plants: Plant Horror, Politics, and Vegetal Ontology »,
-*Discourse*, Vol. 34, No. 1, hiver 2002, pp. 32-58.
+*Discourse*, vol. 34, n° 1, hiver 2002, pp. 32-58.
 
 NELSON, Erika, « *Invasion of the Body Snatchers*: Gender and Sexuality
-in Four Film Adaptations », *Extrapolation*, Vol. 52, No. 1, 2011, pp.
+in Four Film Adaptations », *Extrapolation*, vol. 52, n° 1, 2011, pp.
 51-74.
 
 PEDERSEN, Hellen M., STEFFEN-FLUHR, Nancy, « Altering Invasion of the
-Body Snatchers », *Science Fiction Studies*, Vol. 12, No. 1, mars 1985,
+Body Snatchers », *Science Fiction Studies*, vol. 12, n° 1, mars 1985,
 pp. 105-110.
 
 SAHOTA, Shalimar, « What Went Wrong: The Invasion », Boxoffice Prophets
@@ -118,11 +118,11 @@ SCHNEIDER, Jerry L., *Invasion of the Body Snatchers – Film Locations:
 Then & Now*, Victorville, Corriganville Press, 2009.
 
 STEFFEN-FLUHR, Nancy, « Women and the Inner Game of Don Siegel's
-*Invasion of the Body Snatchers* », *Science Fiction Studies*, Vol. 11,
-No. 2, juillet 1984, pp. 139-153.
+*Invasion of the Body Snatchers* », *Science Fiction Studies*, vol. 11,
+n° 2, juillet 1984, pp. 139-153.
 
 TURNER, Georges, « A Case for Insomnia », *American Cinematographer*,
-Vol. 78, No. 3, mars 1997, pp. 77-81.
+vol. 78, n° 3, mars 1997, pp. 77-81.
 
 **Remake, adaptation, sérialité, hypertextualité :**
 
@@ -142,20 +142,20 @@ Reproduction*, trad. de l’allemand par J.A. Underwood, London, Penguin,
 2008 \[1939\].
 
 BERTON, Mireille et PORTMANN, Sylvain (dir.), « Dossier : séries
-télévisées contemporaines », *Décadrages*, No. 32-33, printemps 2016,
-pp. 12-166.
+télévisées contemporaines », *Décadrages*, n° 32-33, printemps 2016, pp.
+12-166.
 
 ECO, Umberto,
 
-– « Le mythe de Superman », *Communications*, Vol. 24, No. 1, 1976, pp.
+– « Le mythe de Superman », *Communications*, vol. 24, n° 1, 1976, pp.
 24-40.
 
 – « Innovation and Repetition: Between Modern and Post-Modern
-Aesthetics », *Daedalus*, Vol. 114, No. 4, automne 1985, pp. 161-184.
+Aesthetics », *Daedalus*, vol. 114, n° 4, automne 1985, pp. 161-184.
 
 – « Innovation et répétition : Entre esthétique moderne et post-moderne
-», trad. de l’américain par Marie-Christine Gamberini, *Réseaux*, Vol.
-12, No. 68, 1994 \[1985\], pp. 9-26.
+», trad. de l’américain par Marie-Christine Gamberini, *Réseaux*, vol.
+12, n° 68, 1994 \[1985\], pp. 9-26.
 
 JESS-COOKE, Carolyn et VERVIS, Constantine, *Second Takes: Critical
 Approaches to the Film Sequel*, Albany, State University of New York
@@ -165,7 +165,7 @@ LEFEBVRE, Martin, *Psycho: De la figure au musée imaginaire*,
 Montréal/Paris, Harmattan, 1997.
 
 SILVERMAN, Stephen M., « Hollywood Cloning: Sequels, Prequels, Remakes
-and Spin-Offs. », *American Film*, Vol. 3, No. 9, juillet-aout 1978, pp.
+and Spin-Offs. », *American Film*, vol. 3, n° 9, juillet-aout 1978, pp.
 24–30.
 
 *Adaptations*
@@ -173,7 +173,7 @@ and Spin-Offs. », *American Film*, Vol. 3, No. 9, juillet-aout 1978, pp.
 CARTMELL, Deborah (éd.), *A Companion to Litterature, Film, and
 Adaptation*, West Sussex, Wiley-Blackwell, 2012.
 
-HUTCHEON, Linda, *A Theory of Adaptation*, New York/London, Routeledge,
+HUTCHEON, Linda, *A Theory of Adaptation*, New York/London, Routledge,
 2006.
 
 JENKINS, Henry, *Convergence Culture: Where Old and New Media Collide*,
@@ -182,8 +182,8 @@ New York/London, New York University Press, 2008 \[2006\].
 LEITCH, Thomas, *Film Adaptation & Its Discontents*, Baltimore, The
 Johns Hopkins University Press, 2007.
 
-TELOTTE, J. P. et DUCHOVNAY, Gerald (éds.), *Science Fiction Film,
-Television, and Adaptation*, New York/London, Routeledge, 2012.
+TELOTTE, J. P. et DUCHOVNAY, Gerald (éd.), *Science Fiction Film,
+Television, and Adaptation*, New York/London, Routledge, 2012.
 
 *Remake*
 
@@ -214,6 +214,33 @@ GENETTE, Gérard, *Palimpsestes*, Paris, Éditions du Seuil, 1992
 
 LÉVI-STRAUSS, Claude, « La structure des mythes » in *Anthropologie
 Structurale*, Paris, Plon, 1958, pp. 227-257.
+
+**Canonisation :**
+
+BIANCHI, Petro, BURSI, Giulio et VENTURINI, Simone (éd.), *Il canone
+cinematografico : XVII Convegno internazionale di studi sul cinema*,
+Udine, Forum, 2011.
+
+BLOOM, Harold, *The Western Canon: The Books and School of Ages*, New
+York/San Diego/London, Harcourt Brace & Company, 1994.
+
+EYERMAN, Ron, « The Past in the Present: Culture and the Transmission of
+Memory », *Acta Sociologica*, vol. 47, n° 2, juin 2004, pp. 159-169.
+
+HIRSCH, E. D., Klett, Joseph F., TREFIL, James, *The New Dictionary of
+Cultural Literacy*, Boston/New York, Houghton Mifflin, 2002.
+
+LYOTARD, Jean-François, *La condition postmoderne*, Paris, Les éditions
+de minuit, 1979.
+
+ROSENBAUM, Jonathan, *Essential Cinema: On the Necessity of Film
+Canons*, Baltimore, Johns Hopkins University Press, 2004.
+
+SCHRADER, Paul, « Cannon Fodder », *Film Comment*, septembre-octobre
+2006, pp. 33-49.
+
+STAIGER, Janet, « The Politics of Film Canons », *Cinema Journal*, vol.
+24, n° 3, printemps 1985, pp. 4-23.
 
 **Cinéma et société :**
 
@@ -263,7 +290,7 @@ BOOKER, M. Keith, *Alternate Americas: Science Fiction Films and
 American Culture*, Westport CT/London, Praeger, 2006.
 
 CURTIN, Michael, « The Discourse of ‹ Scientific Anti-Communism › in the
-‹ Golden Age › of Documentary », *Cinema Journal*, Vol. 32, No. 1,
+‹ Golden Age › of Documentary », *Cinema Journal*, vol. 32, n° 1,
 automne 1992, pp. 3-25.
 
 DOWDY, Andrew, *The films of the fifties: The American state of mind*,
@@ -272,7 +299,7 @@ New York, Morrow, 1973.
 HOBERMAN, J., *An Army of Phantoms: American Movies and the Making of
 the Cold War*, New York/London, The New Press, 2011.
 
-KUTNIK, Frank, NEALE, Steve, NEVE, Brian et STANFIELD, Peter (éds.),
+KUTNIK, Frank, NEALE, Steve, NEVE, Brian et STANFIELD, Peter (éd.),
 *“Un-American” Hollywood*, New Brunswick/New Jersey/London, Rutgers
 University Press, 2007.
 
@@ -294,10 +321,10 @@ SONTAG, Susan, « The imagination of disaster », in *Against
 interpretation*, New York, Picador, 1966 \[1965\], pp. 209-225.
 
 TSUTSUI, William M., « Looking Straight at ‹ Them! › Understanding the
-Big Bug Movies of the 1950s », *Environmental History*, Vol. 12, No. 2,
+Big Bug Movies of the 1950s », *Environmental History*, vol. 12, n° 2,
 avril 2007, pp. 237-253.
 
-VENNER, Mark, « The Cinema of Paranoia », *Film Ireland*, No. 84,
+VENNER, Mark, « The Cinema of Paranoia », *Film Ireland*, n° 84,
 décembre 2001/janvier 2002, pp. 20-23.
 
 **Films de science-fiction, films d’horreur :**
@@ -348,13 +375,13 @@ DAWKINS, Richard, *The Selfish Gene*, Oxford, Oxford University Press,
 2006 \[1976\].
 
 LENCLUD, Gérard, « La culture s’attrape-t-elle ? », *Communications*,
-Vol. 66, No. 1, 1998, pp. 165-183.
+vol. 66, n° 1, 1998, pp. 165-183.
 
 PAILLARD, Bernard, « Petite historique de la contagion »,
-*Communications*, Vol. 66, No. 1, 1998, pp. 9-19.
+*Communications*, vol. 66, n° 1, 1998, pp. 9-19.
 
 PERNICK, Martin S., « Contagion and Culture », *American Literary
-History*, Vol. 14, No. 4, hiver 2002, pp. 858-865.
+History*, vol. 14, n° 4, hiver 2002, pp. 858-865.
 
 SPERBER, Dan, *Explaining Culture: A Naturalistic Approach*,
 Oxford/Cambridge, Blackwell, 2002 \[1996\].
@@ -363,33 +390,6 @@ TVTropes, <http://tvtropes.org/>, consulté le 20.11.2016.
 
 WALD, Priscilla, *Contagious: Cultures, Carriers, and the Outbreak
 Narrative*, Durham/London, Duke University Press, 2008.
-
-**Canonisation :**
-
-BIANCHI, Petro, BURSI, Giulio et VENTURINI, Simone (éds.), *Il canone
-cinematografico : XVII Convegno internazionale di studi sul cinema*,
-Udine, Forum, 2011.
-
-BLOOM, Harold, *The Western Canon: The Books and School of Ages*, New
-York/San Diego/London, Harcourt Brace & Company, 1994.
-
-EYERMAN, Ron, « The Past in the Present: Culture and the Transmission of
-Memory », *Acta Sociologica*, Vol. 47, No. 2, juin 2004, pp. 159-169.
-
-HIRSCH, E. D., Klett, Joseph F., TREFIL, James, *The New Dictionary of
-Cultural Literacy*, Boston/New York, Houghton Mifflin, 2002.
-
-LYOTARD, Jean-François, *La condition postmoderne*, Paris, Les éditions
-de minuit, 1979.
-
-ROSENBAUM, Jonathan, *Essential Cinema: On the Necessity of Film
-Canons*, Baltimore, Johns Hopkins University Press, 2004.
-
-SCHRADER, Paul, « Cannon Fodder », *Film Comment*, septembre-octobre
-2006, pp. 33-49.
-
-STAIGER, Janet, « The Politics of Film Canons », *Cinema Journal*, Vol.
-24, No. 3, printemps 1985, pp. 4-23.
 
 **Politique et Histoire américaine :**
 
@@ -428,10 +428,10 @@ History, Art & Archives. United States House of Representatives,
 **Sémiologie et sémio-pragmatique :**
 
 METZ, Christian, « Le film de fiction et son spectateur »,
-*Communications*, Vol. 23, No. 1, 1975, pp. 108-135.
+*Communications*, vol. 23, n° 1, 1975, pp. 108-135.
 
 ODIN, Roger, « L’entrée du spectateur dans la fiction », *in* Jaques
-Aumont et Jean-Louis Leutrat (éds.), *Théorie du film*, Paris, Albatros,
+Aumont et Jean-Louis Leutrat (éd.), *Théorie du film*, Paris, Albatros,
 1980, pp. 198-213.
 
 **Voix au cinéma :**
@@ -445,14 +445,14 @@ California Press, 1988.
 **Psychanalyse :**
 
 CAPGRAS, Joseph, « L'illusion des ‹ sosies › dans un délire systématisé
-chronique », *Bulletin de la Société clinique de médecine mentale*, No.
+chronique », *Bulletin de la Société clinique de médecine mentale*, n°
 11, 1923, pp. 6-16.
 
 MCMAHON, David F., « The Psychological Significance of Science Fiction
-», *Psychoanalytic Film Review*, Vol. 78, No. 2, été 1989, pp. 281-295.
+», *Psychoanalytic Film Review*, vol. 78, n° 2, été 1989, pp. 281-295.
 
 WEAD, George, « Toward a Definition of Filmnoia », *The Velvet Light
-Trap*, No. 13, automne 1974, pp. 2-6.
+Trap*, n° 13, automne 1974, pp. 2-6.
 
 **Monographies :**
 
@@ -460,12 +460,12 @@ BRENEZ, Nicole, *Abel Ferrara*, Urbana/Chicago, University of Illinois
 Press, 2007.
 
 CIEUTAT, Michel, « Philip Kaufman ou l’éclectisme comme humanisme »,
-*Positif*, No. 326, avril 1988, pp. 10-13.
+*Positif*, n° 326, avril 1988, pp. 10-13.
 
 DEMPSEY, Michael, « Invaders and Encampments: The Films of Philip
-Kaufman », *Film Quarterly*, Vol. 32, No. 2, hiver 1978-1979, pp. 17-27.
+Kaufman », *Film Quarterly*, vol. 32, n° 2, hiver 1978-1979, pp. 17-27.
 
-FARBER, Stephen, « Hollywood Maverick », *Film Comment*, Vol. 15, No. 1,
+FARBER, Stephen, « Hollywood Maverick », *Film Comment*, vol. 15, n° 1,
 janvier/février 1979, pp. 26-31.
 
 INSDORF, Annette, *Philip Kaufman*, Urbana/Chicago, University of
@@ -560,7 +560,7 @@ YVOIRE, Jean, « L’invasion des profanateurs de sépultures », *Télérama*,
 *–*, « Review : ‘Invasion of the Body Snatchers’ », *Variety*, 31
 décembre 1955.
 
-*–*, « A Guide to Current Films », *Sight and Sound*, Vol. 26, No. 2,
+*–*, « A Guide to Current Films », *Sight and Sound*, vol. 26, n° 2,
 automne 1956, p. 112.
 
 *–*, « L’invasion des profanateurs de sépultures », *Figaro*, 17
@@ -570,12 +570,12 @@ novembre 1967.
 novembre 1967.
 
 *–*, « Est. L’invasion des profanateurs de sépultures », *Révolution*,
-No. 320, 18 avril 1986.
+n° 320, 18 avril 1986.
 
 **Invasion of the Body Snatchers \[1978\] :**
 
-BARTHOLEMEW, David, « invasion of the body snatchers », *Cinéaste*, Vol.
-10, No. 1, hiver 1979, pp. 52-54.
+BARTHOLEMEW, David, « invasion of the body snatchers », *Cinéaste*, vol.
+10, n° 1, hiver 1979, pp. 52-54.
 
 CHAZAL, Robert, « L’invasion des profanateurs. Nouvelle version »,
 *France Soir*, 15 février 1979.
@@ -602,7 +602,7 @@ G. D., « L’invasion des profanateurs », *La Vie arrière*, 19 février
 G. L., « L’invasion des profanateurs », *Les nouvelles littéraires*, 8
 février 1979.
 
-G. U., « INVASION OF THE BODY SNATCHERS », *Cinéaste*, Vol. 9, No. 2,
+G. U., « INVASION OF THE BODY SNATCHERS », *Cinéaste*, vol. 9, n° 2,
 hiver 1978-1979, p. 60.
 
 MARMIN, Michel, « Contrefaçon ? », *Le Figaro*, 7 février 1979.
@@ -646,8 +646,8 @@ GLEIBERMAN, Owen, « Body Snatchers », *Entertainment Weekly*, 11 février
 GROUSSET, Jean-Paul, « Body Snatchers. Ravage de cerveaux », *Le Canard
 enchaîné*, 9 juin 1993.
 
-HACKSTON, Ronnie, « Body Snatchers », *Sight and Sound*, Vol. 14, No.
-12, décembre 2004, p. 78.
+HACKSTON, Ronnie, « Body Snatchers », *Sight and Sound*, vol. 14, n° 12,
+décembre 2004, p. 78.
 
 HARRINGTON, Richard, « The Body Snatchers », *The Washington Post*, 18
 février 1994.

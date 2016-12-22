@@ -4,13 +4,13 @@ Annexes
 ![RA%20-%20SOURCES/P%20-%20Materiel%20Promotionnel/Invasion%201956/US\_Sheet\_IMPawards.jpg](media/image1.jpeg){width="6.5in"
 height="5.027777777777778in"}
 
-*Figure 1:* affiche *one sheet* de *Invasion of the Body Snatchers*
+*Figure 1:* Affiche *one sheet* de *Invasion of the Body Snatchers*
 (1956)
 
 ![RA%20-%20SOURCES/P%20-%20Materiel%20Promotionnel/Invasion%201956/US\_POSTER\_IMPawards.jpg](media/image2.jpeg){width="5.26787510936133in"
 height="8.752777777777778in"}
 
-*Figure 2:* *poster* de *Invasion of the Body Snatchers* (1956)
+*Figure 2:* *Poster* de *Invasion of the Body Snatchers* (1956)
 
 ![RA%20-%20SOURCES/P%20-%20Materiel%20Promotionnel/Invasion%201956/US\_ReRelease\_2-77-Poster.png](media/image3.png){width="5.541666666666667in"
 height="8.083333333333334in"}
@@ -18,12 +18,9 @@ height="8.083333333333334in"}
 *Figure 3:* Affiche 2x77 éditée par Crystal Pictures à l’occasion de la
 ressortie en salles de *Invasion of the Body Snatchers* (1956) en 1977
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![RA%20-%20SOURCES/P%20-%20Materiel%20Promotionnel/Novel/1978.jpg](media/image4.jpeg){width="2.86252624671916in" height="4.757087707786527in"}   ![RA%20-%20SOURCES/P%20-%20Materiel%20Promotionnel/Novel/2015.jpg](media/image5.jpeg){width="3.084666447944007in" height="4.709674103237095in"}
-  ==============================================================================================================================================   ===============================================================================================================================================
   ------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------
-  *Figure 4:* couverture de la réédition par Dell (1978).                                                                                          *Figure 5:* couverture de l’édition « 60^ème^ anniversaire » publiée par Touchstone en 2015.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  *Figure 4:* Couverture de la réédition par Dell (1978).                                                                                          *Figure 5:* Couverture de l’édition « 60^ème^ anniversaire » publiée par Touchstone en 2015.
 
 ![RB%20-%20SCREENSHOTS/Invasion%201956/IotBS\_1956\_00001.png](media/image6.png){width="6.491666666666666in"
 height="3.2583333333333333in"}*Figure 6:* Générique de *Invasion of the

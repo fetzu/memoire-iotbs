@@ -3,22 +3,22 @@ Conclusion
 
 Dans un article s’intéressant aux stratégies d’auto-canonisation du
 producteur américain Walt Disney[^1], Dick Tomasovic évoque une
-exposition parisienne de 2006 dédiée au producteur, dont il interprète
-la conception comme une tentative de canonisation de son sujet. L’auteur
+exposition à Paris en 2006 dédiée au producteur, dont il interprète la
+conception comme une tentative de canonisation de son sujet. L’auteur
 évoque le paradoxe sur lequel cette exposition se construit : « Disney
 et ses œuvres se trouvent canonisés par une exposition qui se donne pour
 ambition d’expliquer les raisons mêmes de cette canonisation. C’est
 évidemment d’abord quelque peu naïf. »[^2]. L’auteur procède ensuite à
-lire, à travers cinq films Disney, de voir comment ces derniers
-constituent une stratégie d’auto-canonisation – consciente – de la part
-du producteur. Si cette approche se concentre sur un seul *auteur*
-disposant d’un contrôle total sur les cinq films, et que dans le cas
-*Invasion of the Body* Snatchers les quatre films sont des œuvres
+voir, à travers cinq films Disney, comment ces derniers constituent une
+partie intégrante d’une stratégie d’auto-canonisation – consciente – de
+la part du producteur. Si cette approche se concentre sur un seul
+*auteur* disposant d’un contrôle total sur les cinq films, et que dans
+le cas *Invasion of the Body* Snatchers les quatre films sont des œuvres
 indépendantes dont le processus de production diffère grandement de
 celui des films de Disney en termes de contrôle auterial, ce travail a
-tendu à révéler une même stratégie d’auto-canonisation présente d’une
-part dans les textes filmiques, mais également dans les discours se
-rattachant aux films.
+cherché à révéler une stratégie d’auto-canonisation similaire présente
+d’une part dans les textes filmiques, mais également dans les discours
+se rattachant aux films.
 
 Malgré le volume important de discours académiques relatifs au film de
 Siegel et à sa série de remakes, la question de sa canonisation n’est
@@ -79,8 +79,8 @@ matriciel formant une formule ensuite redéployée dans toute la série.
 
 Dans la troisième partie, il a été question des liens intertextuels
 qu’entretiennent les différents films du corpus des remakes officiels et
-de la manière dont ces liens révèlent la tension entre réflexivité et
-originalité centrale à tout remake. Les éléments narratifs comme le
+de la manière dont ces liens révèlent la dialectique entre réflexivité
+et originalité centrale à tout remake. Les éléments narratifs comme le
 générique d’ouverture et l’utilisation d’une voix off et la récurrence
 de figures comme le cri des *pod people* ou la scène de camouflage
 rendent évidente cette tension : celle d’un texte cherchant à se
@@ -144,7 +144,7 @@ parvienne à décrire dans ses détails les plus précis le processus de
 canonisation qu’a connu *Invasion of the Body Snatchers*.
 
 Quoi qu’il en soit, la place qu’occupe aujourd’hui le film dans
-l’imaginaire collectif est indéniable: des images iconiques de la série
+l’imaginaire collectif est indéniable : des images iconiques de la série
 se retrouvent régulièrement dans la culture populaire (fig. 26), son
 postulat de départ a au moins donné naissance à une série télévisée[^13]
 et inspiré plusieurs épisodes d’autres (fig. 27), le remake[^14] de *The
@@ -182,11 +182,9 @@ série ; et pour les critiques de souligner encore une fois l’ironie de
 dupliquer sans cesse un film dont le thème central est la perte
 d’émotions engendrée par cette dernière.
 
--   Intégrer un petit peu d’Eco
-
 [^1]: Dick Tomasovic, « Stratégies d’auto-canonisation: le cas Walt
     Disney », *in* Petro Bianchi, Giulio Bursi et Simone Venturini
-    (éds.), *op. cit.*, pp. 107-116.
+    (éd.), *op. cit.*, pp. 107-116.
 
 [^2]: Dick Tomasovic, *op. cit.*, p. 108.
 
@@ -199,45 +197,49 @@ d’émotions engendrée par cette dernière.
     défendre son statut, sinon de classique, au moins d’œuvre majeure
     dans ces genres.
 
-[^4]: Au sens de « matrice consignée dans une *bible* et formalisée dans
-    le pilote de chaque œuvre. » Stéphane Benassi, « Sérialité(s) »,
-    *in* Sarah Sepulchre (dir.), *Décoder les séries télévisées*,
-    Bruxelles, De Boeck, 2011, p. 80 ; le pilote étant ici l’adaptation
-    originale de Siegel qui informerait chacune de ses suites.
+[^4]: Le terme formule est utilisé ici au sens de « matrice consignée
+    dans une *bible* et formalisée dans le pilote de chaque œuvre. »
+    \[Stéphane Benassi, « Sérialité(s) », *in* Sarah Sepulchre (dir.),
+    *Décoder les séries télévisées*, Bruxelles, De Boeck, 2011, p.
+    80\] ; le pilote étant ici l’adaptation originale de Siegel qui
+    informerait chacune de ses suites.
 
-[^5]: Dont les « paramètres invariants » seraient les prémices du récit
-    (sa source littéraire), certaines scènes (par exemple celle du
-    camouflage) et éléments clés (l’insomnie).
+[^5]: Formule dont les « paramètres invariants » seraient les prémices
+    du récit (sa source littéraire), certaines scènes (par exemple celle
+    du camouflage) et éléments clés (l’insomnie).
 
-[^6]: Par exemple Sam Peckinpah, auteur ayant lui aussi connu une
-    réévaluation de son statut d’auteur, qui à plusieurs reprises à
-    prétendu avoir contribué au scénario du film; propos rapidement
-    balayés par Siegel dans une entrevue. Nancy Steffen-Fluhr, « Women
-    and the Inner Game of Don Siegel's *Invasion of the Body Snatchers*
-    », *Science Fiction Studies*, Vol. 11, No. 2, juillet 1984, p. 151.
+[^6]: Par exemple le discours de Sam Peckinpah, auteur ayant lui aussi
+    connu une réévaluation de son statut d’auteur, qui à plusieurs
+    reprises a prétendu avoir contribué au scénario du film; propos
+    rapidement balayés par Siegel dans une entrevue. Nancy
+    Steffen-Fluhr, « Women and the Inner Game of Don Siegel's *Invasion
+    of the Body Snatchers* », *Science Fiction Studies*, vol. 11, n° 2,
+    juillet 1984, p. 151.
 
-[^7]: Ou, au sens plus large, d’acteurs de l’industrie
-    cinématographique.
+[^7]: Le terme réalisateur peut également renvoyer ici, au sens plus
+    large, aux acteurs de l’industrie cinématographique ; comme c’est le
+    cas dans les discours autour du film de 2007.
 
-[^8]: Au sens proposé par Walter Benjamin. Voir Walter Benjamin, *The
-    Work of Art in the Age of Mechanical Reproduction*, trad. de
-    l’allemand par J.A. Underwood, London, Penguin, 2008 \[1939\].
+[^8]: L’aura est évoquée ici au sens proposé par Walter Benjamin. Voir
+    Walter Benjamin, *The Work of Art in the Age of Mechanical
+    Reproduction*, trad. de l’allemand par J.A. Underwood, London,
+    Penguin, 2008 \[1939\].
 
 [^9]: Le terme d’instabilité est utilisé ici pour désigner d’une part
     l’existence de deux versions de l’histoire de Finney sur deux
     supports (feuilleton et roman), mais également pour signifier les
     modifications apportées au roman lors de ses rééditions ultérieures.
 
-[^10]: Et l’élévation de Siegel au statut d’auteur, notamment amorcé par
-    sa redécouverte à la fin des années 1950 par des jeunes critiques
-    des cahiers du cinéma.
+[^10]: Une apparition qui entraine l’élévation de Siegel au statut
+    d’auteur, notamment amorcé par sa redécouverte à la fin des années
+    1950 par des jeunes critiques des cahiers du cinéma.
 
-[^11]: Amorcée, entre autres, par l’article de Sontag évoqué dans ce
-    travail.
+[^11]: Une réévaluation qui est amorcée, entre autres, par l’article de
+    Sontag évoqué dans ce travail.
 
-[^12]: Qui s’articule elle-aussi autour d’une invasion extraterrestre
-    d’origine biologique ; et dont le premier film sorti en 1955 a
-    également donné lieu à de nombreuses suites ou *spin-offs*
+[^12]: Une série qui s’articule elle-aussi autour d’une invasion
+    extraterrestre d’origine biologique ; et dont le premier film sorti
+    en 1955 a également donné lieu à de nombreuses suites ou *spin-offs*
     télévisés.
 
 [^13]: *Invasion*, Shaun Cassidy, ABC, 2005.

@@ -4,43 +4,42 @@ Introduction générale
 Le 14 novembre 1994, James Hadley Billington, bibliothécaire du Congrès,
 annonce la liste des films sélectionnés par la National Film
 Preservation Board[^1] parmi les propositions du public américain pour
-entrer dans National Film Registery[^2]. Parmi les 25 films sélectionnés
-cette année-là pour leur « importance culturelle, historique ou
+entrer dans National Film Registery[^2]. Des 25 films sélectionnés cette
+année-là pour leur « importance culturelle, historique ou
 esthétique »[^3] se trouve *Invasion of the Body Snatchers* de Don
 Siegel[^4]. Comment ce film de genre de série B, réalisé avec un budget
 moindre[^5], diffusé en double programme avec un film de science-fiction
 britannique intitulé *The Atomic Man*[^6] et largement ignoré par la
-critique, a pu se forger une place entre *Intolerance*[^7] et *It
-Happened One Night*[^8] dans le canon – sanctionné par l’état – du
-cinéma américain ? À cette question, certains auteurs offrent diverses
-hypothèses : Katrina Mann évoque directement la question en citant « la
-distribution de films sur le marché télévisuel, le changement de statut
-de Siegel dans le début des années 1970 et l’apparition de la théorie de
-l’auteur dans les milieux académiques et critiques, le remake de 1978,
-une augmentation d’observations d’OVNI dans les années 1970 et une
-augmentation de la popularité de la science-fiction et horreur
-culte. »[^9]. Jean-François Rauger affirme que celle-ci est due au
-« talent de son réalisateur, de sa façon proprement géniale de
-construire une atmosphère de plus en plus terrifiante par la simple
-force de la mise en scène »[^10], alors que Cyril Béghin l’explique
-plutôt par « la revalorisation des films de série B »[^11], Mark Venner
-par « l’exercice allégorique en paranoïa filmique étrangement ouverte
-aux interprétations \[du film\]. »[^12] et Kathleen Loock simplement par
-ses remakes[^13]. Si ces hypothèses diverses sont avancées dans les
-discours relatifs[^14] au film, aucun des auteurs ne cherche pourtant à
-les justifier ou les étudier. Ce travail de mémoire a pour objectif, à
-travers une étude détaillée des textes filmiques et des discours sur le
-film, de choisir l’une d’entre elles afin d’y déceler un processus de
-canonisation.
+critique, a-t-il pu se forger une place entre *Intolerance*[^7] et *It
+Happened One Night*[^8] dans le canon étatique du cinéma américain ? À
+cette question, certains auteurs offrent diverses hypothèses : Katrina
+Mann évoque directement la question en citant « la distribution de films
+sur le marché télévisuel, le changement de statut de Siegel dans le
+début des années 1970 et l’apparition de la théorie de l’auteur dans les
+milieux académiques et critiques, le remake de 1978, une augmentation
+d’observations d’OVNI dans les années 1970 et une augmentation de la
+popularité de la science-fiction et horreur culte. »[^9]. Jean-François
+Rauger affirme que celle-ci est due au « talent de son réalisateur, de
+sa façon proprement géniale de construire une atmosphère de plus en plus
+terrifiante par la simple force de la mise en scène »[^10], alors que
+Cyril Béghin l’explique plutôt par « la revalorisation des films de
+série B »[^11], Mark Venner par « l’exercice allégorique en paranoïa
+filmique étrangement ouverte aux interprétations \[du film\]. »[^12] et
+Kathleen Loock simplement par ses remakes[^13]. Si ces hypothèses
+diverses sont avancées dans les discours relatifs[^14] au film, aucun
+des auteurs ne cherche pourtant à les justifier ou les étudier. Ce
+travail de mémoire a pour objectif, à travers une étude détaillée des
+textes filmiques et des discours sur le film, de choisir l’une d’entre
+elles afin d’y déceler un processus de canonisation.
 
-Dans le très discuté et cité article « Innovation and Repetition:
-Between Modern and Post-Modern Aesthetics »[^15], Umberto Eco oppose une
-conception moderne de la valeur artistique dont le critère était « la
-nouveauté́, un degré́ d'information élevé́. »[^16] à une conception
-post-moderne dont le plaisir est dérivé d’une « série de variations
-possibles est potentiellement infinie »[^17]. Eco explique que selon une
-conception moderne de la valeur artistique, une œuvre « bien
-faite »[^18] doit répondre à deux critères :
+Dans son article « Innovation and Repetition: Between Modern and
+Post-Modern Aesthetics »[^15], Umberto Eco oppose une conception moderne
+de la valeur artistique dont le critère était « la nouveauté́, un degré́
+d'information élevé́. »[^16] à une conception post-moderne dont le
+plaisir est dérivé d’une « série de variations possibles est
+potentiellement infinie »[^17]. Eco explique que selon une conception
+moderne de la valeur artistique, une œuvre « bien faite »[^18] doit
+répondre à deux critères :
 
 > « (a) elle doit parvenir à une dialectique entre ordre et nouveauté́ -
 > autrement dit, entre procédé́ et innovation ; (b) cette dialectique
@@ -49,20 +48,48 @@ faite »[^18] doit répondre à deux critères :
 > ce contenu. »[^19]
 
 Comme le précise ensuite l’auteur, ces critères n’excluent pas les
-répétitions :
+répétitions, en guise de démonstration il fournit des exemples de types
+de répétitions répondant à ces critères : le retake, le remake, la
+série, la saga et l’intertextualité. Les définitions proposées par Eco
+de ces cinq types de répétitions sont parfois imprécises et peuvent
+conduite à des débordement d’une catégorie à l’autre. Par exemple, le
+remake est défini comme consistant « à raconter de nouveau une histoire
+qui a eu du succès »[^20] et la série comme fonctionnant « sur une
+situation fixe et un nombre restreint de personnages centraux immuables,
+autour desquels gravitent des personnages secondaires qui varient. Ces
+personnages secondaires doivent donner l'impression que la nouvelle
+histoire diffère des précédentes, alors qu'en fait, la trame narrative
+ne change pas. »[^21]. Le remake tel que défini par Eco est
+systématiquement basé sur une « histoire qui a eu du succès », sans que
+soit précisée la modalité de ce succès : or, l’histoire du cinéma
+regorge d’exemples de remakes basés sur un film n’ayant connu aucun
+*succès*[^22]. En deçà du critère imprécis de succès, la différence
+entre le remake et la série réside – selon Eco – dans les changements de
+personnages secondaires : or, un remake pourrait conserver la même trame
+narrative que son récit matriciel en y ajoutant de nouveaux personnages
+secondaires. Selon las catégories développées par Eco, un remake peut
+également remplir les critères de classification de la « série » ; ce
+travail propose de problématiser cette classification en la confrontant
+à d’autres qui seront discutées dans la première partie. Il sera
+également question de dialogue intertextuel au sein du corpus de
+textes[^23], Eco le définit comme « le phénomène par lequel un texte
+donné fait écho à des textes antérieurs. »[^24]. Bien que l’auteur
+présente le dialogue intertextuel comme un type de répétition, il sera
+question de démontrer comment ce dernier a lieu dans la série de films
+de compose le corpus analysé.
 
 L’approche choisie par dans ce travail consiste à expliquer le processus
 de canonisation à travers les remakes du film. En effet, le film de
 Siegel n’est pas la seule adaptation cinématographique de ses textes
-sources[^20] : le film connaît trois versions ultérieures en 1978[^21],
-1993[^22] et 2007[^23]. Ces trois autres adaptations du récit de Jack
+sources[^25] : le film connaît trois versions ultérieures en 1978[^26],
+1993[^27] et 2007[^28]. Ces trois autres adaptations du récit de Jack
 Finney, toutes issues de l’industrie cinématographique hollywoodienne,
 proposent de revisiter l’histoire originale en la déplaçant dans leur
 contexte historique respectif : la première dans la période de la
-contreculture et de la Détente[^24], la seconde dans la période
-d’hégémonie américaine et de la première Guerre du Golfe[^25], et la
+contreculture et de la Détente[^29], la seconde dans la période
+d’hégémonie américaine et de la première Guerre du Golfe[^30], et la
 troisième dans celle du post 11-septembre de la Guerre contre la
-Terreur[^26]. Ce travail ne propose pas une relecture de ces textes
+Terreur[^31]. Ce travail ne propose pas une relecture de ces textes
 vis-à-vis de leur contexte socio-historique, mais plutôt de voir quelles
 conditions ont permis ces remakes, comment ces derniers problématisent
 leur relation avec le film de Siegel et comment les discours qu’ils ont
@@ -84,14 +111,14 @@ et française seront analysées. Le film présentant une hybridité
 générique, la sous-partie suivante évoluera les discours qu’elle
 engendre et la manière dont cette hybridité informera les remakes et
 leur réception. Finalement, il sera question de faire état du « délire
-d’interprétations »[^27] suscité dans les discours académiques relatif
+d’interprétations »[^32] suscité dans les discours académiques relatif
 aux films, et de voir comment ces analyses relèvent une « grande
-instabilité de son texte »[^28].
+instabilité de son texte »[^33].
 
 Dans la deuxième partie, il sera question de la source littéraire du
 film : l’histoire de Finney publiée d’abord en trois parties sous forme
-feuilltonante dans le magazine *Collider’s* en 1954[^29] puis sous forme
-de roman[^30] l’année suivante. Quels changements entrainent la
+feuilltonante dans le magazine *Collider’s* en 1954[^34] puis sous forme
+de roman[^35] l’année suivante. Quels changements entrainent la
 publication de l’histoire sous forme romanesque ? En quoi la production
 simultanée du film de Siegel a-t-elle influencée de changement de
 format ? En quoi ces changements, et l’instabilité qu’ils entrainent,
@@ -109,21 +136,24 @@ les changements opérés par l’auteur et ses éditeurs dans les rééditions
 ultérieures du roman original.
 
 La troisième partie se concentre sur les textes filmiques des trois
-remakes : comment ces remakes successifs problématisent les tensions
-entre réflexivité et originalité face aux itérations précédentes ? Quels
-choix sont opérés par les scénaristes, réalisateurs et producteurs des
-remakes ? Quelles sont les conséquences des changements d’une version à
-l’autre du film dans le contexte de sérialité ? Plutôt que de considérer
-les films comme s’inscrivant dans leur contexte socio-politique propre,
-il sera question de les aborder comme partie d’une série filmique: de
-voir comment chaque film oscille entre révérence et détachement aux
-films qui ont précédé. Cette analyse se fait en isolant certaines
-manifestations narratives et formelles, mais également en démontrant le
-jeu sur les attentes du spectateur dans le contexte de la série. Il
-s’agira ensuite d’aborder les conséquences du déplacement
-spatio-temporel du récit opéré par chaque remake sur la cohérence de la
-série ; et de mettre à l’épreuve son appellation de remake au profit
-d’autres formes de sérialité.
+remakes. En adoptant la dialectique entre innovation et répétition émise
+par Eco comme une critère de valeur dans une esthétique moderne, il
+s’agit de montrer les dialogues intertextuels entre les films. Comment
+ces remakes successifs problématisent les tensions entre réflexivité et
+originalité face aux itérations précédentes ? Quels choix sont opérés
+par les scénaristes, réalisateurs et producteurs des remakes ? Quelles
+sont les conséquences des changements d’une version à l’autre du film
+dans le contexte de sérialité ? Plutôt que de considérer les films comme
+s’inscrivant dans leur contexte socio-politique propre, il sera question
+de les aborder comme partie d’une série filmique : de voir comment
+chaque film oscille entre révérence et détachement aux films qui ont
+précédé. Cette analyse se fait en isolant certaines manifestations
+narratives et formelles[^36], mais également en démontrant le jeu sur
+les attentes du spectateur dans le contexte de la série. Il s’agira
+ensuite d’aborder les conséquences du déplacement spatio-temporel du
+récit opéré par chaque remake sur la cohérence de la série ; et de
+mettre à l’épreuve son appellation de remake au profit d’autres formes
+de sérialité.
 
 Finalement, la quatrième et dernière partie abordera les discours autour
 de la série filmique. Comment les réalisateurs affirment leur statut
@@ -167,7 +197,7 @@ canonisation.
     <http://www.nytimes.com/1994/11/15/movies/25-films-added-to-national-registry.html>
     (consulté le 16.12.2016).
 
-[^3]: « culturally, historically, or aesthetically significant. ».
+[^3]: « Culturally, historically, or aesthetically significant. ».
     « Frequently Asked Questions », Library of Congress : National Film
     Preservation Board,
     <https://www.loc.gov/programs/national-film-preservation-board/film-registry/frequently-asked-questions/>
@@ -185,14 +215,14 @@ canonisation.
 
 [^8]: *It Happened One Night* (*New York-Miami*, Frank Capra, 1934).
 
-[^9]: « film distribution within the television market, the directional
+[^9]: « Film distribution within the television market, the directional
     reappearance of Don Siegel in the early 1970s and the rise of auteur
     theory in academia and critical audiences, the 1978 remake of the
     film, the resurgence of UFO sightings in thee 1970s, and the rise in
     popularity of cult science fiction and horror film. » \[Katrina
     Mann, « ‹ You're Next! ›: Postwar Hegemony Besieged in Invasion of
-    the Body Snatchers », *Cinema Journal*, Vol. 44, No. 1, automne
-    2004, p. 66\].
+    the Body Snatchers », *Cinema Journal*, vol. 44, n° 1, automne 2004,
+    p. 66\].
 
 [^10]: Jean-François Rauger, « Reprise : ‹ L’invasion des profanateurs
     de sépultures ›, de la série B à portée philosophique », *Le Monde*,
@@ -202,7 +232,7 @@ canonisation.
     sépultures », *Livret et fiche transmettre le cinéma*, Cahiers du
     cinéma/CNC, Paris, 2014, p. 20.
 
-[^12]: « classic allegorical exercise in cinematic paranoia is strangely
+[^12]: « Classic allegorical exercise in cinematic paranoia is strangely
     open to interpretation » \[Mark Venner, « The Cinema of Paranoia »,
     *Film Ireland*, No. 84, décembre 2001/janvier 2002, p. 23\].
 
@@ -216,14 +246,14 @@ canonisation.
     l’auteur, par exemple pour Loock qui attribue la pérennité du film
     aux remakes… dans un ouvrage consacré au remake.
 
-[^15]: Article originalement publé en anglais dans Daedalus (Umberto
+[^15]: Article originalement publié en anglais dans Daedalus (Umberto
     Eco, « Innovation and Repetition: Between Modern and Post-Modern
-    Aesthetics », *Daedalus*, Vol. 114, No. 4, automne 1985, pp.
+    Aesthetics », *Daedalus*, vol. 114, n° 4, automne 1985, pp.
     161-184), les citations et la pagination utilisées ici correspondent
     à traduction française publiée dans *Réseaux* (Umberto Eco,
     « Innovation et répétition : Entre esthétique moderne et
     post-moderne », trad. de l’américain par Marie-Christine Gamberini,
-    *Réseaux*, Vol. 12, No. 68, 1994 \[1985\], pp. 9-26).
+    *Réseaux*, vol. 12, n° 68, 1994 \[1985\], pp. 9-26).
 
 [^16]: Umberto Eco, *op. cit.*, p. 11.
 
@@ -233,37 +263,62 @@ canonisation.
 
 [^19]: Umberto Eco, *op. cit.*, p. 19.
 
-[^20]: Les multiples versions de *The Body Snatchers* de Jack Finney,
-    dont l’historique de publication sera détaillée dans la premiere
+[^20]: Umberto Eco, *op. cit.*, p. 15.
+
+[^21]: Umberto Eco, *ibid*.
+
+[^22]: Le film *True Lies* (James Cameron, 1994) est par exemple un
+    remake de *La Totale !* (Claude Zidi, 1994). Le premier a obtenu un
+    Golden Globe, une nomination aux Oscars et engendré 374 millions au
+    box-office alors que le deuxième n’a gagné aucun prix et engendré 12
+    millions au box-office. Il ne s’agit pas ici de comparer le marché
+    américain et français du film, ou de défendre une statuette en or
+    comme le sacre ultime pour une œuvre cinématographique, mais de
+    montrer que la notion de succès est très vague et difficilement
+    défendable comme un critère de catégorisation pour le remake.
+
+[^23]: Un corpus qui sera initialement défini comme « remakes », une
+    appellation que ce travail affinera au fur et à mesure des
+    chapitres.
+
+[^24]: Umberto Eco, *op. cit.*, p. 16.
+
+[^25]: Les multiples versions de *The Body Snatchers* de Jack Finney,
+    dont l’historique de publication sera détaillé dans la premiere
     partie du travail.
 
-[^21]: *Invasion of the Body Snatchers* (*L'invasion des profanateurs*,
+[^26]: *Invasion of the Body Snatchers* (*L'invasion des profanateurs*,
     Philip Kaufman, 1978).
 
-[^22]: *Body Snatchers* (*Body Snatchers, l'invasion continue*, Abel
+[^27]: *Body Snatchers* (*Body Snatchers, l'invasion continue*, Abel
     Ferrara, 1993).
 
-[^23]: *The Invasion* (*Invasion*, Oliver Hirschbiegel, 2007).
+[^28]: *The Invasion* (*Invasion*, Oliver Hirschbiegel, 2007).
 
-[^24]: Mark C. Carnes et John A. Garraty, *The American Nation: A
+[^29]: Mark C. Carnes et John A. Garraty, *The American Nation: A
     History of the United States (Fourteenth Edition)*, Boston, Prentice
     Hall, 2012 \[2003\], pp. 786-787.
 
-[^25]: Mark C. Carnes et John A. Garraty, *op. cit.*, pp. 815-817.
+[^30]: Mark C. Carnes et John A. Garraty, *op. cit.*, pp. 815-817.
 
-[^26]: Mark C. Carnes et John A. Garraty, *op. cit.*, pp. 856-865.
+[^31]: Mark C. Carnes et John A. Garraty, *op. cit.*, pp. 856-865.
 
-[^27]: Raymond Durgnat cité dans Henry K. Miller (éd.), *The Essential
+[^32]: Raymond Durgnat cité dans Henry K. Miller (éd.), *The Essential
     Raymond Durgnat*, London, BFI/Palgrave MacMillan, 2014, p. 3.
 
-[^28]: « *Invasion of the Body Snatchers* \[…\] was a highly unstable
+[^33]: « *Invasion of the Body Snatchers* \[…\] was a highly unstable
     text. » \[Al LaValley (éd.), *Invasion of the Body Snatchers*, New
     Brunswick, Rutgers University Press, 1989, p. 4\].
 
-[^29]: Jack Finney, « *The Body Snatchers (First of Three Parts)* »,
-    *Collider’s*, 26 novembre 1954, pp. 26-27 + 90-99; Jack Finney, «
+[^34]: Jack Finney, « *The Body Snatchers (First of Three Parts)* »,
+    *Collider’s*, 26 novembre 1954, pp. 26-27 + 90-99 ; Jack Finney, «
     *The Body Snatchers (Second of three Parts)* », *Collider’s*, 10
-    décembre 1954, pp. 114-125; Jack Finney, « *The Body Snatchers
+    décembre 1954, pp. 114-125 ; Jack Finney, « *The Body Snatchers
     (Conclusion)* », *Collider’s*, 24 décembre 1954, pp. 62-73.
 
-[^30]: Jack Finney, *The Body Snatchers*, New York, Dell Books, 1955.
+[^35]: Jack Finney, *The Body Snatchers*, New York, Dell Books, 1955.
+
+[^36]: Il serait ici possible de parler de schème au sens d’Eco, qui est
+    proposée par l’auteur dans le nœud schéma-variation central à une
+    approche de l’esthétique post-moderne. Umberto Eco, *op. cit.*, p.
+    23.

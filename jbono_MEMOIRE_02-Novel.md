@@ -257,8 +257,8 @@ la question est également abordée à travers un dialogue :
 >
 > MILES: Reno?
 >
-> BECKY: Reno. (*Elle laisse d’échapper un petit rire ironique*) Papa
-> m’a dit que tu y étais aussi.
+> BECKY: Ren° (*Elle laisse d’échapper un petit rire ironique*) Papa m’a
+> dit que tu y étais aussi.
 >
 > MILES: Il y’a cinq mois.[^74]
 
@@ -288,8 +288,8 @@ supplémentaire d’horreur. Elle articule également une forme de *body
 horror* qui prend racine dans l’aspect reproductif du corps féminin (et,
 par extension, du *pod*). Ces ajouts consistent à approfondir la
 relation Miles/Becky, se soldant par un échec quand Becky s’avère être
-devenue elle-même un *pod*. En effet, selon Steffen-Fluhr, se sont les
-émotions de Miles envers Becky qui constituent le « battement de
+devenue elle-même un *pod*. En effet, selon Steffen-Fluhr, ce sont les
+émotions de Miles vis-à-vis de Becky qui constituent le « battement de
 cœur »[^83] du film ; celui-ci se construisant en partie autour de
 l’acceptation/refus de Miles envers Becky[^84] et de sa peur de
 s’impliquer dans cette relation. Relation qui s’avère impossible dans le
@@ -583,8 +583,7 @@ certaine mesure ses remakes – impliquent des changements textuels dans
 le texte de Finney.
 
 [^1]: Histoire publiée en trois parties dans les numéros du 26 novembre,
-    10 et 24 décembre. REMARQUE POUR TOUTES LES NOTES : FAIRE DES
-    PHRASES COMPLETES.
+    10 et 24 décembre.
 
 [^2]: Linda Hutcheon, *A Theory of Adaptation*, New York/London,
     Routeledge, 2006.
@@ -620,8 +619,7 @@ le texte de Finney.
     création du magazine en 1888. Voir « *Collider’s Weekly »*,
     Spartacus Educational,
     <http://spartacus-educational.com/USAcolliers.htm> (consulté le
-    09.12.2016). REMARQUE POUR TOUTES LES NOTES WEB : METTRE LE CONSULTE
-    ENTRE PARENTHESES.
+    09.12.2016).
 
 [^10]: *5 Against the House* (*On ne joue pas avec le crime*, Phil
     Karlson, 1955), basé sur son roman du même nom paru en 1954, est
@@ -675,12 +673,12 @@ le texte de Finney.
 
 [^21]: Mark Thomas McGee, *op. cit.*, p. 67
 
-[^22]: « unsympathetic treatment ». Walter Wagner, « Memorandum to
+[^22]: « Unsympathetic treatment ». Walter Wagner, « Memorandum to
     Myself », 24 aout 1955 \[reproduit dans Al LaValley (éd.), *op.
     cit.*, p. 142\].
 
-[^23]: Que Grant date au 10 juin \[Barry Keith Grant, *op. cit.*, p.
-    35\].
+[^23]: Projection-test que Grant date au 10 juin \[Barry Keith Grant,
+    *op. cit.*, p. 35\].
 
 [^24]: Mark Thomas McGee, *op. cit.*, p. 62. Lettre également
     mentionnée, mais non reproduite, dans Al LaValley (éd.), *op. cit.*,
@@ -689,8 +687,9 @@ le texte de Finney.
 [^25]: Walter Wagner, « The Body Snatchers – Memorandum », 8 juillet
     1955, reproduit dans Al LaValley (éd.), *op. cit.*, pp. 134-137.
 
-[^26]: Non seulement la suggestion du monologue introductif, mais
-    également l’ajout de voix-over enregistrés par l’acteur principal.
+[^26]: Grant n’évoque pas seulement la suggestion du monologue
+    introductif, mais également l’ajout de voix-over enregistrés par
+    l’acteur principal.
 
 [^27]: « Make the movie’s message more explicit » \[Barry Keith Grant,
     *op. cit.*, p. 35\].
@@ -706,8 +705,8 @@ le texte de Finney.
 [^31]: Jack Finney, « *The Body Snatchers (Conclusion)* », *Collider’s*,
     24 décembre 1954, p. 73.
 
-[^32]: Une mention nominative qui disparaît dans les versions
-    ultérieures, bien que la citation subsiste dans son intégralité.
+[^32]: La mention nominative disparaît dans les versions ultérieures,
+    bien que la citation subsiste dans son intégralité.
 
 [^33]: Bien qu’il n’ait pas été question de l’implication de Don Siegel
     dans la post-production du film dans ce texte, les notes et lettres
@@ -724,13 +723,14 @@ le texte de Finney.
 [^36]: Al LaValley (éd.), *op. cit.*, pp. 126.
 
 [^37]: « More optimistic ending » \[J. Hoberman, « Paranoia and the Pods
-    », *Sight and Sound*, Vol. 4, No. 5, mai 1994, p. 30\].
+    », *Sight and Sound*, vol. 4, n° 5, mai 1994, p. 30\].
 
 [^38]: « Compromised the power of the original ». Georges Turner, « A
-    Case for Insomnia », *American Cinematographer*, Vol. 78, No. 3,
-    mars 1997, p. 80
+    Case for Insomnia », *American Cinematographer*, vol. 78, n° 3, mars
+    1997, p. 80
 
-[^39]: Et donc, en certains termes, *ultime*.
+[^39]: Dans l’imaginaire du public américain des années 1950, l’autorité
+    fédérale est considérée en certains termes comme *ultime*.
 
 [^40]: Melvin E. Jr Matthews, *Hostile Aliens, Hollywood and Today’s
     News. 1950s Science Fiction Films and 9/11*, New York, Algora
@@ -742,10 +742,8 @@ le texte de Finney.
     Films and American Culture*, Westport CT/London, Praeger, 2006, p.
     64\].
 
-[^42]: S’aidant en réalité de « deux tablettes de Benzedrine », un des
-    noms sous lesquels l’amphétamine était commercialisée. Le travail
-    reviendra ultérieurement plus en détail sur l’utilisation de la
-    drogue et le discours médical dans les films.
+[^42]: Miles s’aidant en réalité de « deux tablettes de Benzedrine », un
+    des noms sous lesquels l’amphétamine était commercialisée.
 
 [^43]: « This was futile of course –there were hundreds of pods– but the
     chance to take a stand is always the one to take. » \[Jack Finney, «
@@ -795,11 +793,11 @@ le texte de Finney.
     Finney, « *The Body Snatchers (Second of three Parts)* »,
     *Collider’s*, 10 décembre 1954, p. 117\]
 
-[^55]: « *mysterious objects* found on a farm west of town». \[Jack
+[^55]: « *Mysterious objects* found on a farm west of town». \[Jack
     Finney, « *The Body Snatchers (Second of three Parts)* », *ibid.*\].
 
-[^56]: Finney accorde à la scène 3 pages entières à la scène. Jack
-    Finney , *ibid.*, pp. 122-124.
+[^56]: Finney accorde à la scène d’explication 3 pages entières du
+    roman. Jack Finney , *ibid.*, pp. 122-124.
 
 [^57]: Becky est présente mais ne s’exprime pas verbalement, seules ses
     réactions physiques sont décrites par Miles.
@@ -814,25 +812,25 @@ le texte de Finney.
     passage, et c’est à travers une observation/déduction détaillée par
     une description que Miles tire ses conclusions.
 
-[^61]: En se basant grandement sur la théorie darwinienne de
+[^61]: Explication qui se base grandement sur la théorie darwinienne de
     l’évolution, décrivant les pods comme « une forme de vie
     complètement évoluée, sa forme ultime » (« completely evolved life,
     its ultimate form. ») \[Jack Finney, *op. cit.*, p. 124\].
 
-[^62]: Personnage également présent dans le feuilleton sous le nom de
-    « Dr. Mannie Kaufman ».
+[^62]: Le personnage est également présent dans le feuilleton sous le
+    nom de « Dr. Mannie Kaufman ».
 
-[^63]: Avant sa *transformation*.
+[^63]: Relation entretenue avant sa *transformation*.
 
-[^64]: Ou plutôt le manque d’émotions.
+[^64]: Il argumente plutôt en faveur du manque d’émotions.
 
-[^65]: Citée en intégralité dans la première partie du travail.
+[^65]: Passage cité en intégralité dans la première partie du travail.
 
-[^66]: Aspect plus lié au genre de l’horreur.
+[^66]: L’émotionnel est un aspect plus lié au genre de l’horreur.
 
 [^67]: Une rationalisation relevant du domaine de la science-fiction.
 
-[^68]: « tendendy to lodge a sense of our humanity in feelings, passion,
+[^68]: « Tendency to lodge a sense of our humanity in feelings, passion,
     desire – and not in the atmosphere of reason and science that would
     seem to dominate the world of science fiction. » \[J. P. Telotte,
     *Science Fiction Film*, Cambridge, Cambridge University Press, 2004,
@@ -843,13 +841,12 @@ le texte de Finney.
     exemplaire » (« exemplary text ») \[J. P. Telotte, *op. cit.*, p.
     23\].
 
-[^70]: « reveal their close ties to the horror genre » \[J. P. Telotte,
+[^70]: « Reveal their close ties to the horror genre » \[J. P. Telotte,
     *ibid.*\].
 
 [^71]: Bien que le personnage reste cloîtré dans les représentations
     genrées de l’époque, sa participation se limitant à poser une
-    question ou appeler à l’aide. La prochaine remarque rendra la
-    remarque d’autant plus évidente.
+    question ou appeler à l’aide.
 
 [^72]: « I want to love and be loved. I want your children. I don’t want
     a world without love or grief or beauty. I’d rather die. » \[Al
@@ -860,9 +857,9 @@ le texte de Finney.
     *Collider’s*, 26 novembre 1954, p. 26\].
 
 [^74]: « MILES: (*looking at her romantically*) When did you get back? /
-    BECKY: I came back from London two months ago. I’ve been to Reno. /
-    MILES: Reno? /BECKY: Reno. (*She manages a slight ironic laugh.*)
-    Dad tells me you were there too. /MILES: Five months ago. » \[Al
+    BECKY: I came back from London two months ago. I’ve been to Ren° /
+    MILES: Reno? /BECKY: Ren° (*She manages a slight ironic laugh.*) Dad
+    tells me you were there too. /MILES: Five months ago. » \[Al
     LaValley (éd.), *op. cit.*, pp. 38-39\].
 
 [^75]: Voir « Divorce in Reno », TVTropes,
@@ -875,20 +872,20 @@ le texte de Finney.
     Hoberman, *An Army of Phantoms: American Movies and the Making of
     the Cold War*, New York/London, The New Press, 2011, p. 214.
 
-[^77]: La rencontre dans la première partie, une scène de séduction qui
-    se solde par un baiser dans la deuxième, et une embrassée dans la
-    fin de la troisième.
+[^77]: Moments qui se limitent à la rencontre dans la première partie,
+    une scène de séduction qui se solde par un baiser dans la deuxième,
+    et une embrassée dans la fin de la troisième.
 
-[^78]: « postcoital commemoration with a macabre twist » \[Katrina Mann,
+[^78]: « Postcoital commemoration with a macabre twist » \[Katrina Mann,
     « ‹ You're Next! ›: Postwar Hegemony Besieged in Invasion of the
-    Body Snatchers », *Cinema Journal*, Vol. 44, No. 1, automne 2004, p.
+    Body Snatchers », *Cinema Journal*, vol. 44, n° 1, automne 2004, p.
     61\].
 
 [^79]: Katrina Mann, *ibid.*
 
 [^80]: Nancy Steffen-Fluhr, « Women and the Inner Game of Don Siegel's
-    *Invasion of the Body Snatchers* », *Science Fiction Studies*, Vol.
-    11, No. 2, juillet 1984, pp. 139-153.
+    *Invasion of the Body Snatchers* », *Science Fiction Studies*, vol.
+    11, n° 2, juillet 1984, pp. 139-153.
 
 [^81]: Michael Rogin, « *Kiss me Deadly *: Communism, Motherhood and
     Cold War Movies » *in* Michael Rogin, *Ronald Reagan: The Movie,*
@@ -896,13 +893,13 @@ le texte de Finney.
     Angeles/London, University of California Press, 1988 \[1987\], pp.
     236-271.
 
-[^82]: « traditional gender roles » \[Nancy Steffen-Fluhr, *op. cit.*,
+[^82]: « Traditional gender roles » \[Nancy Steffen-Fluhr, *op. cit.*,
     p. 143\].
 
-[^83]: « the heartbeat of the film ». \[Nancy Steffen-Fluhr, *op. cit.*,
+[^83]: « The heartbeat of the film ». \[Nancy Steffen-Fluhr, *op. cit.*,
     p. 140\].
 
-[^84]: Celui-ci tenant à plusieurs reprises de dissuader Becky de le
+[^84]: Miles tenant à plusieurs reprises de dissuader Becky de le
     considérer comme partenaire, soulignant par exemple le fait que les
     docteurs ne sont pas de bons maris et recassant l’échec de son
     premier mariage.
@@ -913,8 +910,9 @@ le texte de Finney.
 [^86]: Les liens qu’entretient le film avec les peurs de son réalisateur
     seront abordées dans la dernière partie de ce travail.
 
-[^87]: La possibilité subsiste car la première version du scenario ayant
-    été terminée le 10 février.
+[^87]: La possibilité d’une édition du roman ultérieure à l’écriture du
+    scénario subsiste car la première version du scenario est terminée
+    le 10 février.
 
 [^88]: « All three met Jack Finney in Mill Valley in Northern California
     in the first week of January 1955 to discuss the film. » \[Al
@@ -943,11 +941,10 @@ le texte de Finney.
     can do is tell what I know. » \[Jack Finney, *Invasion of the Body
     Snatchers*, *op. cit.*, p. 1\].
 
-[^92]: Bien qu’un récit en trois parties pourrait bénéficier d’un
-    *teaser* initial afin d’accrocher un lecteur feuilletant le
-    magazine. Il faut noter que les deuxièmes et troisièmes parties
-    bénéficient elle d’un « résumé » des événements passés par les
-    parties antérieures.
+[^92]: Un récit en trois parties pourrait bénéficier d’un *teaser*
+    initial afin d’accrocher un lecteur feuilletant le magazine. Il faut
+    noter que les deuxièmes et troisièmes parties bénéficient elle d’un
+    « résumé » des événements passés par les parties antérieures.
 
 [^93]: « Remember when you called me once? » \[Jack Finney, *Invasion of
     the Body Snatchers*, *op. cit.*, p. 4\].
@@ -965,8 +962,8 @@ le texte de Finney.
     \[Jack Finney, *Invasion of the Body Snatchers*, *op. cit.*, p.
     21\].
 
-[^98]: Son intention, soit de demander un changement de chambre ou
-    d’aller dormir ailleurs n’est pas précisée dans le texte.
+[^98]: L’intention de Miles, soit de demander un changement de chambre
+    ou d’aller dormir ailleurs n’est pas précisée dans le texte.
 
 [^99]: « We were asleep in less than five minutes, I suppose. I lay, not
     touching Becky, except for an arm around her waist, and she had both
@@ -993,7 +990,7 @@ le texte de Finney.
     cette époque, d’autant plus dans des films de *genre* comme
     *Invasion of the Body Snatchers*.
 
-[^104]: Inédite au film de Siegel.
+[^104]: Scène absente du roman et donc inédite au film de Siegel.
 
 [^105]: « And that littered, closed-up vegetable stand should have told
     me something, too. When I last saw it less than a month ago, it was
@@ -1012,7 +1009,7 @@ le texte de Finney.
     dernier ».
 
 [^110]: « Bazin subscribes to an evolutionary model of the cinema »
-    \[Jennifer Forrest et Leonard R. Koos (éds.), *Dead Ringers: The
+    \[Jennifer Forrest et Leonard R. Koos (éd.), *Dead Ringers: The
     Remake in Theory and Practice*, Albany, State University of New York
     Press, 2002, p. 20\].
 
@@ -1036,7 +1033,7 @@ le texte de Finney.
     vidéo*, était un objet individuel pouvant être acheté et même
     collectionné.
 
-[^115]: « the flow of content across multiple media platforms, the
+[^115]: « The flow of content across multiple media platforms, the
     cooperation between multiple media industries, and the migratory
     behaviour of media audiences who will go almost anywhere in search
     of the kinds of entertainment experiences they want. » \[Henry

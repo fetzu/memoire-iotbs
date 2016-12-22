@@ -27,43 +27,44 @@ dialectique entre ordre et nouveauté formulée par Eco comme
 caractéristique nécessaire à « toute œuvre esthétiquement ‹ bien faite
 › »[^9] dans une conception moderne de la valeur esthétique[^10]. Selon
 Eco, c’est cette dialectique entre innovation et répétition qui définit
-la série ; l’auteur se concentre toutefois sur les aspects de réception
-en plaçant le *consommateur* au centre de son dispositif : c’est au
-lecteur de puiser dans son « encyclopédie intertextuelle »[^11] afin de
-pouvoir juger pleinement de la valeur esthétique de l’œuvre. Cette
-partie propose de déplacer les notions d’innovation et de répétition du
-cadre de la réception, en y substituant celles d’originalité et de
-réflexivité permettant – en plus des effets produits chez le spectateur
-– de considérer la manière dont les divers textes filmiques mettent en
-œuvre cette esthétique moderne, tout en laissant en deçà la notion de
-jugement de valeur esthétique. Cette approche du corpus *Invasion of the
-Body* Snatchers permet en outre de se détacher de la catégorisation
-restrictive du remake qui limite l’intertextualité à la relation
-triangulaire plutôt que de la considérer dans le cadre d’une série de
-six textes[^12]. Cette tension entre réflexivité et originalité peut
-prendre différentes formes et ce travail choisit de se concentrer sur
-cinq d’entre-elles en particulier, chacune opérant à un niveau
-différent : le générique, l’utilisation de la voix off[^13], la
+la série, mais il se concentre toutefois sur les aspects de réception en
+plaçant le *consommateur* au centre de son dispositif. En effet, pour
+Eco, c’est au lecteur de puiser dans son « encyclopédie intertextuelle
+»[^11] afin de pouvoir juger pleinement de la valeur esthétique de
+l’œuvre. Cette partie propose de déplacer les notions d’innovation et de
+répétition du cadre de la réception, en y substituant celles
+d’originalité et de réflexivité permettant – en plus des effets produits
+chez le spectateur – de considérer la manière dont les divers textes
+filmiques mettent en œuvre cette esthétique moderne, tout en laissant en
+deçà la notion de jugement de valeur esthétique. Cette approche du
+corpus *Invasion of the Body* Snatchers permet en outre de se détacher
+de la catégorisation restrictive du remake qui limite l’intertextualité
+à la relation triangulaire plutôt que de la considérer dans le cadre
+d’une série de six textes[^12]. La tension entre réflexivité et
+originalité peut prendre différentes formes et ce travail choisit de se
+concentrer sur cinq d’entre-elles en particulier, chacune opérant à un
+niveau différent : le générique, l’utilisation de la voix off[^13], la
 représentation du cri des pods, la scène dite de *camouflage* et les
 effets provoqués par le déplacement spatial et temporel systématique de
 l’action et les *cameos*. Ces éléments d’analyse permettent de dégager
 le mouvement dialectique de *révérence* et de *détachement* de chaque
-film envers ses précédents : affichant d’une part son appartenance à une
-plus grande série tout en marquant son originalité. Le dernier de ces
-éléments d’analyse pouvant même être perçu comme résolvant la tension de
-par sa problématisation du corpus comme une mise en série plutôt que de
-remakes. Le choix de ces cinq manifestations particulières de cette
-tension repose sur plusieurs facteurs : leur rôle clé dans la narration
-(générique et voix off), dans l’incorporation et la répétition de
-certains motifs (le cri des *pod people*), sur les attentes du
-spectateur dans le cadre de la série (la scène de *camouflage*) et sur
-la place que se forge chaque film dans la série mais aussi dans son
-contexte de production (les déplacements spatio-temporels du récit et
-*cameos*). Si ces motifs sont parfois discutés dans la littérature
-académique relative au film, l’originalité de l’analyse proposée dans
-cette partie est de considérer ces changements comme révélateurs d’un
-mécanisme d’intertextualité mis en place par la série plutôt que de
-considérer uniquement les effets externes qu’elle provoque[^14].
+film envers les précédents : chacun affichant d’une part son
+appartenance à une série plus large tout en marquant son originalité. Le
+dernier de ces éléments d’analyse pouvant même être perçu comme
+résolvant la tension de par sa problématisation du corpus comme une mise
+en série plutôt que de remakes. Le choix de ces cinq manifestations
+particulières de cette tension repose sur plusieurs facteurs, tels que
+leur rôle clé dans la narration (générique et voix off), dans
+l’incorporation et la répétition de certains motifs (le cri des *pod
+people*), sur les attentes du spectateur dans le cadre de la série (la
+scène de *camouflage*) et sur la place que se forge chaque film dans la
+série mais aussi dans son contexte de production (les déplacements
+spatio-temporels du récit et *cameos*). Si ces motifs sont parfois
+discutés dans la littérature académique relative au film, l’originalité
+de l’analyse proposée dans cette partie est de considérer ces
+changements comme révélateurs d’un mécanisme d’intertextualité mis en
+place par la série plutôt que de considérer uniquement les effets
+externes qu’elle provoque[^14].
 
 Le générique, ou comment (re)commencer le film
 ----------------------------------------------
@@ -290,19 +291,19 @@ via un contre champ, son avatar filmique qu’incarne Matthew) dans la
 lignée du pointage de doigt ou du regard d’Elizabeth. La durée très
 courte de la première apparition en voix in du cri et la non agressivité
 relative de la deuxième sont importantes car elles créent les conditions
-spectatorielles pour sa dernière apparition, qui est également
-l’ultime[^47] plan du film. Cette dernière manifestation du cri[^48]
-problématise la tension entre réflexivité et d’originalité du film de
-1978 face â celui de 1956: dans les dernières séquences du film,
-montrant un Matthew vivant entouré de *pod people* menant leur existence
-sans but réel[^49], le spectateur infère que le héros prétend être
-transformé dans un souci de se fondre dans la masse. Or, dans la scène
-finale[^50] durant laquelle Matthew croise une Nancy Bellicec – toujours
-humaine – pensant elle aussi avoir à faire à un humain, le même motif
-formel du cri est utilisé : le plan d’ensemble de Matthew se resserre,
-cette fois-ci par un travelling avant plutôt qu’un zoom, avant que ce
-dernier ne lève le doigt en direction de Nancy et commence à pousser le
-cri. Mais cette fois-ci le cri n’est pas l’objet d’un plan unique très
+spectatorielles pour sa dernière apparition, qui est également l’ultime
+plan[^47] du film. Cette dernière manifestation du cri[^48] problématise
+la tension entre réflexivité et d’originalité du film de 1978 face â
+celui de 1956 : dans les dernières séquences du film, montrant un
+Matthew vivant entouré de *pod people* menant leur existence sans but
+réel[^49], le spectateur infère que le héros prétend être transformé
+dans un souci de se fondre dans la masse. Or, dans la scène finale[^50]
+durant laquelle Matthew croise une Nancy Bellicec – toujours humaine –
+pensant elle aussi avoir à faire à un humain, le même motif formel du
+cri est utilisé : le plan d’ensemble de Matthew se resserre, cette
+fois-ci par un travelling avant plutôt qu’un zoom, avant que ce dernier
+ne lève le doigt en direction de Nancy et commence à pousser le cri.
+Mais cette fois-ci le cri n’est pas l’objet d’un plan unique très
 court : il va durer 18 secondes et s’étendre sur neufs plans jusqu’au
 fondu au noir qui laisse place au générique de fin. La durée longue et
 surtout les quatre plans, en contre-champ, sur Nancy en pleurs[^51] en
@@ -413,7 +414,7 @@ tête ne manquera pas de faire le rapprochement et de comprendre que
 Matthew contribue à l’invasion par les *pod people* et a déjà subi sa
 transformation. La scène finale du film de 1978, enrichie de cette clé
 de lecture, prend alors un double sens : un premier reposant sur son
-originalité[^61] et un deuxième sur sa réflexivité aigue visà-vis du
+originalité[^61] et un deuxième sur sa réflexivité aigue vis-à-vis du
 texte source[^62].
 
 Dans la version de Ferrara, la scène est jouée avec une ressemblance
@@ -534,28 +535,6 @@ précédents, le plaisir d’y reconnaître la persona des acteurs (ou du
 réalisateur) et de créer un lien intertextuel entre deux films de la
 série.
 
-**Remarques**
-
--   Il faut clarifier l’idée de tension entre originalité et réflexivité
-    et ses liens éventuels avec la dialectique entre répétition et
-    variation qui définit la sérialité (selon Umberto Eco). Et il faut
-    aussi formuler de manière plus claire que, ce que vous voulez
-    démontrer, c’est que nous sommes avec ce corpus face à une ***mise
-    en série*** de textes plutôt que face à des ***remakes***. Pour
-    cela, il faut définir plus précisément la différence entre les deux
-    afin que les enjeux de la nuance que vous apportez soit productive.
-    (peut-être le faites-vous dans les premières parties, mais cela vaut
-    la peine de le rappeler en cours de route). Votre hypothèse doit
-    servir de fil rouge (ou de colonne vertébrale) à l’analyse. (vous
-    pouvez utiliser les thèses de Benassi citées ci-dessous)
-
--   Cela pourrait vous aider de vous référer aux théories de
-    l’intertextualité, ainsi que des thèses d’Umberto Eco sur
-    l’esthétique post-moderne où la sérialité est centrale. La mise à
-    l’écart des théories de l’adaptation doit aussi être davantage
-    justifiée car on pourrait dans ces cas parler de fidélité à l’esprit
-    et non pas à la lettre du texte matrice.
-
 [^1]: *Invasion of the Body Snatchers* (*L'invasion des profanateurs de
     sépultures*, Don Siegel, 1956).
 
@@ -568,18 +547,19 @@ série.
 [^4]: *The Invasion* (*Invasion*, Oliver Hirschbiegel, 2007).
 
 [^5]: Thomas Leitch, « Twice-Told Tales: Disavowal and the Rhetoric of
-    the Remake » *in* Jennifer Forrest et Leonard R. Koos (éds.), *Dead
+    the Remake » *in* Jennifer Forrest et Leonard R. Koos (éd.), *Dead
     Ringers: The Remake in Theory and Practice*, Albany, State
     University of New York Press, 2002, p. 39.
 
-[^6]: Et pour lequel ils payent des droits d’adaptation.
+[^6]: Histoire pour laquelle les films payent des droits d’adaptation.
 
 [^7]: La tension ne prenant pas uniquement forme dans la réception du
     film par un spectateur, mais déjà dans sa création puis dans les
     discours para-filmiques.
 
-[^8]: Ce qui est le cas pour les spectateurs n’ayant pas vus un (ou
-    plusieurs) des films précédents.
+[^8]: Les spectateurs n’ayant pas vus un (ou plusieurs) des films
+    précédents perçoivent *de facto* le film comme une œuvre
+    indépendante.
 
 [^9]: Umberto Eco*, op. cit.*, p. 18.
 
@@ -606,7 +586,8 @@ série.
     révélatrices des conditions politiques, sociales, économiques de
     leur époque de production.
 
-[^15]: Dans ce cas, d’effets spéciaux *pratiques* pro-filmiques.
+[^15]: Dans ce cas, il est question d’effets spéciaux *pratiques*
+    pro-filmiques.
 
 [^16]: Kathleen Loock, « The Return of the Pod People: Remaking Cultural
     Anxieties in *Invasion of the Body Snatchers* », in Constantine
@@ -614,7 +595,7 @@ série.
     Productions: Remake/Remodel*, Londres, Palgrave MacMillan, 2012, pp.
     132-133.
 
-[^17]: Elle définit le même film par deux genre contradictoires –
+[^17]: Look définit le même film par deux genre contradictoires –
     « mélodrame familial » (« family melodrama ») et « film d’action de
     dur » (« tough-talk action film ») – par le biais de deux citations
     d’articles aux approches radicalement différentes. \[Kathleen Loock,
@@ -626,11 +607,11 @@ série.
     contemporain.
 
 [^19]: Roger Odin, « L’entrée du spectateur dans la fiction », *in*
-    Jaques Aumont et Jean-Louis Leutrat (éds.), *Théorie du film*,
-    Paris, Albatros, 1980, pp. 198-213.
+    Jaques Aumont et Jean-Louis Leutrat (éd.), *Théorie du film*, Paris,
+    Albatros, 1980, pp. 198-213.
 
 [^20]: Alain Boillat and Laurent Guido, « Mais im Bundeshuus, un
-    documentaire au service du récit », *Décadrages*, No. 3, printemps
+    documentaire au service du récit », *Décadrages*, n° 3, printemps
     2004, pp. 86-97.
 
 [^21]: Roger Odin, *op. cit.*, p. 204.
@@ -638,32 +619,33 @@ série.
 [^22]: Christian Metz, cité par Roger Odin, *op. cit.*, pp. 204-205.
 
 [^23]: Voir Christian Metz, « Le film de fiction et son spectateur »,
-    *Communications*, Vol. 23, No. 1, 1975, pp. 108-135.
+    *Communications*, vol. 23, n° 1, 1975, pp. 108-135.
 
-[^24]: Sous forme d’inscriptions textuelles informant le spectateur sur
-    l’aspect de production du film.
+[^24]: Informations livrées sous la forme d’inscriptions textuelles
+    informant le spectateur sur l’aspect de production du film.
 
-[^25]: Le spectateur n’étant pas dupe quant à l’origine truquée de ces
+[^25]: Le spectateur n’est pas dupe quant à l’origine truquée de ces
     images.
 
-[^26]: Identique à celle du film de Siegel.
+[^26]: Fonction dentique à celle du film de Siegel.
 
 [^27]: Le générique *animé* étant en réalité placé à la fin du film.
 
 [^28]: La navette spatiale de l’agence spéciale américaine (NASA).
 
-[^29]: Ou, plus précisément dans le cas du film de 2007, le titre.
+[^29]: Le film de 2007 n’ayant pas de générique de début à proprement
+    dit, il utilise plus précisément le titre.
 
 [^30]: Aucune connaissance encyclopédique au sens d’Eco n’est nécessaire
     pour comprendre le contenu sémantique de ces génériques, le seul
     avantage accordé au spectateur disposant de ces connaissances étant
     le plaisir d’en constater les différences.
 
-[^31]: Informé par une illustration détaillée de son processus (1978) ou
-    de ses origines précises (2007).
+[^31]: Spectateur qui est informé par une illustration détaillée de son
+    processus (1978) ou de ses origines précises (2007).
 
-[^32]: Qui, dans la version finale du film, est en réalité une voix *in*
-    qui opère un glissement dans le *off* au début de l’analepse.
+[^32]: Voix off qui est en réalité une voix *in* qui opèrant un
+    glissement dans le *off* au début de l’analepse.
 
 [^33]: Le film de Kaufman, en montrant les images de l’invasion dans le
     générique, donne par exemple au spectateur des informations dont ne
@@ -675,7 +657,7 @@ série.
 [^35]: « You’re next ! » \[Al LaValley (éd.), *op.cit.*, p. 107\].
 
 [^36]: Michel Chion, « Les enfants du remake. Sur deux versions des ‹
-    Body Snatchers › », *Positif*, No. 459, mai 1999, p. 101.
+    Body Snatchers › », *Positif*, n° 459, mai 1999, p. 101.
 
 [^37]: Chion présente par exemple le film de Ferrara comme « le moins
     bon de la série » afin de justifier le fait qu’il n’en parlera que
@@ -684,9 +666,10 @@ série.
 [^38]: « They get you when you sleep. But you can only stay awake for so
     long. » 
 
-[^39]: Le FBI dans le film de Siegel, l’armée dans celui de Ferrara. Une
-    armée qui est le vecteur même de la contamination, et en laquelle on
-    ne doit pas forcément faire confiance.
+[^39]: Autorité représentée par le FBI dans le film de Siegel et l’armée
+    dans celui de Ferrara. Une armée qui est le vecteur même de la
+    contamination, et en laquelle on ne doit pas forcément faire
+    confiance.
 
 [^40]: Le son utilisé dans cette séquence est un extrait du dialogue
     d’une scène précédente entendue par le spectateur et Carol ; ce qui
@@ -704,8 +687,8 @@ série.
     utilisé pour illustrer l’état mental de l’héroïne réveillée depuis
     plusieurs jours et sous l’effet de doses excessives d’amphétamine.
 
-[^43]: Cri choisi pour son iconicité dans la série, statut sera discutée
-    plus loin dans cette partie et évoqué dans la conclusion.
+[^43]: Un cri choisi pour son iconicité dans la série, son statut sera
+    discuté plus loin dans cette partie et évoqué dans la conclusion.
 
 [^44]: « He’s in here ! He’s in here ! Get him ! Get him ! » \[Al
     LaValley (éd.), *op. cit.*, p. 102\].
@@ -713,35 +696,40 @@ série.
 [^45]: « *She turns and looks toward the camera* ». \[Al LaValley (éd.),
     *ibid.*\].
 
-[^46]: « *(screaming furiously)* » \[Al LaValley (éd.), *ibid.*\].
+[^46]: « *(Screaming furiously)* » \[Al LaValley (éd.), *ibid.*\].
 
-[^47]: Ou, plus précisément, les neuf derniers plans du film.
+[^47]: La dernière apparition du cri s’étend plus exactement sur 9
+    plans.
 
-[^48]: En voix in et off.
+[^48]: Cri présent voix in (dans le champ et hors-champ lors des plans
+    en contre-champ).
 
 [^49]: Les lieux de travail de Matthew sont montrés comme remplis de
     *pod people* inactifs regardant le vide.
 
-[^50]: Montée comme une suite de champs-contre champs.
+[^50]: Scène finale montée comme une suite de champs-contre champs sur
+    Matthew et Nancy.
 
-[^51]: Dont les cris, humains cette fois-ci, vont se mélanger à ceux de
-    Matthew.
+[^51]: Les cris de Nancy, humains cette fois-ci, vont se mélanger à ceux
+    d’un Matthew *transformé*.
 
-[^52]: Qui, en plus d’aller à l’encontre de son texte source et du film
-    qu’il refait, va également à l’encontre des attentes des spectateurs
-    en termes de clôture d’un film hollywoodien.
+[^52]: Un échec qui, en plus d’aller à l’encontre de son texte source et
+    du film qu’il refait, va également à l’encontre des attentes des
+    spectateurs en termes de clôture d’un film hollywoodien.
 
 [^53]: « Ghoulishly effective as this bit is, it’s taken from Kaufman’s
     version. ». \[Owen Gleiberman, « Body Snatchers », *Entertainment
     Weekly*, 11 février 1994\].
 
-[^54]: Et, par extension, de 1993.
+[^54]: Également, par extension, à celui de 1993 qui utilise aussi le
+    motif du cri.
 
-[^55]: Son illustré par un gros plan montrant clairement le freinage
-    d’urgence et les étincelles qu’il produit.
+[^55]: Son de frottement illustré par un gros plan montrant clairement
+    le freinage d’urgence et les étincelles qu’il produit.
 
-[^56]: Par des bruits de machines, mais rejoignant le discours envers
-    des *pod people* comme race inhumaine de par leur manque d’émotions.
+[^56]: Substitution du cri pour des bruits de machines, mais rejoignant
+    le discours envers des *pod people* comme race inhumaine de par leur
+    manque d’émotions.
 
 [^57]: L’enjeu de la scène reposant sur la capacité à se fondre dans la
     masse malgré ses sentiments individuels.
@@ -751,26 +739,27 @@ série.
     film concernant la conformité et l’autorité (policière, mais aussi
     scientifique). Pour une discussion de ces questions d’autorité, voir
     David Lavery, « Departure of the Body Snatchers, or the Confessions
-    on a Carbon Chauvinist », *The Hudson Review*, Vol. 39, No. 3,
+    on a Carbon Chauvinist », *The Hudson Review*, vol. 39, n° 3,
     automne 1986, pp. 383-404 et Charles T. Gregory, « The Pod Society
-    Versus the Rugged Individualists », *Journal of Popular Film*, Vol.
-    1, No. 1, hiver 1972, pp. 8-14.
+    Versus the Rugged Individualists », *Journal of Popular Film*, vol.
+    1, n° 1, hiver 1972, pp. 8-14.
 
-[^59]: « we’re with you, and it’s not so bad » \[Jack Finney, *Invasion
+[^59]: « We’re with you, and it’s not so bad » \[Jack Finney, *Invasion
     of the Body Snatchers*, *op. cit.*, p. 191\].
 
-[^60]: Qui, contrairement aux autres plans, n’est pas statique : il
-    commence sur un plan serré pour finir sur un plan d’ensemble via un
-    travelling arrière ; le mouvement inverse que celui opéré par la
+[^60]: Insert qui, contrairement aux autres plans, n’est pas statique :
+    il commence sur un plan serré pour finir sur un plan d’ensemble via
+    un travelling arrière ; le mouvement inverse que celui opéré par la
     caméra lors des autres instances du cri.
 
 [^61]: La scène, et le retournement final, n’ayant jamais été présentés
     dans une version antérieure du récit.
 
-[^62]: Qui récompense le spectateur connaissant son roman source.
+[^62]: Réflexivité qui, reconnue, récompense le spectateur connaissant
+    son roman source.
 
-[^63]: Fille du général commandant la base (porte-parole des *pod
-    people* dans la version de Ferrara) : le film joue ici de
+[^63]: Jenn est la fille du général commandant la base (porte-parole des
+    *pod people* dans la version de Ferrara) : le film joue ici de
     l’inversion de la figure d’autorité de Finney/Siegel, en plaçant une
     adolescente rebelle (mais quand même directement liée à l’autorité
     suprême de la base militaire) dans la position de l’interrogateur.
@@ -786,7 +775,8 @@ série.
 [^65]: « We didn’t look back. » \[Jack Finney, *Invasion of the Body
     Snatchers*, *op. cit.*, p. 191\].
 
-[^66]: Seule, cette fois ci.
+[^66]: Contrairement aux autres films, l’héroïne (Carol) se retrouve
+    seule dans la scène de camouflage du film de 2007.
 
 [^67]: Le mécanisme de transformation, contrairement à celui des films
     précédents, repose sur la contamination des humains par un virus
@@ -801,17 +791,18 @@ série.
     du film sur le monde post-11 septembre. Aspect sur lequel ce travail
     ne peut, de par le choix de son approche et sa taille, pas élaborer.
 
-[^70]: Qui pourrait être supprimée du film (ou remplacée par une
-    ellipse) sans que sa continuation n’en soit affectée.
+[^70]: Scène de camouflage qui pourrait être supprimée du film (ou
+    remplacée par une ellipse) sans que sa continuation n’en soit
+    affectée.
 
-[^71]: Mais variable, comme il en a été question dans la partie
-    précédente. Bien que chaque film s’affirme comme étant « Basé sur
-    *The Body Snatchers* de Jack Finney », première version du roman
+[^71]: Un ancrage toutefois variable, comme il en a été question dans la
+    partie précédente. Bien que chaque film s’affirme comme étant « Basé
+    sur *The Body Snatchers* de Jack Finney », première version du roman
     situant l’action en 1955 en Californie.
 
 [^72]: Par exemple Natania Meeker et Antónia Szabari, « From the Century
     of the Pods to the Century of the Plants: Plant Horror, Politics,
-    and Vegetal Ontology », *Discourse*, Vol. 34, No. 1, hiver 2002, pp.
+    and Vegetal Ontology », *Discourse*, vol. 34, n° 1, hiver 2002, pp.
     45-51 ou M. Keith Booker, *Alternate Americas: Science Fiction Films
     and American Culture*, Westport CT/London, Praeger, 2006, pp. 71-72.
 
@@ -823,7 +814,7 @@ série.
     Productions: Remake/Remodel*, Londres, Palgrave MacMillan, 2012, pp.
     122-144.
 
-[^75]: « the boundaries between the remake and the sequel seem to blur.
+[^75]: « The boundaries between the remake and the sequel seem to blur.
     » \[Kathleen Loock, « The Return of the Pod People: Remaking
     Cultural Anxieties in *Invasion of the Body Snatchers* », *op.
     cit.*, p. 138\].
@@ -850,28 +841,31 @@ série.
     services de propreté et d’hygiène de la ville, à une adolescente et
     finalement à une psychiatre.
 
-[^81]: En référence au personnage de Manny/Danny Kaufman, qui partage le
-    même patronyme que le réalisateur du film de 1978. Barry Keith
-    Grant, *op. cit.*, p. 95.
+[^81]: Grant fait ici référence au personnage de Manny/Danny Kaufman,
+    qui partage le même patronyme que le réalisateur du film de 1978.
+    Barry Keith Grant, *op. cit.*, p. 95.
 
-[^82]: Mécanisme qui est plutôt la norme dans remakes et suites.
+[^82]: Un mécanisme qui est plutôt la norme dans remakes et suites.
 
-[^83]: Dans le cas de Matthew, qui dans le retournement final du film de
-    1978 se révèle être devenu une *pod person*.
+[^83]: Plus aucune chance n’est accordée à Matthew, qui dans le
+    retournement final du film de 1978 se révèle être devenu une *pod
+    person*.
 
-[^84]: Joué une deuxième fois plus tard dans le film lorsqu’un chauffeur
-    de taxi est incarné par Don Siegel lui-même.
+[^84]: Un clin d’œil qui est joué une deuxième fois plus tard dans le
+    film lorsqu’un chauffeur de taxi est incarné par Don Siegel
+    lui-même.
 
-[^85]: Sur les conditions de post-production du film ayant conduit à
-    l’ajour du récit-cadre.
+[^85]: Un spectateur informé sur les conditions de post-production du
+    film ayant conduit à l’ajour du récit-cadre.
 
-[^86]: C’est dans sa direction que Matthew pointe son doigt accusateur à
-    la fin du film.
+[^86]: Veronica Cartwright incarne Nancy dans le film de 1978,
+    personnage vers lequel Matthew pointe son doigt accusateur à la fin
+    du film.
 
-[^87]: Similitude qui peut aussi s’expliquer d’un point de vue
-    économique, puisqu’il n’est pas impossible que Robert H. Solo aie
-    bénéficié de l’exclusivité sur les droits d’adaptation du roman de
-    Finney sur une période de 15-20 ans.
+[^87]: Le fait que Robert H. Solo ait produit les films de 1978 et 1993
+    peut aussi s’expliquer d’un point de vue économique, puisqu’il n’est
+    pas impossible qu’il aie bénéficié de l’exclusivité sur les droits
+    d’adaptation du roman de Finney sur une période de 15-20 ans.
 
 [^88]: La pratique de faire apparaître acteurs ou personnages dans un
     film ou une série télévision relevant d’une pratique post-moderne :
