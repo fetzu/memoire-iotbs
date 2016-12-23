@@ -86,8 +86,6 @@ of daylight presses down on us.
 
 ***Ploughshares*, vol. 6, N°2, 1980, pp. 56-57.**
 
- {#section .ListParagraph}
-
 Remerciements {#remerciements .ListParagraph}
 =============
 
@@ -97,7 +95,7 @@ de mémoire.
 
 En premier lieu je tiens à remercier Mireille Berton, directrice de ce
 mémoire, pour sa patience, ses relectures attentives et ses remarques
-toujours pertinentes.
+pertinentes.
 
 Ce travail de mémoire clôturant un parcours académique enrichissant, je
 tiens également à remercier tout le corps enseignant des Universités de
@@ -145,8 +143,7 @@ II\. Mauvaises graines : de la nouvelle sérialisée au film 27
 3\. (The Invasion of) The Body Snatchers comme une série littéraire
 parallèle 42
 
-III\. Le remake comme source de tension entre originalité et réflexivité
-47
+III\. Le remake comme dialectique entre originalité et réflexivité 47
 
 1\. Le générique, ou comment (re)commencer le film 49
 
@@ -168,7 +165,7 @@ IV\. Le paratexte : des discours à la canonisation 65
 
 Conclusion 81
 
-Annexes 88
+Annexes 87
 
 Bibliographie 105
 
@@ -177,7 +174,7 @@ Filmographie 119
 **\
 **
 
- {#section-1 .ListParagraph}
+ {#section .ListParagraph}
 
 Introduction générale {#introduction-générale .ListParagraph}
 =====================
@@ -233,7 +230,7 @@ répétitions, en guise de démonstration il fournit des exemples de types
 de répétitions répondant à ces critères : le retake, le remake, la
 série, la saga et l’intertextualité. Les définitions proposées par Eco
 de ces cinq types de répétitions sont parfois imprécises et peuvent
-conduite à des débordement d’une catégorie à l’autre. Par exemple, le
+conduire à des débordements d’une catégorie à l’autre. Par exemple, le
 remake est défini comme consistant « à raconter de nouveau une histoire
 qui a eu du succès »[^20] et la série comme fonctionnant « sur une
 situation fixe et un nombre restreint de personnages centraux immuables,
@@ -242,19 +239,19 @@ personnages secondaires doivent donner l'impression que la nouvelle
 histoire diffère des précédentes, alors qu'en fait, la trame narrative
 ne change pas. »[^21]. Le remake tel que défini par Eco est
 systématiquement basé sur une « histoire qui a eu du succès », sans que
-soit précisée la modalité de ce succès : or, l’histoire du cinéma
-regorge d’exemples de remakes basés sur un film n’ayant connu aucun
+soit précisée la modalité de ce succès. Or, l’histoire du cinéma regorge
+d’exemples de remakes basés sur un film n’ayant connu aucun
 *succès*[^22]. En deçà du critère imprécis de succès, la différence
 entre le remake et la série réside – selon Eco – dans les changements de
 personnages secondaires : or, un remake pourrait conserver la même trame
 narrative que son récit matriciel en y ajoutant de nouveaux personnages
-secondaires. Selon las catégories développées par Eco, un remake peut
+secondaires. Selon les catégories développées par Eco, un remake peut
 également remplir les critères de classification de la « série » ; ce
 travail propose de problématiser cette classification en la confrontant
-à d’autres qui seront discutées dans la première partie. Il sera
-également question de dialogue intertextuel au sein du corpus de
-textes[^23], Eco le définit comme « le phénomène par lequel un texte
-donné fait écho à des textes antérieurs. »[^24]. Bien que l’auteur
+à d’autres typologies qui seront discutées dans la première partie. Il
+sera également question de dialogue intertextuel au sein du corpus de
+textes[^23] que Eco le définit comme « le phénomène par lequel un texte
+donné fait écho à des textes antérieurs »[^24]. Bien que l’auteur
 présente le dialogue intertextuel comme un type de répétition, il sera
 question de démontrer comment ce dernier a lieu dans la série de films
 de compose le corpus analysé.
@@ -1508,8 +1505,8 @@ source demeure inchangée dans sa forme[^298], le film – et dans une
 certaine mesure ses remakes – impliquent des changements textuels dans
 le texte de Finney.
 
-Le remake comme source de tension entre originalité et réflexivité
-==================================================================
+Le remake comme dialectique entre originalité et réflexivité
+============================================================
 
 À la différence des changements de médiums opérés au récit de Finney
 lors de son adaptation au cinéma et sa publication en roman, les
@@ -2835,7 +2832,9 @@ Park*.
 femmes dans la petite communauté de Stepford dans *The Stepford Wives*
 (1975) et son remake de 2004 (avec... Nicole Kidman).
 
-[]{#_Toc470213915 .anchor}BIBLIOGRAPHIE
+[]{#_Toc470213915 .anchor}
+
+BIBLIOGRAPHIE
 
 ***Sources primaires :***
 
@@ -4848,7 +4847,8 @@ Auto Erotic Assimilation », 9 aout 2015.
 [^323]: Le spectateur n’est pas dupe quant à l’origine truquée de ces
     images.
 
-[^324]: Fonction dentique à celle du film de Siegel.
+[^324]: Une fonction informative qui est identique à celle du film de
+    Siegel.
 
 [^325]: Le générique *animé* étant en réalité placé à la fin du film.
 
