@@ -1,0 +1,40 @@
+## Présentation du mémorant (15/20 minutes environ):
+
+### problématique du mémoire
+D'une part, comment une série de remakes problèmatisent leur relation avec le oeuvre matricielle.
+D'autre part, chercher/déceler comment l'acte de la répétition sérielle (de par le phénomène précis du remake) permet la canonisation d'une oeuvre cinématographique.
+
+
+### Méthode utilisée
+Se baser sur une série précise (Invasion of the Body Snatchers), dont le premier film (et, discutablement, le remake de 1978) sont communément inscrits dans certains canons (National Film Registry, Science-fiction, horreur) malgré une sortie "sous anonymat".
+**Pourquoi IotBS?**: Les films bénéficiant de plusieurs remakes ne sont pas communs, et d'autant moins à Hollywood (exemple de Robin des Bois (_11 remakes!_), mais basé sur une histoire/légende déjà racontée sous d'autres formes...). IotBS est un cas d'autant plus particulier qu'il s'agit d'un film de genre (et de série B) basé sur un feuilleton publié dans un magazine.
+**Plan:** 
+1. Bilan Historiographique (le "canon", la réception des films, un retour sur certaines questions communément analysées autour des films). _=> Voir comment les discours autour du/des films illustrent d'une part leurs statuts changeants (Siegel) et comment celui-ci est justifié._
+2. "Mauvaises graines": l'adaptation du feuilleton au film, l'adaptation du feuilleton au roman, les rééditions comme série de remakes littéraires parallèle. _=> Voir comment la première adaptation (et le passage sous la forme romanesque) amorce déjà le dialogue intertextuel, et comment les publications successives montrent une recherche de convergence médiatique (! néologisme au moment de la re-publication du roman)._
+3. Le remake comme dialectique entre originalité et réflexivité: analyse des textes filmiques à travers 5 manifestations de la tension entre originalité et réflexivité: le générique, la voix off, le motif du cri, une scène particulière (camouflage) et les déplacements spacio-temporels/caméos. Finalement se pose la question, avec cette lecture, si la série est réellement une série de remakes ou plutôt une série de sequels du même monde diététique. _=> Considérer IotBS comme un mode diététique cohérent dont chaque itération répète la même formule matricielle en y ajoutant des considérations socio-politico-historiques contemporaines..._
+4. Le paratexte: d'autres facteurs de canonisation également liés au remakes; le discours des auteurs, la diffusion des films et la place des films dans les discours académiques. _=> Défendre que les discours autour des films (auteurs et académiques) et son historique de diffusion/édition sont des vecteurs de canonisation dépendant de l'existence des remakes consécutifs._
+
+
+### Conclusions/résultat de la recherche
+Les remakes ont contribué à la canonisation du film de par la répétition: chaque génération depuis 1956 à "eu droit" à sa version contemporaine de l'histoire de Finney. Les remakes successifs ont permis au film de répéter certains motifs du film et de faciliter leur entrée dans l'imaginaire collectif américain; mais ils ont également "poussé" certains académiciens à s'intéresser à ces films et favorisé des auteurs (sphères d'influence) à se prononcer sur ceux-ci.
+
+
+### Difficultés rencontrées
+- La "dispersion" des discours théoriques sur le remake (qui ne fait pas office de beaucoup d'études académiques dédiées, mais dont on retrouve des ébauches de théories dans certains articles discutants des remakes). 
+- L'accès à certaines archives (par exemple dossiers de production des films), qui aurait permis d'approfondir l'aspect "industriel" du remake. 
+- La qualité variable des articles liés au(x) film(s). 
+
+
+### Quelles interrogations subsistent ?
+Le cas de IotBS est-il unique (remake et canonisation), ou retrouve-t-on le même mécanisme dans d'autres séries filmiques?
+
+
+### Quels sont les développements possibles ?
+À l'aune d'une recrudescence de la sérialité (particulièrement trans-médiale; films et séries TV (Fargo), film et internet (ARG)...), il serait intéressant de tenter d'établir un modèle épidémiologique basé sur les théories de Dawkins, Blackmore et Sperber sur les "memes" et la transmission naturelle de la culture. Un parallèle peut aussi être dressé dans le cadre de l'économie: sur quels critères se basent les producteurs qui choisissent une oeuvre à refaire? Le modèle employé par exemple par Netflix - qui tente de scientifiser le tout - est il signe d'une possibilité de "modélisation" des critères de production du remake?
+
+
+### Quelles sont les limites du travail proposé ? (autocritique)
+- **Dans le choix du sujet/corpus:** Se base sur un cas très particulier et pour des raisons de "taille", se limite à un aspect bien précis (le rôle du remake dans la canonisation) en laissant de côté d'autres aspects "importants" ou "intéressants" de la série (son contexte socio-historique, par exemple); le corpus aurait aussi pu bénéficier à s'élargir pour inclure d'autres séries de remakes (par exemple Quartermass)...
+- **Dans la définition du canon:** le partie abordant la définition du canon est assez incomplète et s'intéresse à des définitions existantes sans chercher à la préciser (on aurait pu approfondir cette partie, et puiser dans des définitions du canon extérieures au cinéma).
+- **Dans l'analyse des films:** un découpage systématique de la "structure narrative" (ie: le récit matriciel) du feuilleton/roman et des versions film aurait pu apporter des éléments supplémentaires pour l'analyse.
+- **La faille générale du travail:** chercher à expliquer un processus d'un phénomène trop peu précis à travers une multitude de facteurs (dont une partie ne peuvent pas être considérés pleinement dans beaucoup plus de recherches/détails).
