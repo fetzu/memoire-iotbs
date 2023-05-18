@@ -1,6 +1,6 @@
 # Master's Thesis - Mémoire de master
 ```
-This is a true commit (his)tory. 
+This is a true commit (hi)story. 
 
 The events depicted in this repo took place in Switzerland in 2016. 
 At the request of the copyright holders, some files have been filter'd out and the commit history rewritten.
